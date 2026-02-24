@@ -2099,3 +2099,53 @@
     }
   ]
 }
+//arepitas de mini maiz
+{
+  "title": "Arepitas Mini de Maíz al Horno",
+  "shortDescription": "Pequeñas arepas horneadas hechas con harina de maíz, bajas en grasa al evitar fritura. Apta para diabéticos tipo 2 en porciones moderadas. Hipertensos deben controlar la sal añadida.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/arepitas-r210",
+  "categoryIds": [4],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Harina de maíz", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Agua tibia", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 3 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Precalienta el horno a 180°C.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 2,
+      "description": "Mezcla la harina de maíz con la sal en un recipiente.",
+      "timeSeconds": 120
+    },
+    {
+      "stepOrder": 3,
+      "description": "Agrega el agua tibia poco a poco hasta formar una masa suave.",
+      "timeSeconds": 240
+    },
+    {
+      "stepOrder": 4,
+      "description": "Forma pequeñas arepitas y colócalas en una bandeja ligeramente engrasada.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 5,
+      "description": "Hornea durante 20 minutos, volteando a la mitad del tiempo.",
+      "timeSeconds": 1200
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retira del horno y deja reposar 5 minutos antes de servir.",
+      "timeSeconds": 300
+    }
+  ]
+}
