@@ -1,0 +1,1886 @@
+//arro con pollo
+{
+  "title": "Arroz con Pollo",
+  "shortDescription": "Plato tradicional colombiano, completo y balanceado, ideal para el almuerzo familiar. Contiene proteína, cereales y vegetales, con preparación sencilla.",
+  "servings": 6,
+  "difficultyId": 1,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/arroz-con-pollo",
+  "categoryIds": [2, 3],
+  "flavorIds": [1],
+  "ingredients": [31,56,57,3,12,47,34,58,8,50,24,51,7
+  "1 pechuga de pollo sin piel (450 g)",
+  "3 sobres de CALDO DE GALLINA MAGGI® DESMENUZADO (27 g)",
+  "4 tazas de agua (1000 ml)",
+  "2 cucharadas de aceite (28 g)",
+  "1/2 cebolla cabezona mediana finamente picada (45 g)",
+  "2 tomates rojos finamente picados sin piel y sin semilla (245 g)",
+  "1/2 pimentón rojo finamente picado (40 g)",
+  "1 diente de ajo finamente picado (3 g)",
+  "1/4 de libra de arveja (125 g)",
+  "1 zanahoria pequeña pelada y cortada en cubos pequeños (50 g)",
+  "1/4 de libra de habichuelas picadas (125 g)",
+  "1 cucharadita de color (5 g)",
+  "1/2 libra de arroz (250 g)",
+  "1 1/2 tazas de líquido de cocción de la pechuga"
+],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Coloca la pechuga de pollo en una olla con agua y añade condimentos básicos (como caldo desmenuzado o sal). Cocina a fuego medio tapado durante 15 minutos o hasta que esté bien cocida.",
+      "timeSeconds": 900,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Retira la pechuga de la olla y deja enfriar unos minutos. Reserva el líquido de cocción que servirá como base para el arroz, ya que contiene los sabores concentrados de los condimentos.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Desmecha la pechuga de pollo con ayuda de un tenedor y reserva para integrarla al arroz más adelante.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "En otra olla, calienta aceite a fuego medio. Sofríe los vegetales junto con condimentos aromáticos (como ajo picado y cebolla) hasta que estén tiernos y fragantes, aproximadamente 3-5 minutos.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Agrega los demás condimentos de sabor (como pimentón y color) y mezcla bien. Luego incorpora el arroz crudo y revuelve para que se impregne de los sabores durante 1-2 minutos.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Vierte el líquido de cocción de la pechuga reservado sobre el arroz. Mezcla suavemente y cocina a fuego medio hasta que el arroz absorba la mayor parte del líquido, aproximadamente 10 minutos. Ajusta la sal o condimentos al gusto si es necesario.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Incorpora el pollo desmechado encima del arroz sin revolver, tapa la olla y reduce el fuego al mínimo. Cocina por 30 minutos más para que los sabores se integren y el arroz y vegetales queden tiernos.",
+      "timeSeconds": 1800,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 8,
+      "description": "Retira la olla del fuego y mezcla suavemente el arroz con el pollo y los vegetales, asegurándote de distribuir bien los sabores de los condimentos.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 9,
+      "description": "Sirve en porciones iguales y acompaña con vegetales frescos al gusto, como rodajas de tomate, tiras de lechuga o aguacate. Puedes ajustar condimentos al servir según preferencias individuales.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//caldo de costilla
+  {
+  "title": "Caldo de Papa con Costilla",
+  "shortDescription": "Caldo tradicional colombiano de papa y costilla de res magra, reconfortante y lleno de sabor. Ideal para desayunos o almuerzos familiares, acompañado de pan o arepas.",
+  "servings": 4,
+  "difficultyId": 1,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/caldo-de-costilla",
+  "categoryIds": [1, 2],
+  "flavorIds": [1],
+  "ingredients": [
+    {
+      "ingredientId": 1,
+      "name": "agua"
+    },
+    {
+      "ingredientId": 2,
+      "name": "cubo de caldo de costilla"
+    },
+    {
+      "ingredientId": 3,
+      "name": "costilla de res"
+    },
+    {
+      "ingredientId": 4,
+      "name": "papa"
+    },
+    {
+      "ingredientId": 5,
+      "name": "cebolla larga"
+    },
+    {
+      "ingredientId": 6,
+      "name": "cilantro"
+    }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Coloca el agua en una olla a presión y añade el cubo de caldo de costilla. Mezcla ligeramente para disolver el cubo.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega los trozos de costilla de res magra al agua con caldo. Asegúrate de que queden sumergidos y cierra la olla a presión.",
+      "timeSeconds": 60,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Lleva la olla a fuego alto y cocina la costilla por 20 minutos. Durante la cocción, si aparece espuma en la superficie, retírala con una cuchara para obtener un caldo más claro.",
+      "timeSeconds": 1200,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Destapa la olla con cuidado. Verifica que la carne esté parcialmente cocida y agrega las papas cortadas en trozos grandes.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Cocina a fuego medio sin tapa por 15 minutos o hasta que las papas estén tiernas y se deshagan ligeramente en el caldo.",
+      "timeSeconds": 900,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Sirve el caldo caliente en platos hondos. Coloca encima la cebolla larga finamente picada y decora con cilantro fresco.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//bandeja paisa
+{
+  "title": "Bandeja Paisa",
+  "shortDescription": "Plato típico de Antioquia, Colombia, caracterizado por su abundancia y variedad de ingredientes. Contiene fríjoles, carne, chorizo, tocino, plátano, arroz, huevo y aguacate, preparado con sabor y tradición.",
+  "servings": 6,
+  "difficultyId": 3,
+  "licenseName": "aratiendas",
+  "licenseUrl": "https://aratiendas.com/blog/recetas/ingredientes-de-la-bandeja-paisa-y-el-pasos-a-paso/",
+  "categoryIds": [2, 3],
+  "flavorIds": [1],
+  "ingredients": [
+    {"ingredientId": 1, "name": "fríjol"},
+    {"ingredientId": 2, "name": "tomate"},
+    {"ingredientId": 3, "name": "cebolla larga"},
+    {"ingredientId": 4, "name": "cebolla cabezona"},
+    {"ingredientId": 5, "name": "chorizo"},
+    {"ingredientId": 6, "name": "carne molida"},
+    {"ingredientId": 7, "name": "tocino"},
+    {"ingredientId": 8, "name": "plátano verde"},
+    {"ingredientId": 9, "name": "arroz"},
+    {"ingredientId": 10, "name": "huevo"},
+    {"ingredientId": 11, "name": "aguacate"},
+    {"ingredientId": 12, "name": "cubo de caldo de costilla"},
+    {"ingredientId": 13, "name": "sal"},
+    {"ingredientId": 14, "name": "pimienta"},
+    {"ingredientId": 15, "name": "color"},
+    {"ingredientId": 16, "name": "hierbas"},
+    {"ingredientId": 17, "name": "aceite"}
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Remoja los fríjoles en agua desde la noche anterior. En una olla pitadora, agrega los fríjoles con sal, pimienta, tomillo, laurel, cebolla larga y tres tazas de agua. Cocina tapado por 30 minutos, evitando que se sequen.",
+      "timeSeconds": 1800,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Prepara el guiso: pica la cebolla cabezona y sofríe en aceite hasta que esté transparente. Agrega el tomate picado, mezcla bien y añade color, cubo de caldo de costilla, sal, pimienta y hierbas al gusto. Cocina unos minutos y reserva.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Cuando los fríjoles estén listos, retira las hierbas y añade el guiso preparado. Mezcla suavemente para incorporar sabores.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Prepara la carne: sofríe cebolla y ajo picados en aceite por 2 minutos a fuego medio, luego añade la carne molida. Sazona con sal y pimienta y cocina hasta que esté dorada y cocida.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Prepara los plátanos: corta los plátanos verdes en rodajas iguales y fríe en aceite hasta que ablanden. Déjalos enfriar, aplástalos y vuelve a freír hasta que queden crocantes. Sazona con sal.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Fríe el tocino en un sartén a fuego medio y escúrrelo. Luego dora los chorizos hasta que estén bien cocidos y crujientes.",
+      "timeSeconds": 420,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Cocina el arroz según las instrucciones del paquete y fríe los huevos al gusto (fritos o estrellados).",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 8,
+      "description": "Para servir, coloca los fríjoles con guiso en la bandeja, luego la carne molida, chorizos, tocino, arroz, huevo frito, plátanos y rodajas de aguacate. Decora al gusto y sirve inmediatamente.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//huevos pericos
+{
+  "title": "Huevos Pericos",
+  "shortDescription": "Huevos revueltos al estilo sudamericano con tomate y cebolla, llenos de color y sabor, perfectos para un desayuno rápido y nutritivo.",
+  "servings": 2,
+  "difficultyId": 1,
+  "licenseName": "Creative Commons BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 1, "name": "huevo" },
+    { "ingredientId": 2, "name": "cebolla" },
+    { "ingredientId": 3, "name": "tomate" },
+    { "ingredientId": 4, "name": "aceite de oliva" },
+    { "ingredientId": 5, "name": "sal" },
+    { "ingredientId": 6, "name": "pimienta" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Pelar y picar la cebolla finamente y lavar y picar el tomate en cubos pequeños.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Batir los huevos en un bol y sazonarlos con sal y pimienta al gusto.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Calentar un poco de aceite de oliva en una sartén a fuego medio y añadir la cebolla picada.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agregar el tomate picado a la sartén y rehogar con la cebolla por unos 3-5 minutos hasta que estén suaves.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Verter los huevos batidos sobre el tomate y la cebolla, dejar que comiencen a cuajar sin remover, luego revolver suavemente para integrar todos los ingredientes.",
+      "timeSeconds": 240,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Cocinar los huevos hasta obtener la consistencia deseada y servir inmediatamente.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//pescado frito
+{
+  "title": "Pescado Frito Colombiano",
+  "shortDescription": "Clásico colombiano de pescado entero frito, crujiente por fuera y jugoso por dentro. Se acompaña tradicionalmente con patacones, arroz con coco y rodajas de limón. No recomendable para hipertensión y diabetes tipo 2 debido al alto contenido de sal y fritura.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "mycolombianrecipes",
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/pescado-frito-colombiano/",
+  "categoryIds": [2, 3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 1, "name": "tilapia o pargo rojo" },
+    { "ingredientId": 2, "name": "cebolla larga" },
+    { "ingredientId": 3, "name": "limón" },
+    { "ingredientId": 4, "name": "sal" },
+    { "ingredientId": 5, "name": "pimienta" },
+    { "ingredientId": 6, "name": "harina" },
+    { "ingredientId": 7, "name": "aceite vegetal o canola" },
+    { "ingredientId": 8, "name": "aguacate" },
+    { "ingredientId": 9, "name": "patacones" },
+    { "ingredientId": 10, "name": "arroz con coco" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Enjuagar los pescados en agua fría y secarlos con toallas de papel. Hacer 3-4 cortes diagonales en cada lado para que se cocinen uniformemente.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Sazonar el pescado por dentro y por fuera con sal y pimienta al gusto. Frotar con la cebolla larga finamente picada y el jugo de limón. Reservar durante 10 minutos para que absorba los sabores.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Cubrir los pescados con harina asegurándose de cubrir bien toda la superficie para lograr un exterior crujiente.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calentar 2 tazas de aceite vegetal o de canola en una sartén grande a fuego medio-alto (aprox. 1 pulgada de profundidad). Probar la temperatura dejando caer un pequeño cubo de pan: debe chisporrotear o alcanzar 190-190°C (375°F).",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Colocar con cuidado el pescado en el aceite caliente y bajar el fuego a medio. Freír por 5-7 minutos, luego voltear con una espátula o pinzas y freír otros 5-7 minutos hasta que la piel esté dorada y crujiente.",
+      "timeSeconds": 840,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retirar el pescado y colocarlo sobre toallas de papel para eliminar el exceso de aceite. Servir inmediatamente acompañado de patacones, arroz con coco, rodajas de aguacate y limón.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//habichuelas gratinadas
+{
+  "title": "Habichuelas Gratinadas",
+  "shortDescription": "Deliciosas habichuelas cocinadas con crema y gratinadas con queso, perfectas como guarnición o plato principal. No recomendable para personas con hipertensión si se usa mucha sal o para colon irritable si se es sensible a lácteos.",
+  "servings": 4,
+  "difficultyId": 1,
+  "licenseName": "alqueria",
+  "licenseUrl": "https://www.alqueria.com.co/recetas/habichuelas-gratinadas",
+  "categoryIds": [2, 3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 1, "name": "habichuelas" },
+    { "ingredientId": 2, "name": "crema de leche" },
+    { "ingredientId": 3, "name": "cebolla larga" },
+    { "ingredientId": 4, "name": "ajo" },
+    { "ingredientId": 5, "name": "queso rallado doble crema" },
+    { "ingredientId": 6, "name": "aceite" },
+    { "ingredientId": 7, "name": "sal" },
+    { "ingredientId": 8, "name": "agua" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Cortar la cebolla larga en ruedas finas y picar el diente de ajo muy pequeño para un sabor uniforme.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Limpiar las habichuelas retirando bordes y fibras duras de los lados.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "En una sartén, calentar un poco de aceite a fuego medio y dorar la cebolla y el ajo picados hasta que estén fragantes.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agregar las habichuelas limpias a la sartén, sazonar con un poco de sal y añadir media taza de agua. Cocinar hasta que las habichuelas estén tiernas pero aún firmes.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Colocar las habichuelas cocidas en una fuente para horno, cubrir con el queso rallado y la crema de leche. Hornear a temperatura media hasta que el queso se gratine y tome un color dorado.",
+      "timeSeconds": 900,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+
+//hojaldre
+{
+  "title": "Trenza de Hojaldre y Chocolate",
+  "shortDescription": "Trenza de hojaldre rellena de chocolate y decorada con almendras, rápida y fácil de preparar. No recomendable para personas con diabetes tipo 1, 2 o 3 por su alto contenido de azúcar, hipertensión si se consume mucha mantequilla o sal, y colon irritable si se es sensible a lácteos o frutos secos.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "elcocinerocasero",
+  "licenseUrl": "https://elcocinerocasero.com/receta/trenza-de-hojaldre-y-chocolate/",
+  "categoryIds": [4],
+  "flavorIds": [2],
+  "ingredients": [
+    { "ingredientId": 1, "name": "masa de hojaldre" },
+    { "ingredientId": 2, "name": "chocolate de repostería" },
+    { "ingredientId": 3, "name": "azúcar" },
+    { "ingredientId": 4, "name": "huevo" },
+    { "ingredientId": 5, "name": "almendras picadas" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Meter la lámina de hojaldre en el congelador durante 10 minutos para que esté firme y sea más fácil de manipular.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Desenrollar la masa de hojaldre sobre su papel, espolvorear azúcar por encima y pasar el rodillo unas cuantas veces para incrustar el azúcar.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Colocar la tableta de chocolate en el centro del hojaldre. Cortar líneas a los lados de la tableta y doblar los bordes hacia adentro presionando suavemente para que queden ajustados al chocolate.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Cortar tiras paralelas de aproximadamente 3 cm de grosor alrededor de la tableta, descartando las 4 tiras de los extremos.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Cruzar las tiras de hojaldre sobre el chocolate alternadamente para formar la trenza, presionando ligeramente con los dedos para que queden bien adheridas.",
+      "timeSeconds": 240,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Colocar la trenza sobre la rejilla del horno con el papel, espolvorear un poco de azúcar, pintar con huevo batido toda la superficie y, opcionalmente, añadir almendras picadas por encima.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Hornear según las instrucciones del hojaldre comprado. Precalentar el horno a 200ºC, hornear 15 minutos en la zona media-baja y los últimos 5 minutos en la parte alta para que se dore.",
+      "timeSeconds": 1200,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 8,
+      "description": "Retirar la trenza del horno y servir templada, con el chocolate fundido en el centro para disfrutar de la textura y sabor óptimos.",
+      "timeSeconds": 60,
+      "imageUrl": null
+    }
+  ]
+}
+
+//marinada de pavo
+{
+  "title": "Marinada para Pavo",
+  "shortDescription": "Pavo entero marinado por 24 horas para obtener una carne jugosa y llena de sabor. No recomendable para personas con hipertensión por el alto contenido de sal, ni para diabetes tipo 1, 2 o 3 si se consume mucho jugo de naranja y ají. Puede no ser adecuado para colon irritable por la presencia de cítricos y picante.",
+  "servings": 15,
+  "difficultyId": 2,
+  "licenseName": "quericavida",
+  "licenseUrl": "https://www.quericavida.com/recetas/como-marinar-un-pavo/b646f5fb-98f9-4ddc-b80b-d253dfb53e51",
+  "categoryIds": [3],
+  "flavorIds": [3],
+  "ingredients": [
+    { "ingredientId": 1, "name": "ajo crudo" },
+    { "ingredientId": 2, "name": "aceite vegetal" },
+    { "ingredientId": 3, "name": "jugo de naranja natural" },
+    { "ingredientId": 4, "name": "vinagre de manzana" },
+    { "ingredientId": 5, "name": "sal kosher" },
+    { "ingredientId": 6, "name": "jugo de limón fresco" },
+    { "ingredientId": 7, "name": "orégano seco" },
+    { "ingredientId": 8, "name": "comino" },
+    { "ingredientId": 9, "name": "cilantro en polvo" },
+    { "ingredientId": 10, "name": "cebolla en polvo" },
+    { "ingredientId": 11, "name": "chipotles en adobo" },
+    { "ingredientId": 12, "name": "pasta de ají amarillo" },
+    { "ingredientId": 13, "name": "pavo entero" },
+    { "ingredientId": 14, "name": "rebanadas de naranja" },
+    { "ingredientId": 15, "name": "hojas de salvia picadas" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Si el pavo estuvo en salmuera, retirarlo del líquido y secarlo completamente con toallas de papel. Colocar en una bandeja grande para hornear.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "En una licuadora, combinar ajo, aceite vegetal, jugo de naranja, vinagre de manzana, sal kosher, jugo de limón, orégano, comino, cilantro en polvo, cebolla en polvo, chipotles y pasta de ají amarillo. Procesar hasta obtener una mezcla homogénea.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Untar el pavo por dentro y por fuera con la marinada. Colocar las rebanadas de naranja encima y rociar con salvia picada. Cubrir y refrigerar durante 24 horas.",
+      "timeSeconds": 10,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Al día siguiente, retirar el pavo de la refrigeración y hornear según el tamaño del pavo y las instrucciones de cocción estándar (aproximadamente 15 minutos por libra a 180ºC).",
+      "timeSeconds": 86400,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Opcional: si se desea un toque picante adicional, agregar 1/2 cucharada de pimienta de cayena a la marinada antes de refrigerar.",
+      "timeSeconds": 60,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//sancocho
+{
+  "title": "Sancocho",
+  "shortDescription": "Sancocho colombiano tradicional con carne de res, yuca, plátano, papa y mazorca. Plato reconfortante y nutritivo. No recomendable para personas con hipertensión debido a la sal del sobre de sopa y el sazonador, ni para diabetes tipo 1, 2 o 3 si se consume mucho plátano. Puede no ser adecuado para colon irritable por la yuca, plátano y condimentos.",
+  "servings": 6,
+  "difficultyId": 2,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/sancocho-facil",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 1, "name": "agua" },
+    { "ingredientId": 2, "name": "sobre de sopa de sancocho" },
+    { "ingredientId": 3, "name": "carne de res" },
+    { "ingredientId": 4, "name": "yuca" },
+    { "ingredientId": 5, "name": "plátano verde" },
+    { "ingredientId": 6, "name": "papa pastusa" },
+    { "ingredientId": 7, "name": "mazorca" },
+    { "ingredientId": 8, "name": "aceite" },
+    { "ingredientId": 9, "name": "cebolla" },
+    { "ingredientId": 10, "name": "tomate" },
+    { "ingredientId": 11, "name": "sazonador naturisimo maggi" },
+    { "ingredientId": 12, "name": "cilantro" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En una olla grande, disolver el sobre de sopa de sancocho en 6 tazas de agua. Añadir la carne de res cortada en trozos, la yuca pelada y cortada, el plátano verde partido, la papa pastusa pelada y las mazorcas. Cocinar a fuego medio por 20-25 minutos hasta que la carne y vegetales estén blandos y el caldo espese.",
+      "timeSeconds": 1500,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "En una sartén aparte, calentar 2 cucharadas de aceite a fuego medio por 2 minutos. Agregar la cebolla finamente picada y el tomate sin piel picado. Incorporar el sazonador Naturisimo Maggi y finalmente el cilantro picado. Cocinar por 3 minutos, revolviendo ocasionalmente, hasta que el hogao esté listo.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Servir el sancocho caliente en 6 tazas medianas y agregar encima porciones iguales del hogao.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//cazuela de mariscos
+{
+  "title": "Cazuela de Mariscos",
+  "shortDescription": "Exquisita cazuela de mariscos colombiana con pescado, camarones y mariscos mixtos. No recomendable para personas con hipertensión por la sal y el contenido de mariscos, ni para diabetes tipo 1, 2 o 3 si se acompaña de arroz o patacones. Puede no ser adecuado para colon irritable por los mariscos y condimentos.",
+  "servings": 4,
+  "difficultyId": 3,
+  "licenseName": "antojandoando",
+  "licenseUrl": "https://antojandoando.com/recetas/cazuela-de-mariscos/",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 1, "name": "mariscos mixtos (calamares, pulpo, cangrejo, ostras, etc)" },
+    { "ingredientId": 2, "name": "pescado blanco" },
+    { "ingredientId": 3, "name": "camarones sin caparazón" },
+    { "ingredientId": 4, "name": "caldo de pescado o marisco" },
+    { "ingredientId": 5, "name": "cebolla cabezona" },
+    { "ingredientId": 6, "name": "ajo" },
+    { "ingredientId": 7, "name": "pimentón rojo" },
+    { "ingredientId": 8, "name": "pimentón verde" },
+    { "ingredientId": 9, "name": "apio" },
+    { "ingredientId": 10, "name": "pasta de tomate" },
+    { "ingredientId": 11, "name": "vino blanco" },
+    { "ingredientId": 12, "name": "harina de trigo" },
+    { "ingredientId": 13, "name": "crema de leche" },
+    { "ingredientId": 14, "name": "aceite" },
+    { "ingredientId": 15, "name": "mantequilla" },
+    { "ingredientId": 16, "name": "orégano" },
+    { "ingredientId": 17, "name": "sal" },
+    { "ingredientId": 18, "name": "pimienta" },
+    { "ingredientId": 19, "name": "perejil" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Si los mariscos mixtos son frescos, cocínalos en agua y reserva 5 tazas de caldo. Corta calamares en anillos, pulpo en pedazos medianos, camarones sin caparazón y pescado en trozos medianos.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "En una olla a fuego medio-alto, calienta 2 cdas de aceite y 2 cdas de mantequilla. Sofríe la cebolla hasta transparente, agrega el ajo picado y deja 1 minuto sin quemar.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Añade orégano, pimentón rojo y verde, y apio. Cocina hasta que estén blandos.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega sal, pimienta, pescado y mariscos (excepto camarones). Cocina 5 minutos a fuego medio.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Incorpora 5 tazas de caldo y la pasta de tomate. Llevar a hervor a fuego medio durante 15 minutos.",
+      "timeSeconds": 900,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Disolver 2 cdas de harina de trigo en un poco de caldo sin grumos y añadir a la preparación. Mezclar bien.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Añadir los camarones y cocinar 10 minutos más. Verificar sabor y ajustar con sal y pimienta.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 8,
+      "description": "Incorporar 1/2 taza de vino blanco y 2 cdas de crema de leche. Mezclar y dejar hervir unos minutos.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 9,
+      "description": "Servir la cazuela caliente, decorar con perejil picado. Opcional acompañar con cascos de limón, arroz, patacones o picante.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    }
+  ]
+}
+
+//empanadas
+
+{
+  "title": "Empanadas de Carne",
+  "shortDescription": "Clásicas empanadas de carne jugosas y personalizables. No recomendable para hipertensión por el contenido de sal y grasa, ni para diabetes tipo 1, 2 o 3 si se acompañan con pan o masa extra. Puede no ser adecuado para colon irritable por la masa y condimentos.",
+  "servings": 12,
+  "difficultyId": 2,
+  "licenseName": "paulinacocina",
+  "licenseUrl": "https://www.paulinacocina.net/como-hacer-empanadas-de-carne/9220",
+  "categoryIds": [4],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 1, "name": "tapas para empanadas" },
+    { "ingredientId": 2, "name": "carne picada" },
+    { "ingredientId": 3, "name": "cebolla" },
+    { "ingredientId": 4, "name": "ajo" },
+    { "ingredientId": 5, "name": "pimiento morrón rojo" },
+    { "ingredientId": 6, "name": "tomate" },
+    { "ingredientId": 7, "name": "puré de tomates" },
+    { "ingredientId": 8, "name": "aceitunas" },
+    { "ingredientId": 9, "name": "pimentón" },
+    { "ingredientId": 10, "name": "comino" },
+    { "ingredientId": 11, "name": "sal" },
+    { "ingredientId": 12, "name": "pimienta" },
+    { "ingredientId": 13, "name": "huevo (opcional para pintar)" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En una olla con aceite caliente, sofreír la cebolla y el pimiento morrón hasta que la cebolla esté transparente.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agregar el ajo picado, sal y pimienta al gusto. Mezclar bien y dejar 1 minuto que se integre.",
+      "timeSeconds": 60,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Subir el fuego y añadir toda la carne picada. Mover constantemente para que no se pegue y cocinar hasta que se selle.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Incorporar el tomate en cubos y 2 cdas de puré de tomates. Condimentar con pimentón y comino, sal y pimienta al gusto. Tapar parcialmente y cocinar a fuego medio por 30 minutos, revolviendo de vez en cuando.",
+      "timeSeconds": 1800,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Dejar enfriar el relleno en la olla. Agregar las aceitunas picadas y mezclar bien. En este momento se pueden añadir ingredientes opcionales como huevo duro, pasas o papa.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Repartir el relleno en las tapas de empanadas y cerrar con repulgue tradicional. Opcional: pintar con huevo batido antes de hornear.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Colocar las empanadas en una bandeja y hornear a horno fuerte hasta que estén doradas y crujientes.",
+      "timeSeconds": 900,
+      "imageUrl": null
+    }
+  ]
+}
+
+//costillas de cerdo
+{
+  "title": "Costillas de Cerdo en Salsa BBQ Ahumada",
+  "shortDescription": "Costillas de cerdo jugosas en una deliciosa salsa BBQ ahumada. No recomendable para hipertensión por la sal y la carne de cerdo, ni para diabetes tipo 1, 2 o 3 debido a la panela. Puede causar molestias en colon irritable por los condimentos y grasa.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/costillitas-cerdo-salsa-bbq-ahumada",
+  "categoryIds": [2,3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 1, "name": "agua" },
+    { "ingredientId": 2, "name": "costilla de cerdo" },
+    { "ingredientId": 3, "name": "cubo de caldo con costilla MAGGI®" },
+    { "ingredientId": 4, "name": "tomate" },
+    { "ingredientId": 5, "name": "pimentón" },
+    { "ingredientId": 6, "name": "cebolla cabezona" },
+    { "ingredientId": 7, "name": "hoja de laurel" },
+    { "ingredientId": 8, "name": "orégano seco" },
+    { "ingredientId": 9, "name": "pasta de tomate" },
+    { "ingredientId": 10, "name": "panela" },
+    { "ingredientId": 11, "name": "pasta de ají" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En una olla de fondo alto, agregar el agua, las costillas de cerdo, el cubo de caldo con costilla, los tomates en cubos, el pimentón en trozos, la cebolla en cuartos, la hoja de laurel, el orégano seco y la pasta de tomate.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Llevar la olla a fuego medio y cocinar por 25 minutos o hasta que las costillas estén bien cocidas y tiernas.",
+      "timeSeconds": 1500,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Retirar las costillas de la olla y verter el fondo con los vegetales en una licuadora. Licuar hasta integrar bien y pasar por un colador fino para obtener una salsa homogénea.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Llevar la salsa colada a una sartén, agregar la panela y la pasta de ají, cocinar a fuego bajo hasta reducir y obtener la consistencia deseada, revolviendo ocasionalmente.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Calentar una sartén a fuego medio-alto por 3 minutos, agregar las costillas una a una y dorar por todos los lados.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retirar del fuego, agregar la salsa BBQ ahumada sobre las costillas y servir caliente. Acompañar con arroz, patacones o ensalada según preferencia.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//claro de mazamorra
+{
+  "title": "Claro de Mazamorra",
+  "shortDescription": "Bebida tradicional antioqueña elaborada a partir del agua de cocción del maíz, refrescante y digestiva. Se sirve fría o caliente con leche y panela. No recomendada para personas con diabetes tipo 1 o 2 por su alto contenido de carbohidratos simples si se endulza con panela; personas con hipertensión deben moderar el consumo si se acompaña con productos procesados.",
+  "servings": 6,
+  "difficultyId": 1,
+  "licenseName": "Tradicional Colombiana",
+  "licenseUrl": "https://cocina-tradicional-colombiana.com",
+  "categoryIds": [4],
+  "flavorIds": [2],
+  "ingredients": [
+    { "name": "Agua", "quantity": 4, "unit": "Litro" },
+    { "name": "Maíz amarillo o blanco trillado", "quantity": 1, "unit": "Libra" },
+    { "name": "Leche", "quantity": 2, "unit": "Litro" },
+    { "name": "Panela en trozos", "quantity": 1, "unit": "Al gusto" },
+    { "name": "Bocadillo de guayaba", "quantity": 1, "unit": "Al gusto" }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En una olla grande agrega los 4 litros de agua y el maíz trillado. Cocina a fuego medio durante aproximadamente 2 horas, revisando constantemente que el agua no se reduzca demasiado.",
+      "timeSeconds": 7200,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Cuando el maíz esté completamente blando, retira del fuego y deja reposar en su misma agua de cocción para formar el claro.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Una vez frío, separa el maíz del líquido si deseas solo el claro. Reserva el líquido.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega leche al claro al gusto y mezcla bien. Puedes servir caliente o frío.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Sirve acompañado de trozos de panela o bocadillo de guayaba.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    }
+  ]
+},
+//sopa de bolo
+{
+  "title": "Sopa de Bolo",
+  "shortDescription": "Sopa tradicional casera preparada con caldo aromático de res y acompañada de masitas fritas de bolo. Reconfortante y nutritiva, ideal para almuerzos familiares. No recomendada para personas con hipertensión por su contenido de sodio; personas con diabetes deben moderar el consumo por el aporte de harinas; no recomendable para colon irritable en fase activa por frituras y condimentos.",
+  "servings": 6,
+  "difficultyId": 2,
+  "licenseName": "Tradicional Colombiana",
+  "licenseUrl": "https://cocina-tradicional-colombiana.com",
+  "categoryIds": [2,3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Agua", "quantity": 8, "unitId": 6 },
+    { "ingredientId": "Bolo en cuadritos", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Hueso de res poroso", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Cilantro picado", "quantity": 2, "unitId": 4 },
+    { "ingredientId": "Cebolla de rama", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Ajo picado", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Comino", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Laurel", "quantity": 1, "unitId": 11 },
+
+    { "ingredientId": "Bolo pelado y rallado", "quantity": 2, "unitId": 6 },
+    { "ingredientId": "Huevos", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Harina de trigo", "quantity": 4, "unitId": 4 },
+    { "ingredientId": "Queso blanco rallado", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Aceite para freír", "quantity": 1, "unitId": 11 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En una olla grande agrega el agua junto con el cilantro, comino, ajo, laurel y zanahoria. Incorpora el hueso de res y la cebolla de rama.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Tapa la olla y cocina a fuego medio hasta que hierva. Deja hervir durante 20 a 25 minutos para obtener un caldo concentrado.",
+      "timeSeconds": 1500,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Para las masitas, mezcla el bolo rallado, los huevos batidos, la harina de trigo, el queso blanco, sal y pimienta hasta obtener una masa homogénea.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calienta suficiente aceite y fríe la mezcla por cucharadas hasta que estén doradas. Retira y coloca sobre papel absorbente.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Rectifica la sazón del caldo con sal y pimienta. Mantén a fuego lento 5 a 10 minutos adicionales.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Agrega las masitas al momento de servir o preséntalas aparte. Decora cada plato con cilantro fresco picado.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    }
+  ]
+},
+
+//wafles basicos
+{
+  "title": "Waffles Básicos",
+  "shortDescription": "Receta clásica de waffles crujientes por fuera y suaves por dentro, ideales como snack o desayuno dulce. No recomendados para personas con diabetes tipo 1 o 2 por su alto contenido de azúcar y harina refinada; personas con colon irritable deben moderar el consumo por la mantequilla; no aptos para intolerantes a la lactosa o al gluten.",
+  "servings": 20,
+  "difficultyId": 1,
+  "licenseName": "Logianer",
+  "licenseUrl": "https://publicdomainrecipes.com/basic-waffles/",
+  "categoryIds": [4],
+  "flavorIds": [2],
+  "ingredients": [
+    { "ingredientId": "Mantequilla", "quantity": 250, "unitId": 9 },
+    { "ingredientId": "Azúcar", "quantity": 200, "unitId": 9 },
+    { "ingredientId": "Azúcar de vainilla", "quantity": 16, "unitId": 9 },
+    { "ingredientId": "Huevos", "quantity": 5, "unitId": 10 },
+    { "ingredientId": "Harina de trigo", "quantity": 500, "unitId": 9 },
+    { "ingredientId": "Polvo para hornear", "quantity": 2, "unitId": 4 },
+    { "ingredientId": "Leche", "quantity": 400, "unitId": 1 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Bate los huevos hasta que estén cremosos y ligeramente espumosos.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega poco a poco el azúcar y el azúcar de vainilla mientras continúas batiendo.",
+      "timeSeconds": 240,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Derrite la mantequilla y mézclala con la preparación anterior hasta integrar completamente.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Añade el polvo para hornear.",
+      "timeSeconds": 60,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Incorpora la harina y la leche alternadamente, mezclando constantemente hasta obtener una masa homogénea y suave.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Bate la mezcla a máxima velocidad hasta que no queden grumos y deja reposar la masa durante unos minutos.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Precalienta la waflera, vierte una porción de masa y cocina hasta que el waffle esté dorado.",
+      "timeSeconds": 240,
+      "imageUrl": null
+    }
+  ]
+},
+//Arep de huevo
+{
+  "title": "Arepas de Huevo Colombianas",
+  "shortDescription": "Tradicional arepa frita de la costa colombiana rellena con huevo entero. Crujiente por fuera y suave por dentro, ideal para el desayuno. No recomendada para personas con hipertensión por su alto contenido de sodio y fritura; no apta para personas con colesterol elevado; personas con colon irritable deben evitarla en fase activa por la fritura.",
+  "servings": 3,
+  "difficultyId": 3,
+  "licenseName": "Receta Tradicional Colombiana",
+  "licenseUrl": "https://recetas-colombianas.com",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Harina de maíz para arepas", "quantity": 0.6, "unitId": 7 },
+    { "ingredientId": "Aceite de girasol para freír", "quantity": 0.7, "unitId": 2 },
+    { "ingredientId": "Huevos", "quantity": 3, "unitId": 10 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 },
+    { "ingredientId": "Agua", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Margarina", "quantity": 1, "unitId": 10 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Coloca la harina de maíz en un bol amplio.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Calienta agua suficiente con la margarina hasta que se derrita completamente.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Vierte el agua caliente sobre la harina, mezcla y deja reposar durante 10 minutos.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Amasa hasta obtener una textura firme y forma 3 bolas medianas.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Aplasta las bolas formando discos gruesos de arepa.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Calienta el aceite en una olla profunda y fríe cada arepa individualmente hasta que se infle. Retira del aceite.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Realiza una pequeña abertura lateral en cada arepa e introduce cuidadosamente un huevo crudo procurando no romper la yema.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 8,
+      "description": "Cierra la abertura con un poco de masa y vuelve a freír hasta que el huevo esté cocido en su interior.",
+      "timeSeconds": 480,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 9,
+      "description": "Retira y coloca sobre papel absorbente para eliminar el exceso de aceite. Servir caliente.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    }
+  ]
+}
+//dulce de guayaba
+{
+  "title": "Dulce de Guayaba con Dátiles (Bocadillo)",
+  "shortDescription": "Dulce artesanal elaborado a base de guayabas maduras cocidas al vapor y endulzado naturalmente con dátiles, logrando una textura suave, cremosa y tipo bocadillo o mermelada espesa. Su preparación sencilla resalta el sabor frutal intenso de la guayaba, equilibrado con el dulzor natural de los dátiles y una ligera pizca de sal que potencia los matices. Ideal para untar en panes, tostadas y galletas, o para complementar yogur y avena. Puede añadirse unas gotas de limón para realzar el sabor y mejorar su conservación. No recomendado para personas con diabetes sin moderación por su contenido natural de azúcares; personas con dietas hipocalóricas deben consumir en porciones controladas debido a su densidad energética.",
+  "servings": 1,
+  "difficultyId": 1,
+  "licenseName": "Cookpad",
+  "licenseUrl": "https://cookpad.com/eeuu/recetas/25268695?ref=search&search_term=comida+colombiana",
+  "categoryIds": [4],
+  "flavorIds": [2],
+  "ingredients": [
+    { "ingredientId": "Guayabas maduras", "quantity": 5, "unitId": 10},
+    { "ingredientId": "Dátiles", "quantity": 6, "unitId": 10 },
+    { "ingredientId": "Sal", "quantity": 0.4, "unitId": 9 },
+    { "ingredientId": "Agua", "quantity": 1, "unitId": 11 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lavar y desinfectar las guayabas. Alistar el resto de los ingredientes.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Cortar las guayabas por la mitad y extraer las semillas.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Preparar los dátiles: cortarlos por la mitad y quitarles la semilla.",
+      "timeSeconds": 240,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Llenar una olla con agua suficiente para cocinar al vapor. Colocar las guayabas y cocinar 10 minutos a fuego medio bajo.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Agregar los dátiles a las guayabas y continuar cocinando al vapor otros 10 minutos.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retirar del vapor y dejar enfriar un poco, lo suficiente para poder licuar sin que la fruta y los dátiles estén demasiado duros.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Licuar las guayabas y dátiles junto con la pizca de sal hasta obtener una mezcla suave y homogénea, tipo dulce o mermelada.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 8,
+      "description": "Guardar en un frasco limpio, dejar temperar y conservar en la nevera.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    }
+  ]
+}
+
+//buñuelo
+{
+  "title": "Buñuelos Colombianos",
+  "shortDescription": "Preparación típica colombiana elaborada con fécula de maíz, harina de yuca y quesos frescos, formando esferas doradas y crujientes por fuera, suaves y esponjosas en su interior. Tradicionales en época navideña pero consumidos todo el año como desayuno o snack. Deben freírse a temperatura controlada para lograr cocción uniforme sin abrirse. Personas con intolerancia a la lactosa deben moderar su consumo debido a su contenido de queso.",
+  "servings": 12,
+  "difficultyId": 1,
+  "licenseName": "My Colombian Recipes",
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/bunuelos-colombianos/",
+  "categoryIds": [1, 4],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Aceite vegetal para freír", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Fécula de maíz", "quantity": 1.75, "unitId": 6 },
+    { "ingredientId": "Harina de yuca", "quantity": 0.25, "unitId": 6 },
+    { "ingredientId": "Queso costeño rallado", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Queso fresco rallado", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Huevo", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Polvo de hornear", "quantity": 0.5, "unitId": 3 },
+    { "ingredientId": "Azúcar", "quantity": 2, "unitId": 4 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Leche", "quantity": 5, "unitId": 4 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Colocar en un recipiente la fécula de maíz, harina de yuca, queso costeño, queso fresco, azúcar, polvo de hornear y una pizca de sal.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agregar el huevo y la leche poco a poco, mezclando con las manos hasta obtener una masa suave, homogénea y ligeramente húmeda.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Formar bolitas del mismo tamaño procurando que queden bien compactas y sin grietas.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calentar abundante aceite en una olla profunda hasta alcanzar aproximadamente 150 °C (300 °F).",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Freír los buñuelos en tandas pequeñas durante 3 a 4 minutos hasta que estén dorados de manera uniforme.",
+      "timeSeconds": 240,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retirar del aceite y escurrir sobre papel absorbente antes de servir.",
+      "timeSeconds": 120,
+      "imageUrl": null
+    }
+  ]
+},
+
+//rijoles
+{
+  "title": "Fríjoles Colombianos Tradicionales",
+  "shortDescription": "Preparación tradicional colombiana elaborada con fríjol rojo cocido lentamente junto con manita de cerdo, plátano macho y zanahoria. Su característica textura espesa y cremosa se logra al triturar parte de los vegetales de la cocción y reincorporarlos a la olla. De sabor profundo y reconfortante, es base de la bandeja paisa y suele acompañarse con arroz, aguacate y cilantro fresco. Rico en fibra y proteína; personas con hipertensión deben moderar la sal y quienes sigan dietas bajas en grasa pueden optar por reducir el contenido cárnico.",
+  "servings": 6,
+  "difficultyId": 2,
+  "licenseName": "Directo al Paladar",
+  "licenseUrl": "https://www.directoalpaladar.com/recetas-de-legumbres/frijoles-colombianos-cremoso-plato-cuchara-tradicional-muy-facil-repleto-sabor",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Fríjol rojo", "quantity": 600, "unitId": 9 },
+    { "ingredientId": "Manita de cerdo", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Plátano macho", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Zanahoria", "quantity": 4, "unitId": 10 },
+    { "ingredientId": "Tomates maduros", "quantity": 3, "unitId": 10 },
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Diente de Ajo", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Comino molido", "quantity": 1, "unitId": 3 },
+    { "ingredientId": "Cilantro", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Aceite de oliva", "quantity": 45, "unitId": 1 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Pimienta negra", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Agua", "quantity": 3, "unitId": 2 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lavar y seleccionar los fríjoles. Remojarlos en abundante agua durante mínimo 8 horas para mejorar su cocción y digestión.",
+      "timeSeconds": 28800,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Escurrir los fríjoles y colocarlos en una olla a presión (también se puede relizar el procedimiento en una olla convencional pero en dicho caso se necesitará más tiempo de cocción) junto con la manita de cerdo. Cubrir con agua suficiente (3 a 4 dedos por encima del nivel de los fríjoles).",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Llevar a ebullición, retirar las impurezas si aparecen. Mientras tanto preparar el hogao: sofreír el ajo picado en el aceite, agregar la cebolla picada y una pizca de sal. Cuando la cebolla esté tierna agregamos el comino y el tomate rallado. Pochar 15 minutos o hasta que no queden restos de agua. Luego de esto hechar pimienta al gusto y reservar",
+      "timeSeconds": 900,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Luego de preparar el hogao y tener la olla con los frijoles limpia de impurezas se agrega la zanahoria y el plátano macho, ambos pelados y en trozos. También se agregan cuatro cucharadas de hogao. Cerrar la olla a presión y cocinar durante 20 a 25 minutos desde que comience a salir vapor constante (en olla convencional puede tardar hasta dos horas y media).",
+      "timeSeconds": 1500,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Abrir la olla una vez despresurizada. Se retira la manita de cerdoy se reserva si se quiere añadir a los frijoles a la hora de servirlos. Retirar el plátano y la zanahoria, triturarlos con un poco del caldo y devolver el puré a la olla para lograr la textura espesa característica.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Cocinar 5 a 10 minutos adicionales para integrar sabores.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Rectificar la sal, añadir cilantro fresco picado al gusto y servir caliente acompañado de arroz, aguacate o patacones.",
+      "timeSeconds": 180,
+      "imageUrl": null
+    }
+  ]
+}
+//tamales
+{
+  "title": "Tamal Colombiano",
+  "shortDescription": "Tamal colombiano tradicional con masa de maíz, carne de cerdo, pollo, papa, zanahoria y arveja, envuelto en hoja de plátano. Plato típico festivo y abundante. No recomendado para hipertensión por el sodio y embutidos, ni para diabetes si se consume en exceso por su alto contenido de carbohidratos.",
+  "servings": 10,
+  "difficultyId": 3,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/tamal-tolimense",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "harina de maíz precocida", "quantity": 1000, "unitId": 9 },
+    { "ingredientId": "caldo de pollo", "quantity": 1500, "unitId": 1 },
+    { "ingredientId": "piernas de pollo", "quantity": 5, "unitId": 10 },
+    { "ingredientId": "costilla de cerdo", "quantity": 1000, "unitId": 9 },
+    { "ingredientId": "tocino", "quantity": 300, "unitId": 9 },
+    { "ingredientId": "papa criolla", "quantity": 10, "unitId": 10 },
+    { "ingredientId": "zanahoria", "quantity": 3, "unitId": 10 },
+    { "ingredientId": "arveja", "quantity": 300, "unitId": 9 },
+    { "ingredientId": "cebolla cabezona", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "ajo", "quantity": 4, "unitId": 10 },
+    { "ingredientId": "comino", "quantity": 1, "unitId": 3 },
+    { "ingredientId": "sal", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "color o achiote", "quantity": 1, "unitId": 4 },
+    { "ingredientId": "hojas de plátano", "quantity": 10, "unitId": 10 }
+  ],
+  "images": null,
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En un recipiente grande mezcla la harina de maíz con el caldo caliente hasta obtener una masa suave y homogénea. Agrega sal y color al gusto.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 2,
+      "description": "Cocina previamente la carne de cerdo y el pollo en agua con sal, ajo y comino durante 30 minutos hasta que estén tiernos.",
+      "timeSeconds": 1800,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sofríe cebolla y ajo finamente picados hasta que estén transparentes para preparar el hogao base.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 4,
+      "description": "Extiende una hoja de plátano limpia y coloca una porción de masa en el centro. Añade papa, zanahoria, arveja, carne de cerdo, pollo y tocino.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 5,
+      "description": "Envuelve cuidadosamente el tamal formando un paquete firme y amarra con hilo de cocina.",
+      "timeSeconds": 600,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 6,
+      "description": "Cocina los tamales en una olla grande con agua suficiente durante aproximadamente 2 horas a fuego medio.",
+      "timeSeconds": 7200,
+      "imageUrl": null
+    },
+    {
+      "stepOrder": 7,
+      "description": "Retira del agua, deja reposar unos minutos y sirve caliente.",
+      "timeSeconds": 300,
+      "imageUrl": null
+    }
+  ]
+}
+
+
+//calentado paisa recomendable
+{
+  "title": "Calentado Paisa Saludable",
+  "shortDescription": "Desayuno tradicional colombiano preparado con arroz integral y fríjoles del día anterior, acompañado de huevo y aguacate. Versión reducida en grasa y sodio. No recomendado para personas con colon irritable en fase activa debido al fríjol.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/calentado-paisa-r60",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Arroz integral cocido", "quantity": 2, "unitId": 6 },
+    { "ingredientId": "Fríjoles cocidos", "quantity": 2, "unitId": 6 },
+    { "ingredientId": "Huevo", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Aguacate", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Pica finamente la cebolla cabezona.",
+      "timeSeconds": 120
+    },
+    {
+      "stepOrder": 2,
+      "description": "Calienta una sartén a fuego medio y agrega la cucharada de aceite de oliva.",
+      "timeSeconds": 60
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sofríe la cebolla durante 3 minutos hasta que esté transparente.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega los fríjoles cocidos y el arroz integral. Mezcla bien y cocina durante 5 minutos.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 5,
+      "description": "Ajusta sal al gusto y cocina 2 minutos adicionales.",
+      "timeSeconds": 120
+    },
+    {
+      "stepOrder": 6,
+      "description": "En otra sartén antiadherente, cocina los huevos al gusto sin exceso de aceite.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 7,
+      "description": "Sirve el calentado acompañado de huevo y aguacate en rodajas.",
+      "timeSeconds": 120
+    }
+  ]
+}
+//Arepa con queso integral
+{
+  "title": "Arepa Integral con Queso Bajo en Grasa",
+  "shortDescription": "Arepa colombiana preparada con harina integral y acompañada de queso bajo en grasa. Apta para diabéticos tipo 2 en porciones moderadas. No recomendada para hipertensos si el queso contiene sodio elevado.",
+  "servings": 2,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/arepa-r12",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Harina de maíz integral", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Agua tibia", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 },
+    { "ingredientId": "Queso bajo en grasa", "quantity": 4, "unitId": 8 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En un recipiente mezcla la harina de maíz integral con la sal.",
+      "timeSeconds": 120
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega el agua tibia poco a poco hasta formar una masa suave y homogénea.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 3,
+      "description": "Divide la masa en dos porciones y forma las arepas.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 4,
+      "description": "Cocina en una sartén antiadherente durante 5 minutos por cada lado.",
+      "timeSeconds": 600
+    },
+    {
+      "stepOrder": 5,
+      "description": "Añade el queso bajo en grasa sobre la arepa caliente y sirve.",
+      "timeSeconds": 120
+    }
+  ]
+}
+
+//Avena fria colombiana
+{
+  "title": "Avena Fría Colombiana Saludable",
+  "shortDescription": "Bebida tradicional colombiana de avena preparada con leche descremada y endulzada ligeramente. Apta para hipertensos si se reduce el azúcar. No recomendada para diabéticos tipo 1 sin control de carbohidratos.",
+  "servings": 3,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/avena-colombiana-r45",
+  "categoryIds": [1],
+  "flavorIds": [2],
+  "ingredients": [
+    { "ingredientId": "Avena en hojuelas", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Leche descremada", "quantity": 1, "unitId": 2 },
+    { "ingredientId": "Agua", "quantity": 1, "unitId": 2 },
+    { "ingredientId": "Canela en rama", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Azúcar morena", "quantity": 1, "unitId": 4 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Hierve el agua con la canela durante 5 minutos.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega la avena y cocina a fuego medio durante 10 minutos, removiendo constantemente.",
+      "timeSeconds": 600
+    },
+    {
+      "stepOrder": 3,
+      "description": "Añade la leche descremada y cocina 5 minutos más.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 4,
+      "description": "Endulza ligeramente y deja enfriar. Refrigera antes de servir.",
+      "timeSeconds": 600
+    }
+  ]
+}
+
+//sudado de pollo saludable
+{
+  "title": "Sudado de Pollo Saludable",
+  "shortDescription": "Plato tradicional colombiano preparado con pollo, papa y verduras en cocción lenta con bajo contenido de grasa y sodio. Apto para diabéticos tipo 2 en porciones moderadas. No recomendado para personas con colon irritable en fase activa debido a la cebolla.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/sudado-de-pollo-r34",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Pechuga de pollo", "quantity": 2, "unitId": 7 },
+    { "ingredientId": "Papa", "quantity": 4, "unitId": 10 },
+    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Agua", "quantity": 2, "unitId": 2 },
+    { "ingredientId": "Cilantro fresco", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava y pela las papas, córtalas en mitades medianas.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 2,
+      "description": "Pica finamente el tomate, la cebolla y el ajo.",
+      "timeSeconds": 240
+    },
+    {
+      "stepOrder": 3,
+      "description": "En una olla grande, agrega el aceite y sofríe cebolla y ajo durante 3 minutos.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 4,
+      "description": "Añade el tomate y cocina 5 minutos hasta formar un guiso.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 5,
+      "description": "Incorpora el pollo, las papas y el agua. Cocina tapado a fuego medio durante 30 minutos.",
+      "timeSeconds": 1800
+    },
+    {
+      "stepOrder": 6,
+      "description": "Agrega sal al gusto y cilantro fresco picado antes de servir.",
+      "timeSeconds": 120
+    }
+  ]
+}
+
+//mojarra
+{
+  "title": "Mojarra al Horno con Ensalada Fresca",
+  "shortDescription": "Pescado típico colombiano preparado al horno con especias naturales, acompañado de ensalada fresca. Apto para hipertensos si se controla la sal. Recomendado para diabéticos. Seguro para colon irritable si se evita cebolla cruda.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/mojarra-frita-r22",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Mojarra", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Limón", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
+    { "ingredientId": "Lechuga", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Pepino", "quantity": 1, "unitId": 10 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Precalienta el horno a 180°C.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 2,
+      "description": "Limpia la mojarra y realiza pequeños cortes superficiales.",
+      "timeSeconds": 240
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sazona con ajo triturado, jugo de limón y sal al gusto.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 4,
+      "description": "Barniza con aceite de oliva y hornea durante 25 minutos.",
+      "timeSeconds": 1500
+    },
+    {
+      "stepOrder": 5,
+      "description": "Prepara la ensalada con lechuga, tomate y pepino en rodajas.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 6,
+      "description": "Sirve la mojarra acompañada de la ensalada fresca.",
+      "timeSeconds": 120
+    }
+  ]
+}
+//lentejas
+{
+  "title": "Lentejas Colombianas Saludables",
+  "shortDescription": "Lentejas preparadas al estilo colombiano con verduras frescas y bajo contenido de grasa. Apta para diabéticos tipo 2. No recomendada para colon irritable en fase activa por su contenido en legumbres.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/lentejas-r15",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Lentejas", "quantity": 1, "unitId": 7 },
+    { "ingredientId": "Zanahoria", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Papa", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "Agua", "quantity": 2, "unitId": 2 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava las lentejas y déjalas en remojo durante 2 horas.",
+      "timeSeconds": 7200
+    },
+    {
+      "stepOrder": 2,
+      "description": "Pica zanahoria, papa, tomate, cebolla y ajo en cubos pequeños.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sofríe cebolla y ajo en aceite durante 3 minutos.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega tomate y cocina 5 minutos hasta formar un guiso.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 5,
+      "description": "Añade lentejas, verduras picadas y agua. Cocina tapado durante 35 minutos.",
+      "timeSeconds": 2100
+    },
+    {
+      "stepOrder": 6,
+      "description": "Ajusta sal al gusto y cocina 5 minutos adicionales antes de servir.",
+      "timeSeconds": 300
+    }
+  ]
+}
+//crema de ahuyama
+{
+  "title": "Crema de Ahuyama Colombiana Saludable",
+  "shortDescription": "Sopa tradicional colombiana preparada con ahuyama y especias naturales, baja en grasa y sodio. Apta para hipertensos y personas con colon irritable. Diabéticos deben controlar la porción por su contenido natural de carbohidratos.",
+  "servings": 4,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/crema-de-ahuyama-r90",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Ahuyama", "quantity": 2, "unitId": 7 },
+    { "ingredientId": "Agua", "quantity": 2, "unitId": 2 },
+    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Ajo", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Pela y corta la ahuyama en cubos medianos.",
+      "timeSeconds": 300
+    },
+    {
+      "stepOrder": 2,
+      "description": "Pica finamente la cebolla y el ajo.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 3,
+      "description": "En una olla, sofríe cebolla y ajo con aceite durante 3 minutos.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega la ahuyama y el agua. Cocina tapado durante 25 minutos hasta que esté blanda.",
+      "timeSeconds": 1500
+    },
+    {
+      "stepOrder": 5,
+      "description": "Licúa la preparación hasta obtener una textura cremosa.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 6,
+      "description": "Ajusta sal al gusto y cocina 2 minutos adicionales antes de servir.",
+      "timeSeconds": 120
+    }
+  ]
+}
+
+
+//ensalada
+{
+  "title": "Ensalada Tibia de Quinua con Pollo",
+  "shortDescription": "Cena ligera inspirada en ingredientes colombianos, preparada con quinua, pollo a la plancha y vegetales frescos. Apta para diabéticos tipo 2 y recomendada para hipertensos si se controla la sal. Segura para colon irritable si se evita la cebolla cruda.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/ensalada-de-quinua-r120",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Quinua", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Pechuga de pollo", "quantity": 1, "unitId": 7 },
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Espinaca", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Limón", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava la quinua hasta que el agua salga clara.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 2,
+      "description": "Cocina la quinua con 2 tazas de agua durante 15 minutos a fuego medio.",
+      "timeSeconds": 900
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sazona la pechuga de pollo con sal y cocínala a la plancha durante 8 minutos por cada lado.",
+      "timeSeconds": 960
+    },
+    {
+      "stepOrder": 4,
+      "description": "Ralla la zanahoria y lava la espinaca.",
+      "timeSeconds": 240
+    },
+    {
+      "stepOrder": 5,
+      "description": "Mezcla la quinua tibia con la zanahoria, espinaca y pollo en tiras.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 6,
+      "description": "Aliña con jugo de limón y aceite de oliva antes de servir.",
+      "timeSeconds": 120
+    }
+  ]
+}
+
+//tortilla espinaca
+
+{
+  "title": "Tortilla Colombiana de Espinaca y Queso Bajo en Grasa",
+  "shortDescription": "Tortilla ligera preparada con huevo, espinaca y queso bajo en grasa. Apta para diabéticos tipo 2 y colon irritable. Hipertensos deben usar queso reducido en sodio.",
+  "servings": 2,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/tortilla-de-espinaca-r150",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Huevo", "quantity": 4, "unitId": 10 },
+    { "ingredientId": "Espinaca", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "Queso bajo en grasa", "quantity": 4, "unitId": 8 },
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava y pica la espinaca finamente.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 2,
+      "description": "Bate los huevos en un recipiente y agrega la espinaca.",
+      "timeSeconds": 180
+    },
+    {
+      "stepOrder": 3,
+      "description": "Añade el queso bajo en grasa y mezcla bien.",
+      "timeSeconds": 120
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calienta el aceite en una sartén antiadherente.",
+      "timeSeconds": 60
+    },
+    {
+      "stepOrder": 5,
+      "description": "Vierte la mezcla y cocina a fuego bajo durante 5 minutos por lado.",
+      "timeSeconds": 600
+    },
+    {
+      "stepOrder": 6,
+      "description": "Sirve caliente acompañada de ensalada fresca si se desea.",
+      "timeSeconds": 120
+    }
+  ]
+}
+
+//mani tostado
+{
+  "title": "Maní Tostado Casero Bajo en Sal",
+  "shortDescription": "Snack tradicional colombiano preparado con maní tostado sin exceso de sal ni aceite. Apto para diabéticos tipo 2 en porciones controladas. No recomendado para colon irritable en grandes cantidades por su contenido graso.",
+  "servings": 4,
+  "difficultyId": 1,
+  "licenseName": "Preparación tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/mani-tostado-r180",
+  "categoryIds": [4],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Maní natural", "quantity": 1, "unitId": 7 },
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 }
+  ],
+  "images": [],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Precalienta una sartén amplia a fuego medio.",
+      "timeSeconds": 120
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega el maní natural sin aceite y tuesta removiendo constantemente.",
+      "timeSeconds": 600
+    },
+    {
+      "stepOrder": 3,
+      "description": "Cuando estén dorados y crujientes, retira del fuego.",
+      "timeSeconds": 120
+    },
+    {
+      "stepOrder": 4,
+      "description": "Añade una pizca de sal y mezcla bien antes de dejar enfriar.",
+      "timeSeconds": 120
+    }
+  ]
+}
