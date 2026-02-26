@@ -129,12 +129,23 @@ INSERT INTO ingredients (ID, name_ing, image_url) VALUES
 (128,"Ahuyama","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772123601/ZaboraCloudy/slcniurog581sn7ffzty.png")
 (129,"Queso bajo en grasa","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600017/ZaboraCloudy/magbtnqqrdod6wzymykt.png"),
 (130,"Azúcar Morena","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600150/ZaboraCloudy/yfx3vpns0c62g0d4rmtc.png");
+
+
 INSERT INTO ingredients (ID, name_ing, image_url) VALUES
 (126,"Arroz Cocido","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599250/ZaboraCloudy/z3g5nqfu0lyvukv1552j.png"),
-(127,"Frijoles cocidos","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599690/ZaboraCloudy/nezc6x3wx28xglhebhzm.png");
+(127,"Frijoles Cocidos","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599690/ZaboraCloudy/nezc6x3wx28xglhebhzm.png"),
+(128,"Ahuyama","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772123601/ZaboraCloudy/slcniurog581sn7ffzty.png"),
+(129,"Queso bajo en grasa","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600017/ZaboraCloudy/magbtnqqrdod6wzymykt.png"),
+(130,"Azúcar Morena","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600150/ZaboraCloudy/yfx3vpns0c62g0d4rmtc.png"),
+(131,"Avena en hojuelas","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772124448/ZaboraCloudy/bctpuuwa2zundazfdvav.png"),
+(132,"Canela en Rama","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772124449/ZaboraCloudy/clpuxkrym5fuf0q8pmft.png"),
+(133,"Avena en harina","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772124448/ZaboraCloudy/bctpuuwa2zundazfdvav.png"),
+(134,'Leche Descremada','https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599825/ZaboraCloudy/fhsptzhtthvtqmf12woh.png'),
+(135,"Canela en Polvo","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772124449/ZaboraCloudy/clpuxkrym5fuf0q8pmft.png"),
+(136,"Mojarra","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771630554/ZaboraCloudy/qiuvfpb8gax9buw6aouj.png"),;
+
+
 INSERT INTO ingredients (ID, name_ing, image_url) VALUES
-(128,"Ahuyama","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772123601/ZaboraCloudy/slcniurog581sn7ffzty.png");
-INSERT INTO ingredients (ID, name_ing, image_url) VALUES
-(129,"Queso bajo en grasa","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600017/ZaboraCloudy/magbtnqqrdod6wzymykt.png");
-INSERT INTO ingredients (ID, name_ing, image_url) VALUES
-(130,"Azúcar Morena","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600150/ZaboraCloudy/yfx3vpns0c62g0d4rmtc.png");
+(126,"Lenteja","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772148400/ZaboraCloudy/iifswzofxlkttd4lephe.png"),
+(126,"Maní","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772148400/ZaboraCloudy/zj01f5p5ynas4plsl8yo.png"),
+(126,"Quinua","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772148401/ZaboraCloudy/wcwhk4dpbia8zuatuple.png");
