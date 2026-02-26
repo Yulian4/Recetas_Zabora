@@ -123,4 +123,18 @@ INSERT INTO ingredients (ID, name_ing, image_url) VALUES
 (122,"Caldo de Pollo","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771721777/ZaboraCloudy/zxct99rh6w7frdoetfe4.png"),
 (123,"Hojas de Plátano","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771721860/ZaboraCloudy/gq2kjjn7ek0wypwb5qzh.png"),
 (124,"Harina de Maíz Precocida","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771721889/ZaboraCloudy/iduigvd4ngapgg5muhl1.png"),
-(125,"Papa Criolla","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771721976/ZaboraCloudy/jjdvpojzsvydzll0adpo.png");
+(125,"Papa Criolla","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771721976/ZaboraCloudy/jjdvpojzsvydzll0adpo.png"),
+(126,"Arroz Cocido","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599250/ZaboraCloudy/z3g5nqfu0lyvukv1552j.png"),
+(127,"Frijoles cocidos","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599690/ZaboraCloudy/nezc6x3wx28xglhebhzm.png"),
+(128,"Ahuyama","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772123601/ZaboraCloudy/slcniurog581sn7ffzty.png")
+(129,"Queso bajo en grasa","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600017/ZaboraCloudy/magbtnqqrdod6wzymykt.png"),
+(130,"Azúcar Morena","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600150/ZaboraCloudy/yfx3vpns0c62g0d4rmtc.png");
+INSERT INTO ingredients (ID, name_ing, image_url) VALUES
+(126,"Arroz Cocido","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599250/ZaboraCloudy/z3g5nqfu0lyvukv1552j.png"),
+(127,"Frijoles cocidos","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599690/ZaboraCloudy/nezc6x3wx28xglhebhzm.png");
+INSERT INTO ingredients (ID, name_ing, image_url) VALUES
+(128,"Ahuyama","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772123601/ZaboraCloudy/slcniurog581sn7ffzty.png");
+INSERT INTO ingredients (ID, name_ing, image_url) VALUES
+(129,"Queso bajo en grasa","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600017/ZaboraCloudy/magbtnqqrdod6wzymykt.png");
+INSERT INTO ingredients (ID, name_ing, image_url) VALUES
+(130,"Azúcar Morena","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600150/ZaboraCloudy/yfx3vpns0c62g0d4rmtc.png");

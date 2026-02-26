@@ -1589,7 +1589,7 @@
   ]
 }
 
-//calentado paisa recomendable
+//calentado paisa recomendable (ya esta)
 {
   "title": "Calentado Paisa Saludable",
   "shortDescription": "Desayuno tradicional colombiano preparado con arroz integral y fríjoles del día anterior, acompañado de huevo y aguacate. Versión reducida en grasa y sodio. No recomendado para personas con colon irritable en fase activa debido al fríjol.",
@@ -1600,54 +1600,69 @@
   "categoryIds": [1],
   "flavorIds": [1],
   "ingredients": [
-    { "ingredientId": "Arroz integral cocido", "quantity": 2, "unitId": 6 },
-    { "ingredientId": "Fríjoles cocidos", "quantity": 2, "unitId": 6 },
-    { "ingredientId": "Huevo", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Aguacate", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+    { "ingredientId": 126, "quantity": 2, "unitId": 6 },
+    { "ingredientId": 127, "quantity": 2, "unitId": 6 },
+    { "ingredientId": 26, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 4, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
   ],
-  "images": [],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Calentado Paisa",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Pica finamente la cebolla cabezona.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112068/ZaboraCloudy/CalentadoPaisa-Paso1.jpg"
     },
     {
       "stepOrder": 2,
       "description": "Calienta una sartén a fuego medio y agrega la cucharada de aceite de oliva.",
-      "timeSeconds": 60
+      "timeSeconds": 60,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112069/ZaboraCloudy/CalentadoPaisa-Paso2.jpg"
     },
     {
       "stepOrder": 3,
       "description": "Sofríe la cebolla durante 3 minutos hasta que esté transparente.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112069/ZaboraCloudy/CalentadoPaisa-Paso3.jpg"
     },
     {
       "stepOrder": 4,
       "description": "Agrega los fríjoles cocidos y el arroz integral. Mezcla bien y cocina durante 5 minutos.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112070/ZaboraCloudy/CalentadoPaisa-Paso4.jpg"
     },
     {
       "stepOrder": 5,
       "description": "Ajusta sal al gusto y cocina 2 minutos adicionales.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112071/ZaboraCloudy/CalentadoPaisa-Paso5.jpg"
     },
     {
       "stepOrder": 6,
       "description": "En otra sartén antiadherente, cocina los huevos al gusto sin exceso de aceite.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112072/ZaboraCloudy/CalentadoPaisa-Paso6.jpg"
     },
     {
       "stepOrder": 7,
       "description": "Sirve el calentado acompañado de huevo y aguacate en rodajas.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112073/ZaboraCloudy/CalentadoPaisa-Paso7.jpg"
     }
   ]
 }
-//Arepa con queso integral
+//Arepa con queso integral (ingredientes)
 {
   "title": "Arepa Integral con Queso Bajo en Grasa",
   "shortDescription": "Arepa colombiana preparada con harina integral y acompañada de queso bajo en grasa. Apta para diabéticos tipo 2 en porciones moderadas. No recomendada para hipertensos si el queso contiene sodio elevado.",
@@ -1658,37 +1673,50 @@
   "categoryIds": [1],
   "flavorIds": [1],
   "ingredients": [
-    { "ingredientId": "Harina de maíz integral", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Agua tibia", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 },
-    { "ingredientId": "Queso bajo en grasa", "quantity": 4, "unitId": 8 }
+    { "ingredientId": 116, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 57, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 3 },
+    { "ingredientId": 129, "quantity": 4, "unitId": 8 }
   ],
-  "images": [],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116237/ZaboraCloudy/ArepaConQueso.jpg",
+            "altText": "Arepa de Queso",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Sweetysalado",
+            "licenseUrl": ":https://sweetysalado.com/arepas-con-queso/"
+  }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "En un recipiente mezcla la harina de maíz integral con la sal.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116233/ZaboraCloudy/ArepaConQueso-paso1.jpg"
     },
     {
       "stepOrder": 2,
       "description": "Agrega el agua tibia poco a poco hasta formar una masa suave y homogénea.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116234/ZaboraCloudy/ArepaConQueso-paso2.jpg"
     },
     {
       "stepOrder": 3,
       "description": "Divide la masa en dos porciones y forma las arepas.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116234/ZaboraCloudy/ArepaConQueso-paso3.jpg"
     },
     {
       "stepOrder": 4,
       "description": "Cocina en una sartén antiadherente durante 5 minutos por cada lado.",
-      "timeSeconds": 600
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116235/ZaboraCloudy/ArepaConQueso-paso4.jpg"
     },
     {
       "stepOrder": 5,
       "description": "Añade el queso bajo en grasa sobre la arepa caliente y sirve.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116236/ZaboraCloudy/ArepaConQueso-paso5.jpg"
     }
   ]
 }
@@ -1708,29 +1736,41 @@
     { "ingredientId": "Leche descremada", "quantity": 1, "unitId": 2 },
     { "ingredientId": "Agua", "quantity": 1, "unitId": 2 },
     { "ingredientId": "Canela en rama", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Azúcar morena", "quantity": 1, "unitId": 4 }
+    { "ingredientId": 130, "quantity": 1, "unitId": 4 }
   ],
-  "images": [],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116237/ZaboraCloudy/ArepaConQueso.jpg",
+            "altText": "Arepa de Queso",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Sweetysalado",
+            "licenseUrl": ":https://sweetysalado.com/arepas-con-queso/"
+  }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Hierve el agua con la canela durante 5 minutos.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 2,
       "description": "Agrega la avena y cocina a fuego medio durante 10 minutos, removiendo constantemente.",
-      "timeSeconds": 600
+      "timeSeconds": 600,
+      "imageUrl":
     },
     {
       "stepOrder": 3,
       "description": "Añade la leche descremada y cocina 5 minutos más.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 4,
       "description": "Endulza ligeramente y deja enfriar. Refrigera antes de servir.",
-      "timeSeconds": 600
+      "timeSeconds": 600,
+      "imageUrl":
     }
   ]
 }
@@ -1900,7 +1940,7 @@
     }
   ]
 }
-//crema de ahuyama
+//crema de ahuyama (ya esta)
 {
   "title": "Crema de Ahuyama Colombiana Saludable",
   "shortDescription": "Sopa tradicional colombiana preparada con ahuyama y especias naturales, baja en grasa y sodio. Apta para hipertensos y personas con colon irritable. Diabéticos deben controlar la porción por su contenido natural de carbohidratos.",
@@ -1911,44 +1951,58 @@
   "categoryIds": [3],
   "flavorIds": [1],
   "ingredients": [
-    { "ingredientId": "Ahuyama", "quantity": 2, "unitId": 7 },
-    { "ingredientId": "Agua", "quantity": 2, "unitId": 2 },
-    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Ajo", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+    { "ingredientId": 128, "quantity": 2, "unitId": 7 },
+    { "ingredientId": 57, "quantity": 2, "unitId": 2 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 5, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
   ],
-  "images": [],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116786/ZaboraCloudy/lweci0oamjbxxzlfzyoc.png",
+            "altText": "Ahuyama",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/arreglo-comida-otono-sabroso-alto-angulo_10067896.htm#fromView=search&page=1&position=0&uuid=b4707db5-43d3-4884-bef9-5706781d5db8&query=crema+de+ahuyama"
+  }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Pela y corta la ahuyama en cubos medianos.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116779/ZaboraCloudy/lgtiti64pk2a5gtrlxfc.png"
     },
     {
       "stepOrder": 2,
       "description": "Pica finamente la cebolla y el ajo.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116780/ZaboraCloudy/x4jjw9d8fkh2cx8ohmun.png"
     },
     {
       "stepOrder": 3,
       "description": "En una olla, sofríe cebolla y ajo con aceite durante 3 minutos.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116781/ZaboraCloudy/falpd5nvuvglymjzxlwe.png"
     },
     {
       "stepOrder": 4,
       "description": "Agrega la ahuyama y el agua. Cocina tapado durante 25 minutos hasta que esté blanda.",
-      "timeSeconds": 1500
+      "timeSeconds": 1500,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116782/ZaboraCloudy/lom9yqkkvtawdmypxwju.png"
     },
     {
       "stepOrder": 5,
       "description": "Licúa la preparación hasta obtener una textura cremosa.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116783/ZaboraCloudy/zeaa1ces6cymakbiunqu.png"
     },
     {
       "stepOrder": 6,
       "description": "Ajusta sal al gusto y cocina 2 minutos adicionales antes de servir.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116784/ZaboraCloudy/brbj9fuhglwhlar2iwtl.png"
     }
   ]
 }
@@ -2099,53 +2153,142 @@
     }
   ]
 }
-//arepitas de mini maiz
+//arepitas de mini maiz(ya esta)
 {
-  "title": "Arepitas Mini de Maíz al Horno",
-  "shortDescription": "Pequeñas arepas horneadas hechas con harina de maíz, bajas en grasa al evitar fritura. Apta para diabéticos tipo 2 en porciones moderadas. Hipertensos deben controlar la sal añadida.",
-  "servings": 4,
-  "difficultyId": 2,
-  "licenseName": "Receta tradicional colombiana",
-  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/arepitas-r210",
-  "categoryIds": [4],
-  "flavorIds": [1],
-  "ingredients": [
-    { "ingredientId": "Harina de maíz", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Agua tibia", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 3 }
-  ],
-  "images": [],
-  "steps": [
-    {
-      "stepOrder": 1,
-      "description": "Precalienta el horno a 180°C.",
-      "timeSeconds": 300
+    "id": 21,
+    "title": "Arepitas Mini de Maíz al Horno",
+    "shortDescription": "Pequeñas arepas horneadas hechas con harina de maíz, bajas en grasa al evitar fritura. Apta para diabéticos tipo 2 en porciones moderadas. Hipertensos deben controlar la sal añadida.",
+    "servings": 4,
+    "totalTimeMin": 41,
+    "difficulty": "Media",
+    "license": {
+        "id": 24,
+        "name": "Receta tradicional colombiana",
+        "urlRecipe": "https://www.colombia.com/gastronomia/recetas-colombianas/arepitas-r210"
     },
-    {
-      "stepOrder": 2,
-      "description": "Mezcla la harina de maíz con la sal en un recipiente.",
-      "timeSeconds": 120
-    },
-    {
-      "stepOrder": 3,
-      "description": "Agrega el agua tibia poco a poco hasta formar una masa suave.",
-      "timeSeconds": 240
-    },
-    {
-      "stepOrder": 4,
-      "description": "Forma pequeñas arepitas y colócalas en una bandeja ligeramente engrasada.",
-      "timeSeconds": 300
-    },
-    {
-      "stepOrder": 5,
-      "description": "Hornea durante 20 minutos, volteando a la mitad del tiempo.",
-      "timeSeconds": 1200
-    },
-    {
-      "stepOrder": 6,
-      "description": "Retira del horno y deja reposar 5 minutos antes de servir.",
-      "timeSeconds": 300
-    }
-  ]
+    "categories": [
+        {
+            "id": 4,
+            "name": "Snack"
+        }
+    ],
+    "flavors": [
+        {
+            "id": 1,
+            "name": "Salado"
+        }
+    ],
+    "images": [
+        {
+            "id": 21,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 21,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }
+    ],
+    "ingredients": [
+        {
+            "id": 188,
+            "ingredientName": "Aceite de Oliva",
+            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771601891/ZaboraCloudy/xy4c6cghvjjfvwtzrtu2.png",
+            "quantity": 1.0,
+            "unit": {
+                "id": 3,
+                "name": "Cucharadita",
+                "measurement": {
+                    "id": 1,
+                    "name": "Volumen"
+                }
+            }
+        },
+        {
+            "id": 189,
+            "ingredientName": "Harina de Maíz",
+            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717710/ZaboraCloudy/kicw4adyzpmpqux9r06a.png",
+            "quantity": 1.0,
+            "unit": {
+                "id": 6,
+                "name": "Taza",
+                "measurement": {
+                    "id": 1,
+                    "name": "Volumen"
+                }
+            }
+        },
+        {
+            "id": 190,
+            "ingredientName": "Sal",
+            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600108/ZaboraCloudy/oohdkw9e6lepn5ejj8wz.png",
+            "quantity": 1.0,
+            "unit": {
+                "id": 3,
+                "name": "Cucharadita",
+                "measurement": {
+                    "id": 1,
+                    "name": "Volumen"
+                }
+            }
+        },
+        {
+            "id": 191,
+            "ingredientName": "Agua",
+            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771601199/ZaboraCloudy/xtb9a7zuyhs5vqxa3bmc.png",
+            "quantity": 1.0,
+            "unit": {
+                "id": 6,
+                "name": "Taza",
+                "measurement": {
+                    "id": 1,
+                    "name": "Volumen"
+                }
+            }
+        }
+    ],
+    "steps": [
+        {
+            "id": 139,
+            "stepOrder": 5,
+            "description": "Hornea durante 20 minutos, volteando a la mitad del tiempo.",
+            "timeSeconds": 1200,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114472/ZaboraCloudy/v6ex3t06sn9cygb46vs6.png"
+        },
+        {
+            "id": 140,
+            "stepOrder": 6,
+            "description": "Retira del horno y deja reposar 5 minutos antes de servir.",
+            "timeSeconds": 300,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114473/ZaboraCloudy/dmuvueisy3oxtmjncwzh.png"
+        },
+        {
+            "id": 141,
+            "stepOrder": 4,
+            "description": "Forma pequeñas arepitas y colócalas en una bandeja ligeramente engrasada.",
+            "timeSeconds": 300,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114471/ZaboraCloudy/m1lrtcmj4repqqf33kx9.png"
+        },
+        {
+            "id": 142,
+            "stepOrder": 2,
+            "description": "Mezcla la harina de maíz con la sal en un recipiente.",
+            "timeSeconds": 120,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114469/ZaboraCloudy/dpqmoyirsp7mst2ht0xm.png"
+        },
+        {
+            "id": 143,
+            "stepOrder": 3,
+            "description": "Agrega el agua tibia poco a poco hasta formar una masa suave.",
+            "timeSeconds": 240,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114470/ZaboraCloudy/fk41kqw8qsxvgpuwuqk6.png"
+        },
+        {
+            "id": 144,
+            "stepOrder": 1,
+            "description": "Precalienta el horno a 180°C.",
+            "timeSeconds": 300,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114468/ZaboraCloudy/qbwbfa34fhewfoxu1axo.png"
+        }
+    ]
 }
