@@ -1732,45 +1732,45 @@
   "categoryIds": [1],
   "flavorIds": [2],
   "ingredients": [
-    { "ingredientId": "Avena en hojuelas", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Leche descremada", "quantity": 1, "unitId": 2 },
-    { "ingredientId": "Agua", "quantity": 1, "unitId": 2 },
-    { "ingredientId": "Canela en rama", "quantity": 1, "unitId": 10 },
+    { "ingredientId": 131, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 134, "quantity": 1, "unitId": 2 },
+    { "ingredientId": 57, "quantity": 1, "unitId": 2 },
+    { "ingredientId": 132, "quantity": 1, "unitId": 10 },
     { "ingredientId": 130, "quantity": 1, "unitId": 4 }
   ],
   "images": [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116237/ZaboraCloudy/ArepaConQueso.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117142/ZaboraCloudy/avenaFria.jpg",
             "altText": "Arepa de Queso",
             "position": 1,
             "licenseId": 1,
-            "licenseName": "Sweetysalado",
-            "licenseUrl": ":https://sweetysalado.com/arepas-con-queso/"
+            "licenseName": "Freepik",
+            "licenseUrl": " https://www.freepik.es/foto-gratis/vista-frontal-vaso-leche-harina-avena_10070409.htm#fromView=search&page=1&position=0&uuid=1c9aae78-8f90-4c78-b12f-072360b18e43&query=Avena+Fr%C3%ADa+bebida"
   }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Hierve el agua con la canela durante 5 minutos.",
       "timeSeconds": 300,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117139/ZaboraCloudy/avenaFria-paso1.jpg"
     },
     {
       "stepOrder": 2,
       "description": "Agrega la avena y cocina a fuego medio durante 10 minutos, removiendo constantemente.",
       "timeSeconds": 600,
-      "imageUrl":
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117140/ZaboraCloudy/avenaFria-paso2.jpg"
     },
     {
       "stepOrder": 3,
       "description": "Añade la leche descremada y cocina 5 minutos más.",
       "timeSeconds": 300,
-      "imageUrl":
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117141/ZaboraCloudy/avenaFria-paso3.jpg"
     },
     {
       "stepOrder": 4,
       "description": "Endulza ligeramente y deja enfriar. Refrigera antes de servir.",
       "timeSeconds": 600,
-      "imageUrl":
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117142/ZaboraCloudy/avenaFria-paso4.jpg"
     }
   ]
 }
@@ -1786,47 +1786,61 @@
   "categoryIds": [2],
   "flavorIds": [1],
   "ingredients": [
-    { "ingredientId": "Pechuga de pollo", "quantity": 2, "unitId": 7 },
-    { "ingredientId": "Papa", "quantity": 4, "unitId": 10 },
-    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Agua", "quantity": 2, "unitId": 2 },
-    { "ingredientId": "Cilantro fresco", "quantity": 1, "unitId": 11 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 }
+    { "ingredientId": 31, "quantity": 2, "unitId": 7 },
+    { "ingredientId": 60, "quantity": 4, "unitId": 10 },
+    { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 58, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 57, "quantity": 2, "unitId": 2 },
+    { "ingredientId": 38, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 }
   ],
-  "images": [],
+  "images": [  {
+            "id": 21,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 21,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Lava y pela las papas, córtalas en mitades medianas.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 2,
       "description": "Pica finamente el tomate, la cebolla y el ajo.",
-      "timeSeconds": 240
+      "timeSeconds": 240,
+      "imageUrl":
     },
     {
       "stepOrder": 3,
       "description": "En una olla grande, agrega el aceite y sofríe cebolla y ajo durante 3 minutos.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl":
     },
     {
       "stepOrder": 4,
       "description": "Añade el tomate y cocina 5 minutos hasta formar un guiso.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 5,
       "description": "Incorpora el pollo, las papas y el agua. Cocina tapado a fuego medio durante 30 minutos.",
-      "timeSeconds": 1800
+      "timeSeconds": 1800,
+      "imageUrl":
     },
     {
       "stepOrder": 6,
       "description": "Agrega sal al gusto y cilantro fresco picado antes de servir.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     }
   ]
 }
@@ -1842,46 +1856,60 @@
   "categoryIds": [2],
   "flavorIds": [1],
   "ingredients": [
-    { "ingredientId": "Mojarra", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Limón", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
-    { "ingredientId": "Lechuga", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Pepino", "quantity": 1, "unitId": 10 }
+    { "ingredientId": 136, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 29, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 58", "quantity": 2, "unitId": 10 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 28, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 69, "quantity": 1, "unitId": 10 }
   ],
-  "images": [],
+  "images": [  {
+            "id": 21,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 21,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Precalienta el horno a 180°C.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 2,
       "description": "Limpia la mojarra y realiza pequeños cortes superficiales.",
-      "timeSeconds": 240
+      "timeSeconds": 240,
+      "imageUrl":
     },
     {
       "stepOrder": 3,
       "description": "Sazona con ajo triturado, jugo de limón y sal al gusto.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl":
     },
     {
       "stepOrder": 4,
       "description": "Barniza con aceite de oliva y hornea durante 25 minutos.",
-      "timeSeconds": 1500
+      "timeSeconds": 1500,
+      "imageUrl":
     },
     {
       "stepOrder": 5,
       "description": "Prepara la ensalada con lechuga, tomate y pepino en rodajas.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 6,
       "description": "Sirve la mojarra acompañada de la ensalada fresca.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     }
   ]
 }
@@ -1897,46 +1925,60 @@
   "flavorIds": [1],
   "ingredients": [
     { "ingredientId": "Lentejas", "quantity": 1, "unitId": 7 },
-    { "ingredientId": "Zanahoria", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Papa", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Cebolla cabezona", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 },
-    { "ingredientId": "Agua", "quantity": 2, "unitId": 2 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 }
+    { "ingredientId": 50, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 60, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 58, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 67, "quantity": 2, "unitId": 2 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 }
   ],
-  "images": [],
+  "images": [  {
+            "id": 21,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 21,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Lava las lentejas y déjalas en remojo durante 2 horas.",
-      "timeSeconds": 7200
+      "timeSeconds": 7200,
+      "imageUrl":
     },
     {
       "stepOrder": 2,
       "description": "Pica zanahoria, papa, tomate, cebolla y ajo en cubos pequeños.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 3,
       "description": "Sofríe cebolla y ajo en aceite durante 3 minutos.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl":
     },
     {
       "stepOrder": 4,
       "description": "Agrega tomate y cocina 5 minutos hasta formar un guiso.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     },
     {
       "stepOrder": 5,
       "description": "Añade lentejas, verduras picadas y agua. Cocina tapado durante 35 minutos.",
-      "timeSeconds": 2100
+      "timeSeconds": 2100,
+      "imageUrl":
     },
     {
       "stepOrder": 6,
       "description": "Ajusta sal al gusto y cocina 5 minutos adicionales antes de servir.",
-      "timeSeconds": 300
+      "timeSeconds": 300,
+      "imageUrl":
     }
   ]
 }
@@ -2020,29 +2062,40 @@
   "flavorIds": [1],
   "ingredients": [
     { "ingredientId": "Quinua", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Pechuga de pollo", "quantity": 1, "unitId": 7 },
-    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Espinaca", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Limón", "quantity": 1, "unitId": 10 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+    { "ingredientId": 31, "quantity": 1, "unitId": 7 },
+    { "ingredientId": 50, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 18, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 29, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
   ],
-  "images": [],
+  "images": [  {
+            "id": 21,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 21,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Lava la quinua hasta que el agua salga clara.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl":
     },
     {
       "stepOrder": 2,
       "description": "Cocina la quinua con 2 tazas de agua durante 15 minutos a fuego medio.",
-      "timeSeconds": 900
+      "timeSeconds": 900,
+      "imageUrl":
     },
     {
       "stepOrder": 3,
       "description": "Sazona la pechuga de pollo con sal y cocínala a la plancha durante 8 minutos por cada lado.",
-      "timeSeconds": 960
+      "timeSeconds": 960,
+      "imageUrl":
     },
     {
       "stepOrder": 4,
@@ -2052,12 +2105,14 @@
     {
       "stepOrder": 5,
       "description": "Mezcla la quinua tibia con la zanahoria, espinaca y pollo en tiras.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl":
     },
     {
       "stepOrder": 6,
       "description": "Aliña con jugo de limón y aceite de oliva antes de servir.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     }
   ]
 }
@@ -2074,43 +2129,57 @@
   "categoryIds": [3],
   "flavorIds": [1],
   "ingredients": [
-    { "ingredientId": "Huevo", "quantity": 4, "unitId": 10 },
-    { "ingredientId": "Espinaca", "quantity": 1, "unitId": 6 },
-    { "ingredientId": "Queso bajo en grasa", "quantity": 4, "unitId": 8 },
-    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }
+    { "ingredientId": 26, "quantity": 4, "unitId": 10 },
+    { "ingredientId": 18, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 129, "quantity": 4, "unitId": 8 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
   ],
-  "images": [],
+  "images": [  {
+            "id": 21,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 21,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Lava y pica la espinaca finamente.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl":
     },
     {
       "stepOrder": 2,
       "description": "Bate los huevos en un recipiente y agrega la espinaca.",
-      "timeSeconds": 180
+      "timeSeconds": 180,
+      "imageUrl":
     },
     {
       "stepOrder": 3,
       "description": "Añade el queso bajo en grasa y mezcla bien.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     },
     {
       "stepOrder": 4,
       "description": "Calienta el aceite en una sartén antiadherente.",
-      "timeSeconds": 60
+      "timeSeconds": 60,
+      "imageUrl":
     },
     {
       "stepOrder": 5,
       "description": "Vierte la mezcla y cocina a fuego bajo durante 5 minutos por lado.",
-      "timeSeconds": 600
+      "timeSeconds": 600,
+      "imageUrl":
     },
     {
       "stepOrder": 6,
       "description": "Sirve caliente acompañada de ensalada fresca si se desea.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     }
   ]
 }
@@ -2127,29 +2196,41 @@
   "flavorIds": [1],
   "ingredients": [
     { "ingredientId": "Maní natural", "quantity": 1, "unitId": 7 },
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 }
+    { "ingredientId": 42, "quantity": 1, "unitId": 3 }
   ],
-  "images": [],
+  "images": [  {
+            "id": 21,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 21,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Precalienta una sartén amplia a fuego medio.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     },
     {
       "stepOrder": 2,
       "description": "Agrega el maní natural sin aceite y tuesta removiendo constantemente.",
-      "timeSeconds": 600
+      "timeSeconds": 600,
+      "imageUrl":
     },
     {
       "stepOrder": 3,
       "description": "Cuando estén dorados y crujientes, retira del fuego.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     },
     {
       "stepOrder": 4,
       "description": "Añade una pizca de sal y mezcla bien antes de dejar enfriar.",
-      "timeSeconds": 120
+      "timeSeconds": 120,
+      "imageUrl":
     }
   ]
 }
