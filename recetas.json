@@ -2236,136 +2236,62 @@
 }
 //arepitas de mini maiz(ya esta)
 {
-    "id": 21,
     "title": "Arepitas Mini de Maíz al Horno",
     "shortDescription": "Pequeñas arepas horneadas hechas con harina de maíz, bajas en grasa al evitar fritura. Apta para diabéticos tipo 2 en porciones moderadas. Hipertensos deben controlar la sal añadida.",
     "servings": 4,
-    "totalTimeMin": 41,
-    "difficulty": "Media",
-    "license": {
-        "id": 24,
-        "name": "Receta tradicional colombiana",
-        "urlRecipe": "https://www.colombia.com/gastronomia/recetas-colombianas/arepitas-r210"
-    },
-    "categories": [
-        {
-            "id": 4,
-            "name": "Snack"
+    "difficultyId": 2,
+    "licenseName": "Receta tradicional colombiana",
+       "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/arepitas-r210",
+    "categoryIds": [ 4],
+    "flavorIds": [1],
+    "ingredients": [
+        {"ingredientId": 64,"quantity": 1,"unitId":3 },
+        {"ingredientId": 116,"quantity": 1,"unitId":6 },
+        {"ingredientId":42,"quantity": 1,"unitId":3},
+        {"ingredientId": 57, "quantity": 1,"unitId":6
         }
     ],
-    "flavors": [
-        {
+    "images": [{
             "id": 1,
-            "name": "Salado"
-        }
-    ],
-    "images": [
-        {
-            "id": 21,
             "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
             "altText": "Arepitas de maiz tostado",
             "position": 1,
-            "licenseId": 21,
+            "licenseId": 1,
             "licenseName": "Freepik",
             "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
-        }
-    ],
-    "ingredients": [
-        {
-            "id": 188,
-            "ingredientName": "Aceite de Oliva",
-            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771601891/ZaboraCloudy/xy4c6cghvjjfvwtzrtu2.png",
-            "quantity": 1.0,
-            "unit": {
-                "id": 3,
-                "name": "Cucharadita",
-                "measurement": {
-                    "id": 1,
-                    "name": "Volumen"
-                }
-            }
-        },
-        {
-            "id": 189,
-            "ingredientName": "Harina de Maíz",
-            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717710/ZaboraCloudy/kicw4adyzpmpqux9r06a.png",
-            "quantity": 1.0,
-            "unit": {
-                "id": 6,
-                "name": "Taza",
-                "measurement": {
-                    "id": 1,
-                    "name": "Volumen"
-                }
-            }
-        },
-        {
-            "id": 190,
-            "ingredientName": "Sal",
-            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600108/ZaboraCloudy/oohdkw9e6lepn5ejj8wz.png",
-            "quantity": 1.0,
-            "unit": {
-                "id": 3,
-                "name": "Cucharadita",
-                "measurement": {
-                    "id": 1,
-                    "name": "Volumen"
-                }
-            }
-        },
-        {
-            "id": 191,
-            "ingredientName": "Agua",
-            "ingredientImageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771601199/ZaboraCloudy/xtb9a7zuyhs5vqxa3bmc.png",
-            "quantity": 1.0,
-            "unit": {
-                "id": 6,
-                "name": "Taza",
-                "measurement": {
-                    "id": 1,
-                    "name": "Volumen"
-                }
-            }
-        }
-    ],
+        }],
     "steps": [
         {
-            "id": 139,
             "stepOrder": 5,
             "description": "Hornea durante 20 minutos, volteando a la mitad del tiempo.",
             "timeSeconds": 1200,
             "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114472/ZaboraCloudy/v6ex3t06sn9cygb46vs6.png"
         },
         {
-            "id": 140,
             "stepOrder": 6,
             "description": "Retira del horno y deja reposar 5 minutos antes de servir.",
             "timeSeconds": 300,
             "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114473/ZaboraCloudy/dmuvueisy3oxtmjncwzh.png"
         },
         {
-            "id": 141,
             "stepOrder": 4,
             "description": "Forma pequeñas arepitas y colócalas en una bandeja ligeramente engrasada.",
             "timeSeconds": 300,
             "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114471/ZaboraCloudy/m1lrtcmj4repqqf33kx9.png"
         },
         {
-            "id": 142,
             "stepOrder": 2,
             "description": "Mezcla la harina de maíz con la sal en un recipiente.",
             "timeSeconds": 120,
             "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114469/ZaboraCloudy/dpqmoyirsp7mst2ht0xm.png"
         },
         {
-            "id": 143,
             "stepOrder": 3,
             "description": "Agrega el agua tibia poco a poco hasta formar una masa suave.",
             "timeSeconds": 240,
             "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114470/ZaboraCloudy/fk41kqw8qsxvgpuwuqk6.png"
         },
         {
-            "id": 144,
             "stepOrder": 1,
             "description": "Precalienta el horno a 180°C.",
             "timeSeconds": 300,
