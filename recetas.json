@@ -2070,49 +2070,52 @@
     { "ingredientId": 42, "quantity": 1, "unitId": 11 }
   ],
   "images": [  {
-            "id": 21,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217564/ZaboraCloudy/ph2lkb4h2ttehpqsgyzf.png",
             "altText": "Arepitas de maiz tostado",
             "position": 1,
-            "licenseId": 21,
+            "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/plato-principal-restaurante_6329547.htm#fromView=search&page=1&position=6&uuid=e15aff27-8e57-4c27-8671-b3d279b5a04f&query=ensalada+quinua+con+pechuga "
         }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Lava la quinua hasta que el agua salga clara.",
       "timeSeconds": 180,
-      "imageUrl":
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217581/ZaboraCloudy/rvgtrweryax825lso1v2.png"
     },
     {
       "stepOrder": 2,
       "description": "Cocina la quinua con 2 tazas de agua durante 15 minutos a fuego medio.",
       "timeSeconds": 900,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217582/ZaboraCloudy/avsiudgzfiqhauaqoqxf.png"
     },
     {
       "stepOrder": 3,
       "description": "Sazona la pechuga de pollo con sal y cocínala a la plancha durante 8 minutos por cada lado.",
       "timeSeconds": 960,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217583/ZaboraCloudy/wio4c9bxjrt3rlhiigem.png"
     },
     {
       "stepOrder": 4,
       "description": "Ralla la zanahoria y lava la espinaca.",
-      "timeSeconds": 240
+      "timeSeconds": 240,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217584/ZaboraCloudy/grq5zomk6um1vitx795g.png"
     },
     {
       "stepOrder": 5,
       "description": "Mezcla la quinua tibia con la zanahoria, espinaca y pollo en tiras.",
       "timeSeconds": 180,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217585/ZaboraCloudy/rpqnhmc5ewtu7bmljvig.png"
     },
     {
       "stepOrder": 6,
       "description": "Aliña con jugo de limón y aceite de oliva antes de servir.",
       "timeSeconds": 120,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217586/ZaboraCloudy/gzpq6eaewkthyxcucp1d.png"
+      
+
     }
   ]
 }
@@ -2136,50 +2139,50 @@
     { "ingredientId": 42, "quantity": 1, "unitId": 11 }
   ],
   "images": [  {
-            "id": 21,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
-            "altText": "Arepitas de maiz tostado",
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217586/ZaboraCloudy/kvbpfizqybcztwksz8nk.png",
+            "altText": "Espinaca",
             "position": 1,
-            "licenseId": 21,
+            "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/frittata-italiana-hecha-espinacas-tomates-cebollas-pimientos-mesa-blanca-madera_136699228.htm#fromView=search&page=1&position=2&uuid=adee66c3-b668-43d0-8149-a294c172d5da&query=tortilla+de+espinaca "
         }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Lava y pica la espinaca finamente.",
       "timeSeconds": 180,
-      "imageUrl":
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217556/ZaboraCloudy/om7reclnk3x3unmp08xo.png"
     },
     {
       "stepOrder": 2,
       "description": "Bate los huevos en un recipiente y agrega la espinaca.",
       "timeSeconds": 180,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217558/ZaboraCloudy/idhdxgacv1vsa4v7vkmn.png"
     },
     {
       "stepOrder": 3,
       "description": "Añade el queso bajo en grasa y mezcla bien.",
       "timeSeconds": 120,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217559/ZaboraCloudy/teeivtznmi6wlnvqblvp.png"
     },
     {
       "stepOrder": 4,
       "description": "Calienta el aceite en una sartén antiadherente.",
       "timeSeconds": 60,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217560/ZaboraCloudy/muarp4hq1f40v1gkuady.png"
     },
     {
       "stepOrder": 5,
       "description": "Vierte la mezcla y cocina a fuego bajo durante 5 minutos por lado.",
       "timeSeconds": 600,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217561/ZaboraCloudy/mfbqjvy5mfthx79uvlyo.png"
     },
     {
       "stepOrder": 6,
       "description": "Sirve caliente acompañada de ensalada fresca si se desea.",
       "timeSeconds": 120,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217562/ZaboraCloudy/ox8a7uzphjzeba11hwf1.png"
     }
   ]
 }
