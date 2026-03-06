@@ -1,1 +1,1001 @@
-desayuno 
+ {
+  "title": "Caldo de Papa con Costilla",
+  "shortDescription": "Caldo tradicional colombiano de papa y costilla de res magra, reconfortante y lleno de sabor. Ideal para desayunos o almuerzos familiares, acompañado de pan o arepas.",
+  "servings": 4,
+  "difficultyId": 1,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/caldo-de-costilla",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+  { "ingredientId": 57, "quantity": 5, "unitId": 6 },   // agua
+  { "ingredientId": 59, "quantity": 1, "unitId": 10 },  // cubo de caldo
+  { "ingredientId": 17, "quantity": 1, "unitId": 7 },   // costilla de res
+  { "ingredientId": 60, "quantity": 2, "unitId": 7 },   // papa
+  { "ingredientId": 13, "quantity": 2, "unitId": 10 },  // cebolla larga
+  { "ingredientId": 38, "quantity": 1, "unitId": 10 }   // cilantro
+],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771628011/ZaboraCloudy/caldoDeCostilla.png",
+            "altText": "Caldo de Costilla",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "lagavidaalcaldo",
+            "licenseUrl": "https://www.facebook.com/100063549878063/posts/larga-vida-al-caldo-de-costilla-/751882953606694/"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Coloca el agua en una olla a presión y añade el cubo de caldo de costilla. Mezcla ligeramente para disolver el cubo.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771628006/ZaboraCloudy/caldoDeCostilla-paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega los trozos de costilla de res magra al agua con caldo. Asegúrate de que queden sumergidos y cierra la olla a presión.",
+      "timeSeconds": 60,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771628006/ZaboraCloudy/caldoDeCostilla-paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Lleva la olla a fuego alto y cocina la costilla por 20 minutos. Durante la cocción, si aparece espuma en la superficie, retírala con una cuchara para obtener un caldo más claro.",
+      "timeSeconds": 1200,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771628006/ZaboraCloudy/caldoDeCostilla-paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Destapa la olla con cuidado. Verifica que la carne esté parcialmente cocida y agrega las papas cortadas en trozos grandes.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771628006/ZaboraCloudy/caldoDeCostilla-paso4.jpg"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Cocina a fuego medio sin tapa por 15 minutos o hasta que las papas estén tiernas y se deshagan ligeramente en el caldo.",
+      "timeSeconds": 900,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771628006/ZaboraCloudy/caldoDeCostilla-paso5.jpg"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Sirve el caldo caliente en platos hondos. Coloca encima la cebolla larga finamente picada y decora con cilantro fresco.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771628006/ZaboraCloudy/caldoDeCostilla-paso6.jpg"
+    }
+  ]
+}
+
+
+****************************************************************************************************************************
+****************************************************************************************************************************
+{
+  "title": "Huevos Pericos",
+  "shortDescription": "Huevos revueltos al estilo sudamericano con tomate y cebolla, llenos de color y sabor, perfectos para un desayuno rápido y nutritivo.",
+  "servings": 2,
+  "difficultyId": 1,
+  "licenseName": "Creative Commons BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+  { "ingredientId": 26, "quantity": 4, "unitId": 10 },
+  { "ingredientId": 13, "quantity": 60, "unitId": 9 },
+  { "ingredientId": 47, "quantity": 120, "unitId": 9 },
+  { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+  { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+  { "ingredientId": 46, "quantity": 1, "unitId": 11 }
+],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771625121/ZaboraCloudy/HuevosPericos.png",
+            "altText": "Huevos Pericos",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Instagram",
+            "licenseUrl": "https://www.instagram.com/reels/CsTewA7sJFX/"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Pelar y picar la cebolla finamente y lavar y picar el tomate en cubos pequeños.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771625117/ZaboraCloudy/huevosPericos-paso1.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Batir los huevos en un bol y sazonarlos con sal y pimienta al gusto.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771625117/ZaboraCloudy/huevosPericos-paso2.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Calentar un poco de aceite de oliva en una sartén a fuego medio y añadir la cebolla picada.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771625117/ZaboraCloudy/huevosPericos-paso3.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agregar el tomate picado a la sartén y rehogar con la cebolla por unos 3-5 minutos hasta que estén suaves.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771625117/ZaboraCloudy/huevosPericos-paso4.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Verter los huevos batidos sobre el tomate y la cebolla, dejar que comiencen a cuajar sin remover, luego revolver suavemente para integrar todos los ingredientes.",
+      "timeSeconds": 240,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771625117/ZaboraCloudy/huevosPericos-paso5.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Cocinar los huevos hasta obtener la consistencia deseada y servir inmediatamente.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771625117/ZaboraCloudy/huevosPericos-paso6.png"
+    }
+  ]
+}
+****************************************************************************************************************************
+****************************************************************************************************************************
+{
+  "title": "Buñuelos Colombianos",
+  "shortDescription": "Preparación típica colombiana elaborada con fécula de maíz, harina de yuca y quesos frescos, formando esferas doradas y crujientes por fuera, suaves y esponjosas en su interior. Tradicionales en época navideña pero consumidos todo el año como desayuno o snack. Deben freírse a temperatura controlada para lograr cocción uniforme sin abrirse. Personas con intolerancia a la lactosa deben moderar su consumo debido a su contenido de queso.",
+  "servings": 12,
+  "difficultyId": 1,
+  "licenseName": "My Colombian Recipes",
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/bunuelos-colombianos/",
+  "categoryIds": [1, 4],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "3", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "107", "quantity": 1.75, "unitId": 6 },
+    { "ingredientId": "109", "quantity": 0.25, "unitId": 6 },
+    { "ingredientId": "108", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "35", "quantity": 1, "unitId": 6 },
+    { "ingredientId": "26", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "110", "quantity": 0.5, "unitId": 3 },
+    { "ingredientId": "44", "quantity": 2, "unitId": 4 },
+    { "ingredientId": "42", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "27", "quantity": 5, "unitId": 4 }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771715688/ZaboraCloudy/bu%C3%B1uelos.jpg",
+            "altText": "cazuela de mariscos",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "VecinaVegetariana",
+            "licenseUrl": "https://vecinavegetariana.com/es/bunuelos-colombianos/"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Colocar en un recipiente la fécula de maíz, harina de yuca, queso costeño, queso fresco, azúcar, polvo de hornear y una pizca de sal.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771715684/ZaboraCloudy/bu%C3%B1uelos-paso1.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agregar el huevo y la leche poco a poco, mezclando con las manos hasta obtener una masa suave, homogénea y ligeramente húmeda.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771715685/ZaboraCloudy/bu%C3%B1uelos-paso2.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Formar bolitas del mismo tamaño procurando que queden bien compactas y sin grietas.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771715686/ZaboraCloudy/bu%C3%B1uelos-paso3.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calentar abundante aceite en una olla profunda hasta alcanzar aproximadamente 150 °C (300 °F).",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771715686/ZaboraCloudy/bu%C3%B1uelos-paso4.jpg"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Freír los buñuelos en tandas pequeñas durante 3 a 4 minutos hasta que estén dorados de manera uniforme.",
+      "timeSeconds": 240,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771715687/ZaboraCloudy/bu%C3%B1uelos-paso5.jpg"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retirar del aceite y escurrir sobre papel absorbente antes de servir.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771715687/ZaboraCloudy/bu%C3%B1uelos-paso6.png"
+    }
+  ]
+}
+****************************************************************************************************************************
+****************************************************************************************************************************
+{
+  "title": "Tamal Colombiano",
+  "shortDescription": "Tamal colombiano tradicional con masa de maíz, carne de cerdo, pollo, papa, zanahoria y arveja, envuelto en hoja de plátano. Plato típico festivo y abundante. No recomendado para hipertensión por el sodio y embutidos, ni para diabetes si se consume en exceso por su alto contenido de carbohidratos.",
+  "servings": 10,
+  "difficultyId": 3,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/tamal-tolimense",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "124", "quantity": 1000, "unitId": 9 },
+    { "ingredientId": "122", "quantity": 1500, "unitId": 1 },
+    { "ingredientId": "33", "quantity": 5, "unitId": 10 },
+    { "ingredientId": "102", "quantity": 1000, "unitId": 9 },
+    { "ingredientId": "45", "quantity": 300, "unitId": 9 },
+    { "ingredientId": "125", "quantity": 10, "unitId": 10 },
+    { "ingredientId": "50", "quantity": 3, "unitId": 10 },
+    { "ingredientId": "8", "quantity": 300, "unitId": 9 },
+    { "ingredientId": "12", "quantity": 2, "unitId": 10 },
+    { "ingredientId": "5", "quantity": 4, "unitId": 10 },
+    { "ingredientId": "87", "quantity": 1, "unitId": 3 },
+    { "ingredientId": "42", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "51", "quantity": 1, "unitId": 4 },
+    { "ingredientId": "123", "quantity": 10, "unitId": 10 }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "tamal",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En un recipiente grande mezcla la harina de maíz con el caldo caliente hasta obtener una masa suave y homogénea. Agrega sal y color al gusto.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725002/ZaboraCloudy/tamal-paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Cocina previamente la carne de cerdo y el pollo en agua con sal, ajo y comino durante 30 minutos hasta que estén tiernos.",
+      "timeSeconds": 1800,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725003/ZaboraCloudy/tamal-paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sofríe cebolla y ajo finamente picados hasta que estén transparentes para preparar el hogao base.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725004/ZaboraCloudy/tamal-paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Extiende una hoja de plátano limpia y coloca una porción de masa en el centro. Añade papa, zanahoria, arveja, carne de cerdo, pollo y tocino.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725004/ZaboraCloudy/tamal-paso4.jpg"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Envuelve cuidadosamente el tamal formando un paquete firme y amarra con hilo de cocina.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725005/ZaboraCloudy/tamal-paso5.jpg"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Cocina los tamales en una olla grande con agua suficiente durante aproximadamente 2 horas a fuego medio.",
+      "timeSeconds": 7200,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725006/ZaboraCloudy/tamal-paso6.jpg"
+    },
+    {
+      "stepOrder": 7,
+      "description": "Retira del agua, deja reposar unos minutos y sirve caliente.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal-paso7.jpg"
+    }
+  ]
+}
+****************************************************************************************************************************
+****************************************************************************************************************************
+{
+  "title": "Arepa Integral con Queso Bajo en Grasa",
+  "shortDescription": "Arepa colombiana preparada con harina integral y acompañada de queso bajo en grasa. Apta para diabéticos tipo 2 en porciones moderadas. No recomendada para hipertensos si el queso contiene sodio elevado.",
+  "servings": 2,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/arepa-r12",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 116, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 57, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 3 },
+    { "ingredientId": 129, "quantity": 4, "unitId": 8 }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116237/ZaboraCloudy/ArepaConQueso.jpg",
+            "altText": "Arepa de Queso",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Sweetysalado",
+            "licenseUrl": ":https://sweetysalado.com/arepas-con-queso/"
+  }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En un recipiente mezcla la harina de maíz integral con la sal.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116233/ZaboraCloudy/ArepaConQueso-paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega el agua tibia poco a poco hasta formar una masa suave y homogénea.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116234/ZaboraCloudy/ArepaConQueso-paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Divide la masa en dos porciones y forma las arepas.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116234/ZaboraCloudy/ArepaConQueso-paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Cocina en una sartén antiadherente durante 5 minutos por cada lado.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116235/ZaboraCloudy/ArepaConQueso-paso4.jpg"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Añade el queso bajo en grasa sobre la arepa caliente y sirve.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116236/ZaboraCloudy/ArepaConQueso-paso5.jpg"
+    }
+  ]
+}
+****************************************************************************************************************************
+****************************************************************************************************************************
+{
+  "title": "Avena Fría Colombiana Saludable",
+  "shortDescription": "Bebida tradicional colombiana de avena preparada con leche descremada y endulzada ligeramente. Apta para hipertensos si se reduce el azúcar. No recomendada para diabéticos tipo 1 sin control de carbohidratos.",
+  "servings": 3,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/avena-colombiana-r45",
+  "categoryIds": [1],
+  "flavorIds": [2],
+  "ingredients": [
+    { "ingredientId": 131, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 134, "quantity": 1, "unitId": 2 },
+    { "ingredientId": 57, "quantity": 1, "unitId": 2 },
+    { "ingredientId": 132, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 130, "quantity": 1, "unitId": 4 }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117142/ZaboraCloudy/avenaFria.jpg",
+            "altText": "Arepa de Queso",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": " https://www.freepik.es/foto-gratis/vista-frontal-vaso-leche-harina-avena_10070409.htm#fromView=search&page=1&position=0&uuid=1c9aae78-8f90-4c78-b12f-072360b18e43&query=Avena+Fr%C3%ADa+bebida"
+  }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Hierve el agua con la canela durante 5 minutos.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117139/ZaboraCloudy/avenaFria-paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Agrega la avena y cocina a fuego medio durante 10 minutos, removiendo constantemente.",
+      "timeSeconds": 600,
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117140/ZaboraCloudy/avenaFria-paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Añade la leche descremada y cocina 5 minutos más.",
+      "timeSeconds": 300,
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117141/ZaboraCloudy/avenaFria-paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Endulza ligeramente y deja enfriar. Refrigera antes de servir.",
+      "timeSeconds": 600,
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772117142/ZaboraCloudy/avenaFria-paso4.jpg"
+    }
+  ]
+}
+****************************************************************************************************************************
+****************************************************************************************************************************
+{
+  "title": "Calentado Paisa Saludable",
+  "shortDescription": "Desayuno tradicional colombiano preparado con arroz integral y fríjoles del día anterior, acompañado de huevo y aguacate. Versión reducida en grasa y sodio. No recomendado para personas con colon irritable en fase activa debido al fríjol.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/calentado-paisa-r60",
+  "categoryIds": [1],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 126, "quantity": 2, "unitId": 6 },
+    { "ingredientId": 127, "quantity": 2, "unitId": 6 },
+    { "ingredientId": 26, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 4, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Calentado Paisa",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Pica finamente la cebolla cabezona.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112068/ZaboraCloudy/CalentadoPaisa-Paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Calienta una sartén a fuego medio y agrega la cucharada de aceite de oliva.",
+      "timeSeconds": 60,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112069/ZaboraCloudy/CalentadoPaisa-Paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sofríe la cebolla durante 3 minutos hasta que esté transparente.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112069/ZaboraCloudy/CalentadoPaisa-Paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega los fríjoles cocidos y el arroz integral. Mezcla bien y cocina durante 5 minutos.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112070/ZaboraCloudy/CalentadoPaisa-Paso4.jpg"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Ajusta sal al gusto y cocina 2 minutos adicionales.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112071/ZaboraCloudy/CalentadoPaisa-Paso5.jpg"
+    },
+    {
+      "stepOrder": 6,
+      "description": "En otra sartén antiadherente, cocina los huevos al gusto sin exceso de aceite.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112072/ZaboraCloudy/CalentadoPaisa-Paso6.jpg"
+    },
+    {
+      "stepOrder": 7,
+      "description": "Sirve el calentado acompañado de huevo y aguacate en rodajas.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112073/ZaboraCloudy/CalentadoPaisa-Paso7.jpg"
+    }
+  ]
+}
+****************************************************************************************************************************
+****************************************************************************************************************************
+{ 
+  "title": "Panqueques Clásicos de Desayuno", 
+  "shortDescription": "Panqueques esponjosos preparados con harina, huevo, leche y 
+mantequilla. Son un desayuno popular en todo el mundo y se pueden acompañar con miel, 
+frutas o jarabe de maple.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "AllRecipes", 
+  "licenseUrl": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/", 
+  "categoryIds": [1], 
+  "flavorIds": [2], 
+  "ingredients": [ 
+    { "ingredientId": "Harina de trigo", "quantity": 1, "unitId": 6 }, 
+    { "ingredientId": "Leche", "quantity": 1, "unitId": 6 }, 
+    { "ingredientId": "Huevo", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Azúcar", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Polvo de hornear", "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": "Mantequilla derretida", "quantity": 2, "unitId": 4 } 
+  ], 
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749068/ZaboraCloudy/dctswmso29pcyae89ab1.png",
+            "altText": "Panqueques Clásicos",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/fotos-premium/panqueques-deliciosos-primer-plano-arandanos-frescos-frambuesa-jarabe-arce-o-miel-fondo-oscuro-sirope-arce-dulce-fluye-pila-panqueques_88596116.htm#fromView=search&page=2&position=17&uuid=f7712a76-a5c6-4d55-8082-0d9f9b4e122f&query=PANCAKE "
+  }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "En un recipiente grande mezclar la harina de trigo, el azúcar, el polvo de 
+hornear y la sal hasta que los ingredientes secos estén bien integrados.", 
+      "timeSeconds": 120, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749065/ZaboraCloudy/ugwx73l2xlvjwdup7jgl.png" 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "En otro recipiente batir el huevo y agregar la leche y la mantequilla 
+derretida. Mezclar bien hasta obtener una preparación líquida homogénea.", 
+      "timeSeconds": 120, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749066/ZaboraCloudy/rmyeuodrucjr7w0zfo9j.png" 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Verter la mezcla líquida sobre los ingredientes secos y mezclar 
+suavemente con un batidor manual o cuchara hasta formar una masa ligeramente espesa. 
+No mezclar demasiado para que los panqueques queden esponjosos.", 
+      "timeSeconds": 120, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749067/ZaboraCloudy/ev9cgti3qrgdtne5zmef.png" 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Calentar una sartén antiadherente a fuego medio y engrasar ligeramente 
+con mantequilla o aceite.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749054/ZaboraCloudy/nsgehe7zctpqp8crhzk4.png" 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Verter aproximadamente 1/4 de taza de la mezcla en la sartén para 
+formar cada panqueque.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749056/ZaboraCloudy/qdglemz3cqcw1ktcnyqi.png" 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Cocinar durante 2 a 3 minutos hasta que aparezcan burbujas en la 
+superficie. Voltear el panqueque con una espátula.", 
+      "timeSeconds": 180, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749057/ZaboraCloudy/utlufptxrhbybjyzeqfx.png" 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Cocinar el otro lado durante aproximadamente 2 minutos hasta que esté 
+dorado.", 
+      "timeSeconds": 120, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749058/ZaboraCloudy/of8pnbqsh2cobdysoxkn.png" 
+    }, 
+    { 
+      "stepOrder": 8, 
+      "description": "Servir calientes acompañados de miel, frutas frescas o jarabe de maple.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749059/ZaboraCloudy/phutspunkqg5utoltnlw.png" 
+    } 
+  ] 
+} 
+****************************************************************************************************************************
+****************************************************************************************************************************
+{ 
+  "title": "Omelette Clásico de Queso", 
+  "shortDescription": "Omelette esponjoso preparado con huevos, queso y mantequilla. Es 
+un desayuno rápido, rico en proteína y muy común en muchas cocinas del mundo.", 
+  "servings": 1, 
+  "difficultyId": 1, 
+  "licenseName": "Simply Recipes", 
+  "licenseUrl": "https://www.simplyrecipes.com/recipes/how_to_make_an_omelet/", 
+  "categoryIds": [1], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Huevo", "quantity": 3, "unitId": 10 }, 
+    { "ingredientId": "Queso mozzarella", "quantity": 40, "unitId": 9 }, 
+    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta negra", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images": [
+{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Omelette Clásico",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }
+  ], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Romper los huevos en un recipiente mediano. Agregar una pizca de sal y 
+pimienta y batir con un tenedor o batidor manual durante aproximadamente 30 segundos 
+hasta que las yemas y claras estén completamente mezcladas.", 
+      "timeSeconds": 90, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Rallar el queso mozzarella en hebras finas o cortarlo en pequeños trozos 
+para facilitar que se derrita dentro del omelette.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Calentar una sartén antiadherente a fuego medio y añadir la mantequilla. 
+Dejar que se derrita completamente y cubrir el fondo de la sartén.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Verter los huevos batidos en la sartén caliente y mover suavemente la 
+sartén para que el huevo cubra toda la superficie.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Cuando el huevo empiece a cuajarse pero aún esté ligeramente húmedo 
+en la superficie, distribuir el queso sobre una mitad del omelette.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Doblar el omelette por la mitad con una espátula y cocinar durante 1 
+minuto adicional para que el queso se derrita completamente.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Retirar del fuego y servir inmediatamente acompañado de pan tostado o 
+fruta fresca.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+****************************************************************************************************************************
+****************************************************************************************************************************
+{ 
+  "title": "Batido de Banano con Avena", 
+  "shortDescription": "Bebida nutritiva y energética preparada con banano, leche y avena. 
+Ideal para un desayuno rápido y saludable.", 
+  "servings": 1, 
+  "difficultyId": 1, 
+  "licenseName": "BBC Good Food", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/banana-oat-smoothie", 
+  "categoryIds": [1], 
+  "flavorIds": [2], 
+  "ingredients": [ 
+    { "ingredientId": "Banano", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Leche", "quantity": 250, "unitId": 1 }, 
+    { "ingredientId": "Avena en hojuelas", "quantity": 30, "unitId": 9 }, 
+    { "ingredientId": "Miel", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Hielo", "quantity": 4, "unitId": 10 } 
+  ], 
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772737765/ZaboraCloudy/batidoDeAvena.jpg",
+            "altText": "Batido de Banano",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/imagen-ia-gratis/primer-plano-batido-platano_94955148.htm#fromView=search&page=1&position=1&uuid=db98015a-ee23-4202-bc72-4965ea639dea&query=batido+de+avena+y+banano"
+  }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Pelar el banano y cortarlo en rodajas para facilitar el licuado.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772737762/ZaboraCloudy/batidoDeAvena-paso1.jpg" 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Colocar en la licuadora el banano, la leche y la avena en hojuelas.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772737762/ZaboraCloudy/batidoDeAvena-paso2.jpg" 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Agregar la miel para endulzar y los cubos de hielo.", 
+      "timeSeconds": 30, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772737763/ZaboraCloudy/batidoDeAvena-paso3.jpg" 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Licuar durante 30 a 45 segundos hasta obtener una mezcla suave y 
+homogénea.", 
+      "timeSeconds": 45, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772737764/ZaboraCloudy/batidoDeAvena-paso4.jpg" 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Servir inmediatamente en un vaso alto.", 
+      "timeSeconds": 30, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772737764/ZaboraCloudy/batidoDeAvena-paso5.jpg" 
+    } 
+  ] 
+} 
+****************************************************************************************************************************
+****************************************************************************************************************************
+{ 
+  "title": "Batido de Fresa y Yogur", 
+  "shortDescription": "Batido cremoso y refrescante de fresas con yogur natural. Ideal para 
+un desayuno rápido y nutritivo.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "bbcgoodfood", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/strawberry-smoothie", 
+  "categoryIds": [1], 
+  "flavorIds": [2], 
+  "ingredients": [ 
+    { "ingredientId": "Fresas", "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": "Yogur natural", "quantity": 250, "unitId": 1 }, 
+    { "ingredientId": "Leche", "quantity": 200, "unitId": 1 }, 
+    { "ingredientId": "Miel", "quantity": 1, "unitId": 4 } 
+  ], 
+  "images": [
+{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Batido de Fresa",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }
+  ], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Lavar y retirar las hojas de las fresas.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Colocar las fresas, el yogur, la leche y la miel en una licuadora.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Licuar durante 30-40 segundos hasta obtener una mezcla homogénea.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Servir inmediatamente en vasos fríos.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+****************************************************************************************************************************
+****************************************************************************************************************************
+
+{ 
+  "title": "Arepa con Mantequilla y Queso", 
+  "shortDescription": "Desayuno colombiano sencillo compuesto por arepa caliente con 
+mantequilla y queso fresco derretido. Muy común en hogares colombianos.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/arepas-colombianas/", 
+  "categoryIds": [1], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Arepas", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Mantequilla", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Queso fresco", "quantity": 100, "unitId": 9 } 
+  ], 
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Arepa con Mantequilla",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Calentar una sartén a fuego medio y colocar las arepas.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Cocinar las arepas durante 3 a 4 minutos por cada lado hasta que estén 
+doradas.", 
+      "timeSeconds": 480, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Untar mantequilla sobre la superficie caliente de las arepas.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Agregar queso fresco rallado o en láminas encima para que se derrita 
+ligeramente.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Servir caliente acompañado de café o chocolate.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+****************************************************************************************************************************
+****************************************************************************************************************************
+{ 
+  "title": "Avena Caliente con Manzana y Canela", 
+  "shortDescription": "Avena cremosa cocinada con leche, trozos de manzana y un toque de 
+canela. Desayuno saludable y energético.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "bbcgoodfood", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/porridge", 
+  "categoryIds": [1], 
+  "flavorIds": [2], 
+  "ingredients": [ 
+    { "ingredientId": "Avena en hojuelas", "quantity": 100, "unitId": 9 }, 
+    { "ingredientId": "Leche", "quantity": 400, "unitId": 1 }, 
+    { "ingredientId": "Manzana", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Canela", "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": "Miel", "quantity": 1, "unitId": 4 } 
+  ], 
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Avena Caliente",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Pelar y cortar la manzana en pequeños cubos.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Colocar la leche en una olla y llevar a fuego medio.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Agregar la avena y la manzana y cocinar revolviendo constantemente.", 
+      "timeSeconds": 420, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Añadir canela y miel y mezclar bien.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Servir caliente.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+}
+****************************************************************************************************************************
+****************************************************************************************************************************
+{ 
+  "title": "Sandwich de Huevo y Queso", 
+  "shortDescription": "Sándwich caliente de huevo frito con queso derretido en pan tostado. 
+Ideal para un desayuno rápido.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "seriouseats", 
+  "licenseUrl": "https://www.seriouseats.com/egg-sandwich-recipe", 
+  "categoryIds": [1], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Pan de molde", "quantity": 4, "unitId": 10 }, 
+    { "ingredientId": "Huevos", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Queso", "quantity": 80, "unitId": 9 }, 
+    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 } 
+  ], 
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Sandwich de Huevo",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Tostar ligeramente el pan en una sartén con mantequilla.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Freír los huevos en otra sartén hasta que estén cocidos.", 
+      "timeSeconds": 240, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Colocar el huevo sobre una rebanada de pan.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Agregar queso encima y cubrir con otra rebanada de pan.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Calentar el sándwich en la sartén hasta que el queso se derrita.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+****************************************************************************************************************************
+****************************************************************************************************************************
+{ 
+  "title": "Arepa con Aguacate", 
+  "shortDescription": "Desayuno sencillo y nutritivo de arepa caliente con rodajas de 
+aguacate fresco y sal. Muy común en hogares colombianos.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "seriouseats", 
+  "licenseUrl": "https://www.seriouseats.com/arepas", 
+  "categoryIds": [1], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Arepas", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aguacate", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 } 
+  ], 
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "altText": "Arepa con Aguacate",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/"
+  }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Calentar las arepas en una sartén con mantequilla a fuego medio.", 
+      "timeSeconds": 240, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Cortar el aguacate en rodajas delgadas.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Colocar las rodajas de aguacate sobre la arepa caliente.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Agregar sal al gusto y servir inmediatamente.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
