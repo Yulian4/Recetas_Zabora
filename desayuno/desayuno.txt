@@ -485,13 +485,13 @@ frutas o jarabe de maple.",
   "categoryIds": [1], 
   "flavorIds": [2], 
   "ingredients": [ 
-    { "ingredientId": "Harina de trigo", "quantity": 1, "unitId": 6 }, 
-    { "ingredientId": "Leche", "quantity": 1, "unitId": 6 }, 
-    { "ingredientId": "Huevo", "quantity": 1, "unitId": 10 }, 
-    { "ingredientId": "Azúcar", "quantity": 2, "unitId": 4 }, 
-    { "ingredientId": "Polvo de hornear", "quantity": 1, "unitId": 3 }, 
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 3 }, 
-    { "ingredientId": "Mantequilla derretida", "quantity": 2, "unitId": 4 } 
+    { "ingredientId": 25, "quantity": 1, "unitId": 6 }, 
+    { "ingredientId": 27, "quantity": 1, "unitId": 6 }, 
+    { "ingredientId": 26, "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": 44, "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": 110, "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": 42, "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": 99, "quantity": 2, "unitId": 4 } 
   ], 
   "images": [{
             "id": 1,
@@ -574,11 +574,11 @@ un desayuno rápido, rico en proteína y muy común en muchas cocinas del mundo.
   "categoryIds": [1], 
   "flavorIds": [1], 
   "ingredients": [ 
-    { "ingredientId": "Huevo", "quantity": 3, "unitId": 10 }, 
+    { "ingredientId": 26, "quantity": 3, "unitId": 10 }, 
     { "ingredientId": "Queso mozzarella", "quantity": 40, "unitId": 9 }, 
-    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 }, 
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
-    { "ingredientId": "Pimienta negra", "quantity": 1, "unitId": 11 } 
+    { "ingredientId": 99, "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": 112, "quantity": 1, "unitId": 11 } 
   ], 
   "images": [
 {
@@ -657,11 +657,11 @@ Ideal para un desayuno rápido y saludable.",
   "categoryIds": [1], 
   "flavorIds": [2], 
   "ingredients": [ 
-    { "ingredientId": "Banano", "quantity": 1, "unitId": 10 }, 
-    { "ingredientId": "Leche", "quantity": 250, "unitId": 1 }, 
-    { "ingredientId": "Avena en hojuelas", "quantity": 30, "unitId": 9 }, 
-    { "ingredientId": "Miel", "quantity": 1, "unitId": 4 }, 
-    { "ingredientId": "Hielo", "quantity": 4, "unitId": 10 } 
+    { "ingredientId": 10, "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": 27, "quantity": 250, "unitId": 1 }, 
+    { "ingredientId": 131, "quantity": 30, "unitId": 9 }, 
+    { "ingredientId": 30, "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": 121, "quantity": 4, "unitId": 10 } 
   ], 
   "images": [{
             "id": 1,
@@ -719,10 +719,10 @@ un desayuno rápido y nutritivo.",
   "categoryIds": [1], 
   "flavorIds": [2], 
   "ingredients": [ 
-    { "ingredientId": "Fresas", "quantity": 200, "unitId": 9 }, 
-    { "ingredientId": "Yogur natural", "quantity": 250, "unitId": 1 }, 
-    { "ingredientId": "Leche", "quantity": 200, "unitId": 1 }, 
-    { "ingredientId": "Miel", "quantity": 1, "unitId": 4 } 
+    { "ingredientId": 21, "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": 141, "quantity": 250, "unitId": 1 }, 
+    { "ingredientId": 27, "quantity": 200, "unitId": 1 }, 
+    { "ingredientId": 30, "quantity": 1, "unitId": 4 } 
   ], 
   "images": [
 {
@@ -776,9 +776,9 @@ mantequilla y queso fresco derretido. Muy común en hogares colombianos.",
   "categoryIds": [1], 
   "flavorIds": [1], 
   "ingredients": [ 
-    { "ingredientId": "Arepas", "quantity": 2, "unitId": 10 }, 
-    { "ingredientId": "Mantequilla", "quantity": 2, "unitId": 4 }, 
-    { "ingredientId": "Queso fresco", "quantity": 100, "unitId": 9 } 
+    { "ingredientId": 6, "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": 99, "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": 36, "quantity": 100, "unitId": 9 } 
   ], 
   "images": [{
             "id": 1,
@@ -837,11 +837,11 @@ canela. Desayuno saludable y energético.",
   "categoryIds": [1], 
   "flavorIds": [2], 
   "ingredients": [ 
-    { "ingredientId": "Avena en hojuelas", "quantity": 100, "unitId": 9 }, 
-    { "ingredientId": "Leche", "quantity": 400, "unitId": 1 }, 
-    { "ingredientId": "Manzana", "quantity": 1, "unitId": 10 }, 
-    { "ingredientId": "Canela", "quantity": 1, "unitId": 3 }, 
-    { "ingredientId": "Miel", "quantity": 1, "unitId": 4 } 
+    { "ingredientId": 131, "quantity": 100, "unitId": 9 }, 
+    { "ingredientId": 27, "quantity": 400, "unitId": 1 }, 
+    { "ingredientId": 117, "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": 132, "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": 30, "quantity": 1, "unitId": 4 } 
   ], 
   "images": [{
             "id": 1,
@@ -898,10 +898,10 @@ Ideal para un desayuno rápido.",
   "categoryIds": [1], 
   "flavorIds": [1], 
   "ingredients": [ 
-    { "ingredientId": "Pan de molde", "quantity": 4, "unitId": 10 }, 
-    { "ingredientId": "Huevos", "quantity": 2, "unitId": 10 }, 
-    { "ingredientId": "Queso", "quantity": 80, "unitId": 9 }, 
-    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 } 
+    { "ingredientId": 143, "quantity": 4, "unitId": 10 }, 
+    { "ingredientId": 26, "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": 36, "quantity": 80, "unitId": 9 }, 
+    { "ingredientId": 99, "quantity": 1, "unitId": 4 } 
   ], 
   "images": [{
             "id": 1,
@@ -958,10 +958,10 @@ aguacate fresco y sal. Muy común en hogares colombianos.",
   "categoryIds": [1], 
   "flavorIds": [1], 
   "ingredients": [ 
-    { "ingredientId": "Arepas", "quantity": 2, "unitId": 10 }, 
-    { "ingredientId": "Aguacate", "quantity": 1, "unitId": 10 }, 
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
-    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 } 
+    { "ingredientId": 6, "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": 4, "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": 99, "quantity": 1, "unitId": 4 } 
   ], 
   "images": [{
             "id": 1,
