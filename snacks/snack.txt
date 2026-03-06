@@ -634,10 +634,10 @@ banano y fresa.",
   "categoryIds": [4], 
   "flavorIds": [2], 
   "ingredients": [ 
-    { "ingredientId": "Yogur natural", "quantity": 200, "unitId": 9 }, 
-    { "ingredientId": "Banano", "quantity": 1, "unitId": 10 }, 
-    { "ingredientId": "Fresa", "quantity": 4, "unitId": 10 }, 
-    { "ingredientId": "Miel", "quantity": 1, "unitId": 4 } 
+    { "ingredientId": 141, "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": 10, "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": 21, "quantity": 4, "unitId": 10 }, 
+    { "ingredientId": 30, "quantity": 1, "unitId": 4 } 
   ], 
   "images":  [  {
             "id": 1,
@@ -688,9 +688,9 @@ sazonados con sal.",
   "categoryIds": [4], 
   "flavorIds": [1], 
   "ingredients": [ 
-    { "ingredientId": "Maíz para palomitas", "quantity": 80, "unitId": 9 }, 
-    { "ingredientId": "Aceite vegetal", "quantity": 2, "unitId": 4 }, 
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 } 
+    { "ingredientId": 160, "quantity": 80, "unitId": 9 }, 
+    { "ingredientId": 3, "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 } 
   ], 
   "images":  [  {
             "id": 1,
@@ -748,11 +748,10 @@ limón y sal.",
   "categoryIds": [4], 
   "flavorIds": [1,5], 
   "ingredients": [ 
-    { "ingredientId": "Pan tajado", "quantity": 2, "unitId": 10 }, 
-    { "ingredientId": "Aguacate", "quantity": 1, "unitId": 10 }, 
-    { "ingredientId": "Jugo de limón", "quantity": 1, "unitId": 4 }, 
-    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
-    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+    { "ingredientId": 143, "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": 4, "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": 146, "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
   ], 
   "images":  [  {
             "id": 1,
