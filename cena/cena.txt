@@ -765,45 +765,51 @@ limón. Es una cena ligera, rica en proteínas y ácidos grasos saludables.",
       "timeSeconds": 60, 
       "imageUrl":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772809198/ZaboraCloudy/i3sugiwglsqaqowbvvqg.png",
             "altText": "Salmón a la Plancha",
             "position": 1,
             "licenseId": 1,
             "licenseName": "sophirecetas",
-            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
-        }] 
+            "licenseUrl": "https://www.freepik.es/imagen-ia-premium/foto-mujer-madura-exprimir-zumo-limon-plato-cocinero-gourmet-salmon-verduras-dieta-cafe-deliciosa-comida-interior_391841766.htm#fromView=search&page=4&position=15&uuid=01c89cd5-0554-41c0-b88b-920cab931585&query=+el+jugo+de+lim%C3%B3n+sobre+el+filete+de+salmon++ "
+        }],
+"steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Secar los filetes de salmón con papel de cocina para retirar humedad.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772809193/ZaboraCloudy/tgy7xaclm1bsa3fq4stt.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Sazonar ambos lados del salmón con sal y pimienta.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772809193/ZaboraCloudy/tetdn5z1wvk2n4seixlr.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Calentar el aceite de oliva en una sartén a fuego medio.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772809194/ZaboraCloudy/apcnkqw0enrnrtx6wxwf.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Colocar el salmón con la piel hacia abajo y cocinar durante 4 a 5 
 minutos.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772809195/ZaboraCloudy/rjb6chcalmoufly6vyhq.png" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Voltear el salmón con una espátula y cocinar otros 3 a 4 minutos.", 
       "timeSeconds": 240, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772809196/ZaboraCloudy/zwp0wh3avtobzifwou5e.png" 
     }, 
     { 
       "stepOrder": 6, 
       "description": "Retirar del fuego y rociar el jugo de limón sobre el pescado antes de 
 servir.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772809197/ZaboraCloudy/ejsduhkg72yy4eatgqum.png" 
     } 
   ] 
 } 
@@ -833,64 +839,64 @@ acompañados de lechuga, tomate y limón.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806788/ZaboraCloudy/gbbybsgcxnucpantooh7.png",
             "altText": "Tacos de Pollo",
             "position": 1,
             "licenseId": 1,
-            "licenseName": "sophirecetas",
-            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+            "licenseName": "freepik",
+            "licenseUrl": "https://www.freepik.es/imagen-ia-premium/ensalada-saludable-verduras-quinoa-hierbas-frescas-fondo-negro-ensalada-vegetariana_195873904.htm#fromView=search&page=1&position=18&uuid=a0d545b2-58ac-4a53-96f5-5c18e8dbd351&query=tacos+de+pollo++mexicanos"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Cortar la pechuga de pollo en tiras delgadas para facilitar la cocción.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806782/ZaboraCloudy/sndfebortwdzxskmwy31.png" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Picar finamente la cebolla y cortar los tomates en cubos pequeños.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806783/ZaboraCloudy/jvxoctlmjbcbxf9cnans.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Lavar y cortar la lechuga en tiras finas.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806784/ZaboraCloudy/nsu9achjju2dxo0ek0o0.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Calentar el aceite en una sartén a fuego medio y añadir la cebolla. Sofreír 
 durante 2 minutos.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806785/ZaboraCloudy/dkcad556ralhwrbbsv8s.png" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Agregar el pollo en tiras y cocinar durante 6 a 8 minutos hasta que esté 
 bien cocido.", 
       "timeSeconds": 480, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806785/ZaboraCloudy/aynd9d1bot84dp7m4fll.png" 
     }, 
     { 
       "stepOrder": 6, 
       "description": "Añadir sal al gusto y mezclar bien.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806786/ZaboraCloudy/crp4syn6oe5pms5pppt4.png" 
     }, 
     { 
       "stepOrder": 7, 
       "description": "Calentar las tortillas en una sartén durante 30 segundos por cada lado.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806787/ZaboraCloudy/ciuz3kurdjmwom7faxdj.png" 
     }, 
     { 
       "stepOrder": 8, 
       "description": "Rellenar cada tortilla con pollo, lechuga y tomate. Añadir unas gotas de 
 jugo de limón antes de servir.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772806788/ZaboraCloudy/snmatuvl9wxwwaz6qtay.png" 
     } 
   ] 
 }
@@ -924,7 +930,7 @@ acompañada de verduras salteadas como zanahoria, brócoli y pimentón.",
             "altText": "Pollo a la Plancha",
             "position": 1,
             "licenseId": 1,
-            "licenseName": "sophirecetas",
+            "licenseName": "freepik",
             "licenseUrl": "https://www.freepik.es/foto-gratis/pollo-frito-verduras-mesa-madera_26044503.htm#from_element=cross_selling__photo "
         }], 
   "steps": [ 
