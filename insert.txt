@@ -137,7 +137,34 @@ INSERT INTO ingredients (ID, name_ing, image_url) VALUES
 (136,"Mojarra","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771630554/ZaboraCloudy/qiuvfpb8gax9buw6aouj.png"),
 (137,"Lenteja","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772148400/ZaboraCloudy/iifswzofxlkttd4lephe.png"),
 (138,"Maní","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772148400/ZaboraCloudy/zj01f5p5ynas4plsl8yo.png"),
-(139,"Quinua","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772148401/ZaboraCloudy/wcwhk4dpbia8zuatuple.png");;
+(139,"Quinua","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772148401/ZaboraCloudy/wcwhk4dpbia8zuatuple.png"),
+(140, "Queso Mozarella", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600017/ZaboraCloudy/magbtnqqrdod6wzymykt.png"),
+(141, "Yogur Natural", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771629312/ZaboraCloudy/ysdbkwpazmgvx1izmzfd.png"),
+(142, "Yogur Griego", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771629312/ZaboraCloudy/ysdbkwpazmgvx1izmzfd.png"),
+(143, "Pan tajado",""),
+(144, "Pan", ""),
+(145, "Queso Parmesano","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771600017/ZaboraCloudy/magbtnqqrdod6wzymykt.png"),
+(146,'Zumo Limón','https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599865/ZaboraCloudy/ygdxfx5s1wg0iwivmhmn.png'),
+(147, "Sobrebarriga de Res", ""),
+(148,'Leche de Coco','https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599825/ZaboraCloudy/fhsptzhtthvtqmf12woh.png'),
+(149,"Filete de Pescado","https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771630554/ZaboraCloudy/qiuvfpb8gax9buw6aouj.png"),
+(150, "Garbanzos", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599690/ZaboraCloudy/nezc6x3wx28xglhebhzm.png"),
+(151, "Caldo de Verduras", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771721777/ZaboraCloudy/zxct99rh6w7frdoetfe4.png"),
+(152, "Muslos de Pollo", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599936/ZaboraCloudy/qobc3pu9kk7gbf3er3sq.png"),
+(153, "Calabacin", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771605676/ZaboraCloudy/pposclccmzb80nkjbbtx.png"),
+(154, "Pasta para Lasaña", ""),
+(155, "Filete de Res", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771629768/ZaboraCloudy/zhmdhuy6nliu0rmx0dpv.png"),
+(156, "Salsa de Soya", "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771599527/ZaboraCloudy/vrkuwx2ngvncucv5fdal.png"),
+(157, "Tortilla de trigo", ""),
+(158, "Filete de Salmón", ""),
+(159, "Tortilla de Maíz", ""),
+(160, "Palomitas de Maíz", ""),
+
+
+
+
+
+
 
 
 INSERT INTO ingredients (ID, name_ing, image_url) VALUES
