@@ -1,1 +1,990 @@
-Una Cena sana
+{
+  "title": "Tortilla Colombiana de Espinaca y Queso Bajo en Grasa",
+  "shortDescription": "Tortilla ligera preparada con huevo, espinaca y queso bajo en grasa. Apta para diabéticos tipo 2 y colon irritable. Hipertensos deben usar queso reducido en sodio.",
+  "servings": 2,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/tortilla-de-espinaca-r150",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 26, "quantity": 4, "unitId": 10 },
+    { "ingredientId": 18, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 129, "quantity": 4, "unitId": 8 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
+  ],
+  "images": [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217586/ZaboraCloudy/kvbpfizqybcztwksz8nk.png",
+            "altText": "Espinaca",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/frittata-italiana-hecha-espinacas-tomates-cebollas-pimientos-mesa-blanca-madera_136699228.htm#fromView=search&page=1&position=2&uuid=adee66c3-b668-43d0-8149-a294c172d5da&query=tortilla+de+espinaca "
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava y pica la espinaca finamente.",
+      "timeSeconds": 180,
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217556/ZaboraCloudy/om7reclnk3x3unmp08xo.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Bate los huevos en un recipiente y agrega la espinaca.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217558/ZaboraCloudy/idhdxgacv1vsa4v7vkmn.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Añade el queso bajo en grasa y mezcla bien.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217559/ZaboraCloudy/teeivtznmi6wlnvqblvp.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calienta el aceite en una sartén antiadherente.",
+      "timeSeconds": 60,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217560/ZaboraCloudy/muarp4hq1f40v1gkuady.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Vierte la mezcla y cocina a fuego bajo durante 5 minutos por lado.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217561/ZaboraCloudy/mfbqjvy5mfthx79uvlyo.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Sirve caliente acompañada de ensalada fresca si se desea.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217562/ZaboraCloudy/ox8a7uzphjzeba11hwf1.png"
+    }
+  ]
+}
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+{
+  "title": "Ensalada Tibia de Quinua con Pollo",
+  "shortDescription": "Cena ligera inspirada en ingredientes colombianos, preparada con quinua, pollo a la plancha y vegetales frescos. Apta para diabéticos tipo 2 y recomendada para hipertensos si se controla la sal. Segura para colon irritable si se evita la cebolla cruda.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/ensalada-de-quinua-r120",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Quinua", "quantity": 1, "unitId": 6 },
+    { "ingredientId": 31, "quantity": 1, "unitId": 7 },
+    { "ingredientId": 50, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 18, "quantity": 1, "unitId": 6 },
+    { "ingredientId": 29, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
+  ],
+  "images": [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217564/ZaboraCloudy/ph2lkb4h2ttehpqsgyzf.png",
+            "altText": "Arepitas de maiz tostado",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/plato-principal-restaurante_6329547.htm#fromView=search&page=1&position=6&uuid=e15aff27-8e57-4c27-8671-b3d279b5a04f&query=ensalada+quinua+con+pechuga "
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava la quinua hasta que el agua salga clara.",
+      "timeSeconds": 180,
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217581/ZaboraCloudy/rvgtrweryax825lso1v2.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Cocina la quinua con 2 tazas de agua durante 15 minutos a fuego medio.",
+      "timeSeconds": 900,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217582/ZaboraCloudy/avsiudgzfiqhauaqoqxf.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sazona la pechuga de pollo con sal y cocínala a la plancha durante 8 minutos por cada lado.",
+      "timeSeconds": 960,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217583/ZaboraCloudy/wio4c9bxjrt3rlhiigem.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Ralla la zanahoria y lava la espinaca.",
+      "timeSeconds": 240,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217584/ZaboraCloudy/grq5zomk6um1vitx795g.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Mezcla la quinua tibia con la zanahoria, espinaca y pollo en tiras.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217585/ZaboraCloudy/rpqnhmc5ewtu7bmljvig.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Aliña con jugo de limón y aceite de oliva antes de servir.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217586/ZaboraCloudy/gzpq6eaewkthyxcucp1d.png"
+      
+
+    }
+  ]
+}
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+{
+  "title": "Crema de Ahuyama Colombiana Saludable",
+  "shortDescription": "Sopa tradicional colombiana preparada con ahuyama y especias naturales, baja en grasa y sodio. Apta para hipertensos y personas con colon irritable. Diabéticos deben controlar la porción por su contenido natural de carbohidratos.",
+  "servings": 4,
+  "difficultyId": 1,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/crema-de-ahuyama-r90",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 128, "quantity": 2, "unitId": 7 },
+    { "ingredientId": 57, "quantity": 2, "unitId": 2 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 5, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116786/ZaboraCloudy/lweci0oamjbxxzlfzyoc.png",
+            "altText": "Ahuyama",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/arreglo-comida-otono-sabroso-alto-angulo_10067896.htm#fromView=search&page=1&position=0&uuid=b4707db5-43d3-4884-bef9-5706781d5db8&query=crema+de+ahuyama"
+  }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Pela y corta la ahuyama en cubos medianos.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116779/ZaboraCloudy/lgtiti64pk2a5gtrlxfc.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Pica finamente la cebolla y el ajo.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116780/ZaboraCloudy/x4jjw9d8fkh2cx8ohmun.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "En una olla, sofríe cebolla y ajo con aceite durante 3 minutos.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116781/ZaboraCloudy/falpd5nvuvglymjzxlwe.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega la ahuyama y el agua. Cocina tapado durante 25 minutos hasta que esté blanda.",
+      "timeSeconds": 1500,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116782/ZaboraCloudy/lom9yqkkvtawdmypxwju.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Licúa la preparación hasta obtener una textura cremosa.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116783/ZaboraCloudy/zeaa1ces6cymakbiunqu.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Ajusta sal al gusto y cocina 2 minutos adicionales antes de servir.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772116784/ZaboraCloudy/brbj9fuhglwhlar2iwtl.png"
+    }
+  ]
+}
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+
+{ 
+  "title": "Pollo al Horno con Papas y Zanahoria", 
+  "shortDescription": "Pollo al horno con papas y zanahorias sazonadas. Cena fácil, casera y 
+equilibrada.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/pollo-al-horno-con-verduras/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Muslos de pollo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Papa", "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Romero fresco", "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Pollo al Horno",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { "stepOrder": 1, "description": "Precalentar el horno a 200°C.", "timeSeconds": 300, 
+"imageUrl": null }, 
+    { "stepOrder": 2, "description": "Sazonar el pollo con ajo, sal, pimienta y romero.", 
+"timeSeconds": 120, "imageUrl": null }, 
+    { "stepOrder": 3, "description": "Cortar papa y zanahoria en trozos y mezclar con aceite, 
+sal y pimienta.", "timeSeconds": 180, "imageUrl": null }, 
+    { "stepOrder": 4, "description": "Colocar el pollo y las verduras en una bandeja y hornear 
+35-40 minutos hasta dorar.", "timeSeconds": 2400, "imageUrl": null }, 
+{ "stepOrder": 5, "description": "Servir caliente.", "timeSeconds": 60, "imageUrl": null } 
+] 
+}
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+{ 
+  "title": "Lasaña de Verduras", 
+  "shortDescription": "Lasaña saludable con capas de berenjena, calabacín, pimientos y 
+salsa de tomate. Ideal para una cena ligera y nutritiva.", 
+  "servings": 3, 
+  "difficultyId": 2, 
+  "licenseName": "allrecipes", 
+  "licenseUrl": "https://www.allrecipes.com/recipe/22180/vegetable-lasagna/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Berenjena", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Calabacín", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Pimiento rojo", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Salsa de tomate", "quantity": 400, "unitId": 1 }, 
+    { "ingredientId": "Queso mozzarella", "quantity": 150, "unitId": 9 }, 
+    { "ingredientId": "Pasta para lasaña", "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Lasaña de Verduras",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Lavar y cortar berenjena, calabacín y pimiento en láminas finas.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Saltear las verduras en una sartén con aceite de oliva durante 5 minutos. 
+Sazonar con sal y pimienta.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "En un recipiente para horno, colocar una capa de pasta, una capa de 
+verduras, salsa de tomate y queso. Repetir hasta terminar los ingredientes.", 
+      "timeSeconds": 420, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Hornear a 180°C durante 30 minutos hasta que el queso se derrita y la 
+lasaña esté dorada.", 
+      "timeSeconds": 1800, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Retirar del horno, dejar reposar 5 minutos y servir caliente.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+{ 
+  "title": "Filete de Res con Champiñones", 
+  "shortDescription": "Filete de res a la plancha con salsa de champiñones y ajo. Cena alta 
+en proteínas y muy sabrosa.", 
+  "servings": 2, 
+  "difficultyId": 2, 
+  "licenseName": "allrecipes", 
+  "licenseUrl": "https://www.allrecipes.com/recipe/240208/steak-with-mushroom-sauce/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Filete de res", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Champiñones", "quantity": 100, "unitId": 9 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Filete de Res",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Sazonar los filetes de res con sal y pimienta.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Calentar aceite y mantequilla en sartén y sellar los filetes a fuego medio-alto 3-4 minutos por cada lado.", 
+      "timeSeconds": 480, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Saltear los champiñones y ajo picado en la misma sartén hasta dorar.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Colocar los filetes en platos y cubrir con los champiñones salteados.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Servir inmediatamente acompañado de ensalada verde o vegetales al vapor.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+
+{ 
+  "title": "Crema de Champiñones", 
+  "shortDescription": "Sopa cremosa de champiñones con cebolla, ajo y un toque de crema 
+de leche. Cena ligera y reconfortante.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/crema-de-champinones/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Champiñones", "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Caldo de verduras", "quantity": 500, "unitId": 1 }, 
+    { "ingredientId": "Crema de leche", "quantity": 100, "unitId": 1 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Crema de Champiñones",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { "stepOrder": 1, "description": "Saltear cebolla y ajo en aceite hasta dorar.", 
+"timeSeconds": 180, "imageUrl": null }, 
+    { "stepOrder": 2, "description": "Agregar champiñones y cocinar 5 minutos.", 
+"timeSeconds": 300, "imageUrl": null }, 
+    { "stepOrder": 3, "description": "Verter caldo de verduras y cocinar 10 minutos.", 
+"timeSeconds": 600, "imageUrl": null }, 
+    { "stepOrder": 4, "description": "Licuar la mezcla hasta obtener textura cremosa.", 
+"timeSeconds": 180, "imageUrl": null }, 
+    { "stepOrder": 5, "description": "Agregar crema de leche, sal y pimienta. Servir caliente.", 
+"timeSeconds": 120, "imageUrl": null } 
+  ] 
+} 
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+
+{ 
+  "title": "Omelette de Espinaca y Queso", 
+  "shortDescription": "Omelette nutritivo preparado con huevos, espinaca fresca y queso. Es 
+una cena ligera y rica en proteínas.", 
+  "servings": 1, 
+  "difficultyId": 1, 
+  "licenseName": "Simply Recipes", 
+  "licenseUrl": "https://www.simplyrecipes.com/recipes/spinach_omelet/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Huevo", "quantity": 3, "unitId": 10 }, 
+    { "ingredientId": "Espinaca fresca", "quantity": 40, "unitId": 9 }, 
+    { "ingredientId": "Queso mozzarella", "quantity": 30, "unitId": 9 }, 
+    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Omelette de Espinaca",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Lavar bien las hojas de espinaca y picarlas en trozos pequeños.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Romper los huevos en un recipiente y batirlos durante 30 segundos hasta 
+que estén bien mezclados.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Agregar una pizca de sal y pimienta a los huevos batidos.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Calentar la mantequilla en una sartén antiadherente a fuego medio.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Añadir la espinaca y cocinar durante 1 minuto hasta que se reduzca 
+ligeramente.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Verter los huevos batidos sobre la espinaca.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Cuando el huevo comience a cuajar, añadir el queso rallado sobre una 
+mitad del omelette.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 8, 
+      "description": "Doblar el omelette por la mitad y cocinar 1 minuto adicional antes de 
+servir.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+}
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+{ 
+  "title": "Arroz Salteado con Verduras", 
+  "shortDescription": "Arroz salteado estilo asiático preparado con verduras frescas, ajo y 
+salsa de soya. Es una cena rápida y ligera ideal para aprovechar arroz previamente 
+cocido.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "BBC Good Food", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/egg-fried-rice", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Arroz cocido", "quantity": 2, "unitId": 6 }, 
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Arvejas", "quantity": 80, "unitId": 9 }, 
+    { "ingredientId": "Cebolla larga", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite vegetal", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Salsa de soya", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Arroz Salteado",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Pelar la zanahoria y cortarla en cubos pequeños. Picar la cebolla larga en 
+rodajas finas y el ajo en trozos muy pequeños.", 
+      "timeSeconds": 240, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Calentar el aceite vegetal en un sartén grande o wok a fuego medio-alto.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Agregar el ajo y la cebolla larga y sofreír durante aproximadamente 1 
+minuto hasta que liberen aroma.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Añadir la zanahoria y las arvejas y cocinar durante 3 a 4 minutos hasta 
+que comiencen a ablandarse.", 
+      "timeSeconds": 240, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Incorporar el arroz cocido y mezclar bien con las verduras.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Agregar la salsa de soya y una pizca de sal. Mezclar continuamente 
+durante 3 minutos.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Servir caliente como plato principal o acompañado de pollo o huevo.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    } 
+  ] 
+}
+
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+{ 
+  "title": "Quesadillas de Queso", 
+  "shortDescription": "Cena rápida preparada con tortillas rellenas de queso derretido y 
+doradas en sartén.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "Simply Recipes", 
+  "licenseUrl": "https://www.simplyrecipes.com/recipes/quesadilla/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Tortillas de trigo", "quantity": 4, "unitId": 10 }, 
+    { "ingredientId": "Queso mozzarella", "quantity": 120, "unitId": 9 }, 
+    { "ingredientId": "Mantequilla", "quantity": 1, "unitId": 4 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "tamal",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Rallar el queso mozzarella o cortarlo en tiras finas.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Calentar una sartén grande a fuego medio y agregar la mantequilla.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Colocar una tortilla en la sartén caliente.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Distribuir el queso sobre la tortilla y cubrir con otra tortilla.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Cocinar durante 2 a 3 minutos hasta que el fondo esté dorado.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Voltear la quesadilla y cocinar otros 2 minutos hasta que el queso esté 
+completamente derretido.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Retirar de la sartén y cortar en triángulos antes de servir.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+}
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+
+{ 
+  "title": "Sopa Casera de Verduras", 
+  "shortDescription": "Sopa ligera preparada con zanahoria, papa, cebolla y apio. Ideal para 
+una cena caliente y nutritiva.", 
+  "servings": 3, 
+  "difficultyId": 1, 
+  "licenseName": "AllRecipes", 
+  "licenseUrl": "https://www.allrecipes.com/recipe/13338/quick-and-easy-vegetable-soup/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Zanahoria", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Papa", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Apio", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Agua", "quantity": 1, "unitId": 2 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Quesadillas de Queso",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Lavar y pelar las zanahorias y las papas.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Cortar las zanahorias, papas, apio y cebolla en cubos medianos.", 
+      "timeSeconds": 240, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Calentar el aceite de oliva en una olla grande a fuego medio.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Agregar la cebolla y cocinar durante 2 minutos hasta que esté 
+transparente.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Añadir el resto de las verduras y mezclar bien.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Agregar el agua y la sal. Cocinar a fuego medio durante 20 minutos.", 
+      "timeSeconds": 1200, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Servir caliente.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+{ 
+  "title": "Salmón a la Plancha con Limón", 
+  "shortDescription": "Filete de salmón dorado a la plancha con aceite de oliva y jugo de 
+limón. Es una cena ligera, rica en proteínas y ácidos grasos saludables.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "BBC Good Food", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/pan-fried-salmon", 
+  "categoryIds": [3], 
+  "flavorIds": [1,5], 
+  "ingredients": [ 
+    { "ingredientId": "Filete de salmón", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Jugo de limón", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta negra", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images": null, 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Secar los filetes de salmón con papel de cocina para retirar humedad.", 
+      "timeSeconds": 60, 
+      "imageUrl":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Salmón a la Plancha",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }] 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Sazonar ambos lados del salmón con sal y pimienta.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Calentar el aceite de oliva en una sartén a fuego medio.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Colocar el salmón con la piel hacia abajo y cocinar durante 4 a 5 
+minutos.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Voltear el salmón con una espátula y cocinar otros 3 a 4 minutos.", 
+      "timeSeconds": 240, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Retirar del fuego y rociar el jugo de limón sobre el pescado antes de 
+servir.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+ 
+{ 
+  "title": "Tacos de Pollo Caseros", 
+  "shortDescription": "Tacos mexicanos preparados con pollo salteado, tortillas de maíz y 
+acompañados de lechuga, tomate y limón.", 
+  "servings": 3, 
+  "difficultyId": 2, 
+  "licenseName": "AllRecipes", 
+  "licenseUrl": "https://www.allrecipes.com/recipe/70935/taquitos-de-pollo/", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Pechuga de pollo", "quantity": 400, "unitId": 9 }, 
+    { "ingredientId": "Tortillas de maíz", "quantity": 6, "unitId": 10 }, 
+    { "ingredientId": "Lechuga", "quantity": 80, "unitId": 9 }, 
+    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Aceite vegetal", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Jugo de limón", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "altText": "Tacos de Pollo",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Cortar la pechuga de pollo en tiras delgadas para facilitar la cocción.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Picar finamente la cebolla y cortar los tomates en cubos pequeños.", 
+      "timeSeconds": 180, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Lavar y cortar la lechuga en tiras finas.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Calentar el aceite en una sartén a fuego medio y añadir la cebolla. Sofreír 
+durante 2 minutos.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Agregar el pollo en tiras y cocinar durante 6 a 8 minutos hasta que esté 
+bien cocido.", 
+      "timeSeconds": 480, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Añadir sal al gusto y mezclar bien.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Calentar las tortillas en una sartén durante 30 segundos por cada lado.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 8, 
+      "description": "Rellenar cada tortilla con pollo, lechuga y tomate. Añadir unas gotas de 
+jugo de limón antes de servir.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    } 
+  ] 
+}
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+ 
+
+{ 
+  "title": "Pollo a la Plancha con Verduras Salteadas", 
+  "shortDescription": "Cena ligera y saludable preparada con pechuga de pollo a la plancha 
+acompañada de verduras salteadas como zanahoria, brócoli y pimentón.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "BBC Good Food", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/chicken-stir-fry", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Pechuga de pollo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Brócoli", "quantity": 150, "unitId": 9 }, 
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Pimentón rojo", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804213/ZaboraCloudy/uc6gtcnvkj2gdiadkdvc.png",
+            "altText": "Pollo a la Plancha",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "sophirecetas",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/pollo-frito-verduras-mesa-madera_26044503.htm#from_element=cross_selling__photo "
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Lavar las verduras. Cortar el brócoli en pequeños ramilletes, la zanahoria 
+en rodajas finas y el pimentón en tiras delgadas.", 
+      "timeSeconds": 300, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804191/ZaboraCloudy/ggvwjfear28ezwf0y68b.png" 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Pelar y picar finamente los dientes de ajo.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804192/ZaboraCloudy/go85m2knppctpwgdueyr.png" 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Sazonar las pechugas de pollo por ambos lados con sal y pimienta.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804193/ZaboraCloudy/zfqolumpcgq0yrs1p2jh.png" 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Calentar 1 cucharada de aceite de oliva en una sartén grande a fuego 
+medio-alto.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804194/ZaboraCloudy/d916aw9gvkxhg4howxch.png" 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Colocar las pechugas de pollo y cocinarlas durante 5 a 6 minutos por 
+cada lado hasta que estén doradas y completamente cocidas.", 
+      "timeSeconds": 720, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804195/ZaboraCloudy/czy5s3opu3uxybm6g7px.png" 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "En otra sartén calentar la cucharada restante de aceite y sofreír el ajo 
+durante 30 segundos.", 
+      "timeSeconds": 30, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804196/ZaboraCloudy/nhkejpuwmbm44pbq2dsx.png" 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Añadir las verduras y saltear durante 5 a 6 minutos hasta que estén 
+ligeramente tiernas pero aún crujientes.", 
+      "timeSeconds": 360, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804201/ZaboraCloudy/gav5kwqowacjb8beqgq2.png" 
+    }, 
+    { 
+      "stepOrder": 8, 
+      "description": "Servir el pollo caliente acompañado de las verduras salteadas.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804212/ZaboraCloudy/jrkrqlvkqxsfu6hy1o3c.png" 
+    } 
+  ] 
+}
