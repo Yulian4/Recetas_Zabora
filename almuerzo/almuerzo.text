@@ -1,1 +1,1440 @@
-Almuerzo nutritivo
+ {
+  "title": "Arroz con Pollo",
+  "shortDescription": "Plato tradicional colombiano, completo y balanceado, ideal para el almuerzo familiar. Contiene proteína, cereales y vegetales, con preparación sencilla.",
+  "servings": 6,
+  "difficultyId": 1,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/arroz-con-pollo",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+  { "ingredientId": 31, "quantity": 1, "unitId": 10 },        // 1 pechuga de pollo (unidad)
+  { "ingredientId": 56, "quantity": 3, "unitId": 10 },        // 3 sobres de caldo (unidad)
+  { "ingredientId": 57, "quantity": 1000, "unitId": 1 },      // 4 tazas de agua ≈ 1000 ml
+  { "ingredientId": 3,  "quantity": 2, "unitId": 4 },         // 2 cucharadas de aceite
+  { "ingredientId": 12, "quantity": 45, "unitId": 9 },        // 1/2 cebolla (gramos)
+  { "ingredientId": 47, "quantity": 245, "unitId": 9 },       // 2 tomates (gramos)
+  { "ingredientId": 34, "quantity": 40, "unitId": 9 },        // 1/2 pimentón rojo (gramos)
+  { "ingredientId": 58, "quantity": 3, "unitId": 9 },         // 1 diente de ajo (gramos)
+  { "ingredientId": 8,  "quantity": 125, "unitId": 9 },       // 1/4 libra de arveja ≈ 125 g
+  { "ingredientId": 50, "quantity": 50, "unitId": 9 },        // 1 zanahoria pequeña (gramos)
+  { "ingredientId": 24, "quantity": 125, "unitId": 9 },       // 1/4 libra de habichuelas ≈ 125 g
+  { "ingredientId": 51, "quantity": 1, "unitId": 3 },         // 1 cucharadita de color
+  { "ingredientId": 7,  "quantity": 250, "unitId": 9 }        // 1/2 libra de arroz ≈ 250 g
+],
+  "images": [
+        {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/arrozConPollo.jpg",
+            "altText": "Arroz con Pollo",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "antojandoando",
+            "licenseUrl": "https://antojandoando.com/recetas/arroces/arroz-con-pollo/"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Coloca la pechuga de pollo en una olla con agua y añade condimentos básicos (como caldo desmenuzado o sal). Cocina a fuego medio tapado durante 15 minutos o hasta que esté bien cocida.",
+      "timeSeconds": 900,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Retira la pechuga de la olla y deja enfriar unos minutos. Reserva el líquido de cocción que servirá como base para el arroz, ya que contiene los sabores concentrados de los condimentos.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Desmecha la pechuga de pollo con ayuda de un tenedor y reserva para integrarla al arroz más adelante.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "En otra olla, calienta aceite a fuego medio. Sofríe los vegetales junto con condimentos aromáticos (como ajo picado y cebolla) hasta que estén tiernos y fragantes, aproximadamente 3-5 minutos.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso4.jpg"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Agrega los demás condimentos de sabor (como pimentón y color) y mezcla bien. Luego incorpora el arroz crudo y revuelve para que se impregne de los sabores durante 1-2 minutos.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso5.jpg"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Vierte el líquido de cocción de la pechuga reservado sobre el arroz. Mezcla suavemente y cocina a fuego medio hasta que el arroz absorba la mayor parte del líquido, aproximadamente 10 minutos. Ajusta la sal o condimentos al gusto si es necesario.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso6.jpg"
+    },
+    {
+      "stepOrder": 7,
+      "description": "Incorpora el pollo desmechado encima del arroz sin revolver, tapa la olla y reduce el fuego al mínimo. Cocina por 30 minutos más para que los sabores se integren y el arroz y vegetales queden tiernos.",
+      "timeSeconds": 1800,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso7.jpg"
+    },
+    {
+      "stepOrder": 8,
+      "description": "Retira la olla del fuego y mezcla suavemente el arroz con el pollo y los vegetales, asegurándote de distribuir bien los sabores de los condimentos.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso8.jpg"
+    },
+    {
+      "stepOrder": 9,
+      "description": "Sirve en porciones iguales y acompaña con vegetales frescos al gusto, como rodajas de tomate, tiras de lechuga o aguacate. Puedes ajustar condimentos al servir según preferencias individuales.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771604647/ZaboraCloudy/ArrozPollo-Paso9.jpg"
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Bandeja Paisa",
+  "shortDescription": "Plato típico de Antioquia, Colombia, caracterizado por su abundancia y variedad de ingredientes. Contiene fríjoles, carne, chorizo, tocino, plátano, arroz, huevo y aguacate, preparado con sabor y tradición.",
+  "servings": 6,
+  "difficultyId": 3,
+  "licenseName": "aratiendas",
+  "licenseUrl": "https://aratiendas.com/blog/recetas/ingredientes-de-la-bandeja-paisa-y-el-pasos-a-paso/",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+  { "ingredientId": 22, "quantity": 1, "unitId": 7 },   // fríjol 1 libra
+  { "ingredientId": 47, "quantity": 6, "unitId": 10 },  // tomate 6 unidades
+  { "ingredientId": 13, "quantity": 11, "unitId": 11 }, // sal al gusto
+  { "ingredientId": 12, "quantity": 1, "unitId": 10 },  // cubo de caldo de costilla
+  { "ingredientId": 16, "quantity": 11, "unitId": 11 }, // hierbas al gusto
+  { "ingredientId": 1,  "quantity": 5, "unitId": 6 },   // fríjol (agua) 5 tazas
+  { "ingredientId": 45, "quantity": 6, "unitId": 10 },  // chorizo 6 unidades
+  { "ingredientId": 61, "quantity": 1, "unitId": 7 },   // carne molida 1 libra
+  { "ingredientId": 26, "quantity": 1, "unitId": 7 },   // tocino 1 libra
+  { "ingredientId": 4,  "quantity": 1, "unitId": 10 },  // cebolla cabezona 1 unidad
+  { "ingredientId": 56, "quantity": 5, "unitId": 10 },  // plátano verde 5 unidades
+  { "ingredientId": 42, "quantity": 1, "unitId": 7 },   // arroz 1 libra
+  { "ingredientId": 46, "quantity": 6, "unitId": 10 },  // huevo 6 unidades
+  { "ingredientId": 51, "quantity": 2, "unitId": 10 },  // aguacate 2 unidades
+  { "ingredientId": 63, "quantity": 1, "unitId": 4 },   // color 1 cucharada
+  { "ingredientId": 3,  "quantity": 1, "unitId": 4 }   // aceite Sonelo (aprox. 1 cucharada)
+],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa.png",
+            "altText": "Bandeja Paisa",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "antojandoando",
+            "licenseUrl": " https://co.pinterest.com/pin/703054191843410666/"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Remoja los fríjoles en agua desde la noche anterior. En una olla pitadora, agrega los fríjoles con sal, pimienta, tomillo, laurel, cebolla larga y tres tazas de agua. Cocina tapado por 30 minutos, evitando que se sequen.",
+      "timeSeconds": 1800,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso1.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Prepara el guiso: pica la cebolla cabezona y sofríe en aceite hasta que esté transparente. Agrega el tomate picado, mezcla bien y añade color, cubo de caldo de costilla, sal, pimienta y hierbas al gusto. Cocina unos minutos y reserva.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso2.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Cuando los fríjoles estén listos, retira las hierbas y añade el guiso preparado. Mezcla suavemente para incorporar sabores.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso3.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Prepara la carne: sofríe cebolla y ajo picados en aceite por 2 minutos a fuego medio, luego añade la carne molida. Sazona con sal y pimienta y cocina hasta que esté dorada y cocida.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso4.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Prepara los plátanos: corta los plátanos verdes en rodajas iguales y fríe en aceite hasta que ablanden. Déjalos enfriar, aplástalos y vuelve a freír hasta que queden crocantes. Sazona con sal.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso5.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Fríe el tocino en un sartén a fuego medio y escúrrelo. Luego dora los chorizos hasta que estén bien cocidos y crujientes.",
+      "timeSeconds": 420,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso6.png"
+    },
+    {
+      "stepOrder": 7,
+      "description": "Cocina el arroz según las instrucciones del paquete y fríe los huevos al gusto (fritos o estrellados).",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso7.png"
+    },
+    {
+      "stepOrder": 8,
+      "description": "Para servir, coloca los fríjoles con guiso en la bandeja, luego la carne molida, chorizos, tocino, arroz, huevo frito, plátanos y rodajas de aguacate. Decora al gusto y sirve inmediatamente.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771621886/ZaboraCloudy/bandejaPaisa-paso8.png"
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Pescado Frito Colombiano",
+  "shortDescription": "Clásico colombiano de pescado entero frito, crujiente por fuera y jugoso por dentro. Se acompaña tradicionalmente con patacones, arroz con coco y rodajas de limón. No recomendable para hipertensión y diabetes tipo 2 debido al alto contenido de sal y fritura.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "mycolombianrecipes",
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/pescado-frito-colombiano/",
+  "categoryIds": [2],
+  "flavorIds": [1],
+ "ingredients": [
+  { "ingredientId": 65, "quantity": 2, "unitId": 10 },
+  { "ingredientId": 13, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 29, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+  { "ingredientId": 46, "quantity": 1, "unitId": 11 },
+  { "ingredientId": 25, "quantity": 30, "unitId": 9 },
+  { "ingredientId": 3,  "quantity": 500, "unitId": 1 },
+  { "ingredientId": 4,  "quantity": 1, "unitId": 10 },
+  { "ingredientId": 61, "quantity": 4, "unitId": 10 },
+  { "ingredientId": 66, "quantity": 400, "unitId": 9 }
+],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749068/ZaboraCloudy/onk8adsvznmlyyqttch5.png",
+            "altText": "Pescado Frito",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/carpa-pescado-frito-ensalada-verduras-frescas-mesa-madera-endecha-plana-vista-superior_7677629.htm#from_element=cross_selling__photo "
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Enjuagar los pescados en agua fría y secarlos con toallas de papel. Hacer 3-4 cortes diagonales en cada lado para que se cocinen uniformemente.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749053/ZaboraCloudy/rpileavm1d5zw6m4dwy3.png "
+    },
+    {
+      "stepOrder": 2,
+      "description": "Sazonar el pescado por dentro y por fuera con sal y pimienta al gusto. Frotar con la cebolla larga finamente picada y el jugo de limón. Reservar durante 10 minutos para que absorba los sabores.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749060/ZaboraCloudy/af5jdtfkos2lai7aw3pq.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Cubrir los pescados con harina asegurándose de cubrir bien toda la superficie para lograr un exterior crujiente.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749060/ZaboraCloudy/itktb82fgzcfq9eh4hyv.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calentar 2 tazas de aceite vegetal o de canola en una sartén grande a fuego medio-alto (aprox. 1 pulgada de profundidad). Probar la temperatura dejando caer un pequeño cubo de pan: debe chisporrotear o alcanzar 190-190°C (375°F).",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749061/ZaboraCloudy/dsaxrqmpdp1jihagamln.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Colocar con cuidado el pescado en el aceite caliente y bajar el fuego a medio. Freír por 5-7 minutos, luego voltear con una espátula o pinzas y freír otros 5-7 minutos hasta que la piel esté dorada y crujiente.",
+      "timeSeconds": 840,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749063/ZaboraCloudy/zdyu9wng4zibcdzuawgk.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retirar el pescado y colocarlo sobre toallas de papel para eliminar el exceso de aceite. Servir inmediatamente acompañado de patacones, arroz con coco, rodajas de aguacate y limón.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772749064/ZaboraCloudy/nuxnw8fl5gjc0qr86c9f.png"
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Habichuelas Gratinadas",
+  "shortDescription": "Deliciosas habichuelas cocinadas con crema y gratinadas con queso, perfectas como guarnición o plato principal. No recomendable para personas con hipertensión si se usa mucha sal o para colon irritable si se es sensible a lácteos.",
+  "servings": 4,
+  "difficultyId": 1,
+  "licenseName": "alqueria",
+  "licenseUrl": "https://www.alqueria.com.co/recetas/habichuelas-gratinadas",
+  "categoryIds": [2, 3],
+  "flavorIds": [1],
+  "ingredients": [
+  { "ingredientId": 24, "quantity": 454, "unitId": 9 },
+  { "ingredientId": 53, "quantity": 200, "unitId": 9 },
+  { "ingredientId": 13, "quantity": 30,  "unitId": 9 },
+  { "ingredientId": 5,  "quantity": 1,   "unitId": 10 },
+  { "ingredientId": 35, "quantity": 100, "unitId": 9 },
+  { "ingredientId": 3,  "quantity": 1,   "unitId": 4 },
+  { "ingredientId": 42, "quantity": 1,   "unitId": 11 },
+  { "ingredientId": 57, "quantity": 120, "unitId": 1 }
+],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217570/ZaboraCloudy/lhnpjbgyscrxh5hn5z0r.png",
+            "altText": "Habichuela",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/imagen-ia-premium/casserole-frijoles-verdes-cebollas-crujientes-parte-superior_335467810.htm#fromView=search&page=2&position=27&uuid=61916ffc-0083-49e4-bda4-82915191eaf2&query=PLATO+habichuelas+GRATINADAS"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Cortar la cebolla larga en ruedas finas y picar el diente de ajo muy pequeño para un sabor uniforme.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217565/ZaboraCloudy/rcqsanwwgbotcg2varhc.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Limpiar las habichuelas retirando bordes y fibras duras de los lados.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771636344/ZaboraCloudy/habichuela-paso2.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "En una sartén, calentar un poco de aceite a fuego medio y dorar la cebolla y el ajo picados hasta que estén fragantes.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217567/ZaboraCloudy/nznylwtmi5fwaxco3nag.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agregar las habichuelas limpias a la sartén, sazonar con un poco de sal y añadir media taza de agua. Cocinar hasta que las habichuelas estén tiernas pero aún firmes.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217568/ZaboraCloudy/ev8kcs7t3jrivjlx69c9.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Colocar las habichuelas cocidas en una fuente para horno, cubrir con el queso rallado y la crema de leche. Hornear a temperatura media hasta que el queso se gratine y tome un color dorado.",
+      "timeSeconds": 900,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217569/ZaboraCloudy/llanpjbktwliaic4pcca.png"
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Sancocho",
+  "shortDescription": "Sancocho colombiano tradicional con carne de res, yuca, plátano, papa y mazorca. Plato reconfortante y nutritivo. No recomendable para personas con hipertensión debido a la sal del sobre de sopa y el sazonador, ni para diabetes tipo 1, 2 o 3 si se consume mucho plátano. Puede no ser adecuado para colon irritable por la yuca, plátano y condimentos.",
+  "servings": 6,
+  "difficultyId": 2,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/sancocho-facil",
+  "categoryIds": [2],
+  "flavorIds": [1],
+ "ingredients": [
+  { "ingredientId": 57, "quantity": 6, "unitId": 6 },
+  { "ingredientId": 92, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 93, "quantity": 1, "unitId": 7 },
+  { "ingredientId": 73, "quantity": 1, "unitId": 7 },
+  { "ingredientId": 61, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 50, "quantity": 1, "unitId": 7 },
+  { "ingredientId": 71, "quantity": 2, "unitId": 10 },
+  { "ingredientId": 3,  "quantity": 2, "unitId": 4 },
+  { "ingredientId": 13, "quantity": 2, "unitId": 10 },
+  { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+  { "ingredientId": 94, "quantity": 1, "unitId": 3 },
+  { "ingredientId": 34, "quantity": 1, "unitId": 4 }
+],
+  "images": [{
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638945/ZaboraCloudy/vg6tsfug4fvnkukh8jki.png",
+            "altText": "Sancocho",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/imagen-ia-gratis/estofado-ternera-estofada-verduras-hierbas-ia-generativa_42589618.htm#fromView=search&page=1&position=0&uuid=89802ca6-f05e-4cb0-9c03-a2d8c83952a5&query=Sancocho+colombiano"
+        }],
+  "steps": [
+  {
+    "stepOrder": 1,
+    "description": "En una olla grande agrega las 6 tazas de agua y lleva a fuego medio hasta que comience a calentarse. Incorpora el sobre de sopa de sancocho y mezcla constantemente hasta que se disuelva completamente.",
+    "timeSeconds": 300,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638834/ZaboraCloudy/j1vimeyvcd08hwlxvjws.png"
+  },
+  {
+    "stepOrder": 2,
+    "description": "Añade la carne de res previamente cortada en trozos medianos. Cocina durante 10 minutos, retirando la espuma que se forme en la superficie para obtener un caldo más limpio.",
+    "timeSeconds": 600,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638836/ZaboraCloudy/jvu1zb1zbafqvktzhk3g.png"
+  },
+  {
+    "stepOrder": 3,
+    "description": "Agrega la yuca pelada y cortada en trozos grandes, el plátano verde partido en secciones, la papa pastusa pelada y las mazorcas cortadas en rodajas.",
+    "timeSeconds": 180,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638835/ZaboraCloudy/pnzqzammfooetgcnsveo.png"
+  },
+  {
+    "stepOrder": 4,
+    "description": "Cocina a fuego medio durante 20 a 25 minutos adicionales, o hasta que la carne esté blanda y los tubérculos estén tiernos. Verifica que la yuca y la papa se puedan atravesar fácilmente con un tenedor.",
+    "timeSeconds": 1500,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638834/ZaboraCloudy/guvt8xxsdz5943ypfmev.png"
+  },
+  {
+    "stepOrder": 5,
+    "description": "Mientras se cocina el sancocho, calienta 2 cucharadas de aceite en una sartén a fuego medio.",
+    "timeSeconds": 120,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638832/ZaboraCloudy/abjriaaxwvnbmnov0wmi.png"
+  },
+  {
+    "stepOrder": 6,
+    "description": "Agrega la cebolla finamente picada y sofríe durante 2 minutos hasta que esté transparente.",
+    "timeSeconds": 120,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771640224/ZaboraCloudy/ccjxzo2bpjqo7tq1dyi0.png"
+  },
+  {
+    "stepOrder": 7,
+    "description": "Incorpora el tomate sin piel y picado en cubos pequeños. Cocina por 2 minutos más hasta que se integren los sabores.",
+    "timeSeconds": 120,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638836/ZaboraCloudy/rsna1tzd5wg2qmisle6i.png"
+  },
+  {
+    "stepOrder": 8,
+    "description": "Añade el sazonador Naturísimo Maggi y el cilantro picado. Mezcla bien y cocina por 1 minuto adicional para finalizar el hogao.",
+    "timeSeconds": 60,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638831/ZaboraCloudy/lsijzcsu61tbvmfuxrul.png"
+  },
+  {
+    "stepOrder": 9,
+    "description": "Sirve el sancocho caliente en platos hondos, asegurando una porción equilibrada de carne y vegetales en cada uno. Agrega una cucharada de hogao por encima antes de servir.",
+    "timeSeconds": 180,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771638831/ZaboraCloudy/xaarmszcxnydimahlzhf.png"
+  }
+]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Cazuela de Mariscos",
+  "shortDescription": "Exquisita cazuela de mariscos colombiana con pescado, camarones y mariscos mixtos. No recomendable para personas con hipertensión por la sal y el contenido de mariscos, ni para diabetes tipo 1, 2 o 3 si se acompaña de arroz o patacones. Puede no ser adecuado para colon irritable por los mariscos y condimentos.",
+  "servings": 4,
+  "difficultyId": 3,
+  "licenseName": "antojandoando",
+  "licenseUrl": "https://antojandoando.com/recetas/cazuela-de-mariscos/",
+  "categoryIds": [3],
+  "flavorIds": [1],
+  "ingredients": [
+  { "ingredientId": 96, "quantity": 1.5, "unitId": 7 },
+  { "ingredientId": 97, "quantity": 0.5, "unitId": 7 },
+  { "ingredientId": 98, "quantity": 0.5, "unitId": 7 },
+  { "ingredientId": 12, "quantity": 5, "unitId": 6 },
+  { "ingredientId": 5,  "quantity": 1, "unitId": 10 },
+  { "ingredientId": 7,  "quantity": 2, "unitId": 10 },
+  { "ingredientId": 34, "quantity": 0.5, "unitId": 10 },
+  { "ingredientId": 55, "quantity": 0.5, "unitId": 10 },
+  { "ingredientId": 19, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 49, "quantity": 1, "unitId": 4 },
+  { "ingredientId": 25, "quantity": 0.5, "unitId": 6 },
+  { "ingredientId": 53, "quantity": 2, "unitId": 4 },
+  { "ingredientId": 3,  "quantity": 2, "unitId": 4 },
+  { "ingredientId": 99, "quantity": 2, "unitId": 4 },
+  { "ingredientId": 52, "quantity": 2, "unitId": 4 },
+  { "ingredientId": 42, "quantity": 0.125, "unitId": 3 },
+  { "ingredientId": 46, "quantity": 0.5, "unitId": 3 },
+  { "ingredientId": 40, "quantity": 0.25, "unitId": 3 },
+  { "ingredientId": 87, "quantity": 1, "unitId": 11 }
+],
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688024/ZaboraCloudy/cazuelaDeMariscos.jpg",
+            "altText": "cazuela de mariscos",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/comida-tailandesa-tom-yum-kung-o-sopa-picante-gambas-rio_11995267.htm#fromView=search&page=1&position=6&uuid=023ce80a-a7a5-45d8-80bf-39bc0e06323d&query=cazuela+de+mariscos"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Si los mariscos mixtos son frescos, cocínalos en agua y reserva 5 tazas de caldo. Corta calamares en anillos, pulpo en pedazos medianos, camarones sin caparazón y pescado en trozos medianos.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688017/ZaboraCloudy/cazuelaDeMariscos-paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "En una olla a fuego medio-alto, calienta 2 cdas de aceite y 2 cdas de mantequilla. Sofríe la cebolla hasta transparente, agrega el ajo picado y deja 1 minuto sin quemar.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688017/ZaboraCloudy/cazuelaDeMariscos-paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Añade orégano, pimentón rojo y verde, y apio. Cocina hasta que estén blandos.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688018/ZaboraCloudy/cazuelaDeMariscos-paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega sal, pimienta, pescado y mariscos (excepto camarones). Cocina 5 minutos a fuego medio.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688019/ZaboraCloudy/cazuelaDeMariscos-paso4.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Incorpora 5 tazas de caldo y la pasta de tomate. Llevar a hervor a fuego medio durante 15 minutos.",
+      "timeSeconds": 900,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688020/ZaboraCloudy/cazuelaDeMariscos-paso5.png "
+    },
+    {
+      "stepOrder": 6,
+      "description": "Disolver 2 cdas de harina de trigo en un poco de caldo sin grumos y añadir a la preparación. Mezclar bien.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688021/ZaboraCloudy/cazuelaDeMariscos-paso6.jpg "
+    },
+    {
+      "stepOrder": 7,
+      "description": "Añadir los camarones y cocinar 10 minutos más. Verificar sabor y ajustar con sal y pimienta.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688022/ZaboraCloudy/cazuelaDeMariscos-paso7.png  "
+    },
+    {
+      "stepOrder": 8,
+      "description": "Incorporar 1/2 taza de vino blanco y 2 cdas de crema de leche. Mezclar y dejar hervir unos minutos.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688023/ZaboraCloudy/cazuelaDeMariscos-paso8.png "
+    },
+    {
+      "stepOrder": 9,
+      "description": "Servir la cazuela caliente, decorar con perejil picado. Opcional acompañar con cascos de limón, arroz, patacones o picante.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771688024/ZaboraCloudy/cazuelaDeMariscos-paso9.jpg  "
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Costillas de Cerdo en Salsa BBQ Ahumada",
+  "shortDescription": "Costillas de cerdo jugosas en una deliciosa salsa BBQ ahumada. No recomendable para hipertensión por la sal y la carne de cerdo, ni para diabetes tipo 1, 2 o 3 debido a la panela. Puede causar molestias en colon irritable por los condimentos y grasa.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "recetasnestle",
+  "licenseUrl": "https://www.recetasnestle.com.co/recetas/costillitas-cerdo-salsa-bbq-ahumada",
+  "categoryIds": [2,3],
+  "flavorIds": [1],
+  "ingredients": [
+  { "ingredientId": 42, "quantity": 1000, "unitId": 1 },
+  { "ingredientId": 102, "quantity": 800, "unitId": 9 },
+  { "ingredientId": 56, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+  { "ingredientId": 39, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 12, "quantity": 0.5, "unitId": 10 },
+  { "ingredientId": 103, "quantity": 1, "unitId": 10 },
+  { "ingredientId": 52, "quantity": 0.5, "unitId": 3 },
+  { "ingredientId": 19, "quantity": 2, "unitId": 4 },
+  { "ingredientId": 104, "quantity": 250, "unitId": 9 },
+  { "ingredientId": 89, "quantity": 0.25, "unitId": 3 }
+],
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771718791/ZaboraCloudy/acq2fcxn6z3kx32ysyak.png",
+            "altText": "Costilla de cerdo",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/fotos-premium/costillas-cerdo-asadas-parrilla_8813094.htm#fromView=search&page=1&position=9&uuid=85d41b9b-c27a-4af5-9177-8ef5b3232071&query=costillas+bbqa"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En una olla de fondo alto, agregar el agua, las costillas de cerdo, el cubo de caldo con costilla, los tomates en cubos, el pimentón en trozos, la cebolla en cuartos, la hoja de laurel, el orégano seco y la pasta de tomate.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771718787/ZaboraCloudy/mdgcv0f2je3hoe2snnqy.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Llevar la olla a fuego medio y cocinar por 25 minutos o hasta que las costillas estén bien cocidas y tiernas.",
+      "timeSeconds": 1500,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771718787/ZaboraCloudy/abxp2vvyjvkjlnkmetkp.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Retirar las costillas de la olla y verter el fondo con los vegetales en una licuadora. Licuar hasta integrar bien y pasar por un colador fino para obtener una salsa homogénea.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771718788/ZaboraCloudy/gedptswwjaejiqvedrxg.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Llevar la salsa colada a una sartén, agregar la panela y la pasta de ají, cocinar a fuego bajo hasta reducir y obtener la consistencia deseada, revolviendo ocasionalmente.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771718789/ZaboraCloudy/xpfj6jwn1pwuqwsyv1qu.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Calentar una sartén a fuego medio-alto por 3 minutos, agregar las costillas una a una y dorar por todos los lados.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771718790/ZaboraCloudy/ciw7wsb7gwfzvpt35c5g.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retirar del fuego, agregar la salsa BBQ ahumada sobre las costillas y servir caliente. Acompañar con arroz, patacones o ensalada según preferencia.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771718790/ZaboraCloudy/scn0plduuwyxg466mvw9.png"
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Claro de Mazamorra",
+  "shortDescription": "Bebida tradicional antioqueña elaborada a partir del agua de cocción del maíz, refrescante y digestiva. Se sirve fría o caliente con leche y panela. No recomendada para personas con diabetes tipo 1 o 2 por su alto contenido de carbohidratos simples si se endulza con panela; personas con hipertensión deben moderar el consumo si se acompaña con productos procesados.",
+  "servings": 6,
+  "difficultyId": 1,
+  "licenseName": "Tradicional Colombiana",
+  "licenseUrl": "https://cocina-tradicional-colombiana.com",
+  "categoryIds": [4],
+  "flavorIds": [2],
+  "ingredients": [
+    { "ingredientId": "57", "quantity": 4, "unitId": "2" },
+    { "ingredientId": "113", "quantity": 1, "unitId": "7" },
+    { "ingredientId": "27", "quantity": 2, "unitId": "2" },
+    { "ingredientId": "104", "quantity": 1, "unitId": "11" },
+    { "ingredientId": "114", "quantity": 1, "unitId": "11" }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772472359/ZaboraCloudy/ugqicyzo2sqm0tinolqe.png",
+            "altText": "Mazamorra",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.com/premium-photo/colombian-food-mazamorra-cooked-corn-with-milk-with-sweet-guava-bocadillo_89172217.htm#from_element=cross_selling__photo"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "En una olla grande agrega los 4 litros de agua y el maíz trillado. Cocina a fuego medio durante aproximadamente 2 horas, revisando constantemente que el agua no se reduzca demasiado.",
+      "timeSeconds": 7200,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772472355/ZaboraCloudy/mym2njoe0cq30zwlzsfh.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Cuando el maíz esté completamente blando, retira del fuego y deja reposar en su misma agua de cocción para formar el claro.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772472356/ZaboraCloudy/oztlnp7mq4yshksmry9c.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Una vez frío, separa el maíz del líquido si deseas solo el claro. Reserva el líquido.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772472357/ZaboraCloudy/p4vfbbr8skscdmyijb1v.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega leche al claro al gusto y mezcla bien. Puedes servir caliente o frío.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771720134/ZaboraCloudy/ClaroDeMazamorra-paso4.jpg "
+    },
+    {
+      "stepOrder": 5,
+      "description": "Sirve acompañado de trozos de panela o bocadillo de guayaba.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772472358/ZaboraCloudy/vlz9ycqt35ggqto9ad5s.png"
+    }
+  ]
+}
+
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Fríjoles Colombianos Tradicionales",
+  "shortDescription": "Preparación tradicional colombiana elaborada con fríjol rojo cocido lentamente junto con manita de cerdo, plátano macho y zanahoria. Su característica textura espesa y cremosa se logra al triturar parte de los vegetales de la cocción y reincorporarlos a la olla. De sabor profundo y reconfortante, es base de la bandeja paisa y suele acompañarse con arroz, aguacate y cilantro fresco. Rico en fibra y proteína; personas con hipertensión deben moderar la sal y quienes sigan dietas bajas en grasa pueden optar por reducir el contenido cárnico.",
+  "servings": 6,
+  "difficultyId": 2,
+  "licenseName": "Directo al Paladar",
+  "licenseUrl": "https://www.directoalpaladar.com/recetas-de-legumbres/frijoles-colombianos-cremoso-plato-cuchara-tradicional-muy-facil-repleto-sabor",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "22", "quantity": 600, "unitId": 9 },
+    { "ingredientId": "111", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "62", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "50", "quantity": 4, "unitId": 10 },
+    { "ingredientId": "47", "quantity": 3, "unitId": 10 },
+    { "ingredientId": "13", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "58", "quantity": 1, "unitId": 10 },
+    { "ingredientId": "87", "quantity": 1, "unitId": 3 },
+    { "ingredientId": "38", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "64", "quantity": 45, "unitId": 1 },
+    { "ingredientId": "42", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "112", "quantity": 1, "unitId": 11 },
+    { "ingredientId": "57", "quantity": 3, "unitId": 2 }
+  ],
+  "images": [{
+            "id": 1,
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717992/ZaboraCloudy/frijoles.jpg",
+            "altText": "frijoles",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Maricruzavalos",
+            "licenseUrl": "https://www.maricruzavalos.com/es/frijoles-de-la-olla/"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lavar y seleccionar los fríjoles. Remojarlos en abundante agua durante mínimo 8 horas para mejorar su cocción y digestión.",
+      "timeSeconds": 28800,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717987/ZaboraCloudy/frijoles-paso1.jpg"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Escurrir los fríjoles y colocarlos en una olla a presión (también se puede relizar el procedimiento en una olla convencional pero en dicho caso se necesitará más tiempo de cocción) junto con la manita de cerdo. Cubrir con agua suficiente (3 a 4 dedos por encima del nivel de los fríjoles).",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717988/ZaboraCloudy/frijoles-paso2.jpg"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Llevar a ebullición, retirar las impurezas si aparecen. Mientras tanto preparar el hogao: sofreír el ajo picado en el aceite, agregar la cebolla picada y una pizca de sal. Cuando la cebolla esté tierna agregamos el comino y el tomate rallado. Pochar 15 minutos o hasta que no queden restos de agua. Luego de esto hechar pimienta al gusto y reservar",
+      "timeSeconds": 900,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717988/ZaboraCloudy/frijoles-paso3.jpg"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Luego de preparar el hogao y tener la olla con los frijoles limpia de impurezas se agrega la zanahoria y el plátano macho, ambos pelados y en trozos. También se agregan cuatro cucharadas de hogao. Cerrar la olla a presión y cocinar durante 20 a 25 minutos desde que comience a salir vapor constante (en olla convencional puede tardar hasta dos horas y media).",
+      "timeSeconds": 1500,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717989/ZaboraCloudy/frijoles-paso4.jpg"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Abrir la olla una vez despresurizada. Se retira la manita de cerdoy se reserva si se quiere añadir a los frijoles a la hora de servirlos. Retirar el plátano y la zanahoria, triturarlos con un poco del caldo y devolver el puré a la olla para lograr la textura espesa característica.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717989/ZaboraCloudy/frijoles-paso5.jpg"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Cocinar 5 a 10 minutos adicionales para integrar sabores.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717990/ZaboraCloudy/frijoles-paso6.jpg"
+    },
+    {
+      "stepOrder": 7,
+      "description": "Rectificar la sal, añadir cilantro fresco picado al gusto y servir caliente acompañado de arroz, aguacate o patacones.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771717992/ZaboraCloudy/frijoles-paso7.png"
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+{
+  "title": "Lentejas Colombianas Saludables",
+  "shortDescription": "Lentejas preparadas al estilo colombiano con verduras frescas y bajo contenido de grasa. Apta para diabéticos tipo 2. No recomendada para colon irritable en fase activa por su contenido en legumbres.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/lentejas-r15",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": "Lentejas", "quantity": 1, "unitId": 7 },
+    { "ingredientId": 50, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 60, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 58, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 67, "quantity": 2, "unitId": 2 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 }
+  ],
+  "images": [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217577/ZaboraCloudy/nscjj6ucena5abjvmtpz.png",
+            "altText": "Lentejas",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/fotos-premium/tazon-guiso-lentejas-patatas-zanahorias_3466440.htm#fromView=search&page=2&position=12&uuid=d9e9b7d2-c7b6-468e-8d66-d5c2047a805b&query=lentejas+con+zanahoria"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava las lentejas y déjalas en remojo durante 2 horas.",
+      "timeSeconds": 7200,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217571/ZaboraCloudy/e9qegndvvqkfexckl4u8.png"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Pica zanahoria, papa, tomate, cebolla y ajo en cubos pequeños.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217572/ZaboraCloudy/xvixsneorozvelxu2mnu.png"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sofríe cebolla y ajo en aceite durante 3 minutos.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217573/ZaboraCloudy/aqscvvttpo32qqbsf9i0.png"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Agrega tomate y cocina 5 minutos hasta formar un guiso.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217574/ZaboraCloudy/ayfmedwlwiffmekpcdiy.png"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Añade lentejas, verduras picadas y agua. Cocina tapado durante 35 minutos.",
+      "timeSeconds": 2100,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217575/ZaboraCloudy/qjrdnyq0nmamfoda2k99.png"
+    },
+    {
+      "stepOrder": 6,
+      "description": "Ajusta sal al gusto y cocina 5 minutos adicionales antes de servir.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217575/ZaboraCloudy/hghivjlndtcdbecbwbxd.png"
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+
+{
+  "title": "Mojarra al Horno con Ensalada Fresca",
+  "shortDescription": "Pescado típico colombiano preparado al horno con especias naturales, acompañado de ensalada fresca. Apto para hipertensos si se controla la sal. Recomendado para diabéticos. Seguro para colon irritable si se evita cebolla cruda.",
+  "servings": 2,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/mojarra-frita-r22",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 136, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 29, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 58", "quantity": 2, "unitId": 10 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 },
+    { "ingredientId": 28, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 69, "quantity": 1, "unitId": 10 }
+  ],
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Mojarra al Horno",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Precalienta el horno a 180°C.",
+      "timeSeconds": 300,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 2,
+      "description": "Limpia la mojarra y realiza pequeños cortes superficiales.",
+      "timeSeconds": 240,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 3,
+      "description": "Sazona con ajo triturado, jugo de limón y sal al gusto.",
+      "timeSeconds": 180,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 4,
+      "description": "Barniza con aceite de oliva y hornea durante 25 minutos.",
+      "timeSeconds": 1500,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 5,
+      "description": "Prepara la ensalada con lechuga, tomate y pepino en rodajas.",
+      "timeSeconds": 300,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 6,
+      "description": "Sirve la mojarra acompañada de la ensalada fresca.",
+      "timeSeconds": 120,
+      "imageUrl":
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{
+  "title": "Sudado de Pollo Saludable",
+  "shortDescription": "Plato tradicional colombiano preparado con pollo, papa y verduras en cocción lenta con bajo contenido de grasa y sodio. Apto para diabéticos tipo 2 en porciones moderadas. No recomendado para personas con colon irritable en fase activa debido a la cebolla.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "Receta tradicional colombiana",
+  "licenseUrl": "https://www.colombia.com/gastronomia/recetas-colombianas/sudado-de-pollo-r34",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 31, "quantity": 2, "unitId": 7 },
+    { "ingredientId": 60, "quantity": 4, "unitId": 10 },
+    { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 12, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 58, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 57, "quantity": 2, "unitId": 2 },
+    { "ingredientId": 38, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 64, "quantity": 1, "unitId": 4 }
+  ],
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Sudado de Pollo",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Lava y pela las papas, córtalas en mitades medianas.",
+      "timeSeconds": 300,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 2,
+      "description": "Pica finamente el tomate, la cebolla y el ajo.",
+      "timeSeconds": 240,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 3,
+      "description": "En una olla grande, agrega el aceite y sofríe cebolla y ajo durante 3 minutos.",
+      "timeSeconds": 180,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 4,
+      "description": "Añade el tomate y cocina 5 minutos hasta formar un guiso.",
+      "timeSeconds": 300,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 5,
+      "description": "Incorpora el pollo, las papas y el agua. Cocina tapado a fuego medio durante 30 minutos.",
+      "timeSeconds": 1800,
+      "imageUrl":
+    },
+    {
+      "stepOrder": 6,
+      "description": "Agrega sal al gusto y cilantro fresco picado antes de servir.",
+      "timeSeconds": 120,
+      "imageUrl":
+    }
+  ]
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+{ 
+  "title": "Espaguetis con Salsa de Tomate", 
+  "shortDescription": "Pasta italiana clásica acompañada de una salsa de tomate sencilla con 
+ajo y aceite de oliva.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "BBC Good Food", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/simple-spaghetti-tomato-sauce", 
+  "categoryIds": [2], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Espagueti", "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": "Tomate triturado", "quantity": 400, "unitId": 9 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Queso parmesano", "quantity": 30, "unitId": 9 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Espaguetis con Salsa",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Hervir agua en una olla grande con una pizca de sal.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Agregar los espaguetis y cocinar según las instrucciones del paquete 
+(aprox. 8 a 10 minutos).", 
+      "timeSeconds": 600, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Mientras tanto, picar finamente el ajo.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Calentar el aceite de oliva en una sartén y sofreír el ajo durante 1 
+minuto.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Añadir el tomate triturado y cocinar a fuego medio durante 10 minutos.", 
+      "timeSeconds": 600, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Escurrir la pasta y mezclarla con la salsa.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Servir con queso parmesano rallado encima.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+}
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+{ 
+  "title": "Ensalada de Pollo con Vegetales", 
+  "shortDescription": "Ensalada fresca preparada con pollo cocido, lechuga, tomate y 
+aderezo ligero. Ideal para un almuerzo saludable.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "EatingWell", 
+  "licenseUrl": "https://www.eatingwell.com/recipe/276923/chicken-salad/", 
+  "categoryIds": [2], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Pechuga de pollo", "quantity": 300, "unitId": 9 }, 
+    { "ingredientId": "Lechuga", "quantity": 100, "unitId": 9 }, 
+    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Pepino", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Jugo de limón", "quantity": 1, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Ensalada de Pollo ",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Cocinar la pechuga de pollo en agua con sal durante 15 a 20 minutos.", 
+      "timeSeconds": 1200, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Dejar enfriar ligeramente y cortar el pollo en tiras o cubos.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Lavar y cortar la lechuga en trozos medianos.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Cortar el tomate y el pepino en rodajas o cubos.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "En un recipiente grande mezclar la lechuga, el tomate, el pepino y el 
+pollo.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "Preparar el aderezo mezclando el aceite de oliva, el jugo de limón y sal al 
+gusto.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Verter el aderezo sobre la ensalada y mezclar suavemente antes de 
+servir.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+// pollo a la plancha con verduras 
+{ 
+  "title": "Pollo a la Plancha con Verduras Salteadas", 
+  "shortDescription": "Cena ligera y saludable preparada con pechuga de pollo a la plancha 
+acompañada de verduras salteadas como zanahoria, brócoli y pimentón.", 
+  "servings": 2, 
+  "difficultyId": 1, 
+  "licenseName": "BBC Good Food", 
+  "licenseUrl": "https://www.bbcgoodfood.com/recipes/chicken-stir-fry", 
+  "categoryIds": [3], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Pechuga de pollo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Brócoli", "quantity": 150, "unitId": 9 }, 
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Pimentón rojo", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Aceite de oliva", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Pollo a la Plancha",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Lavar las verduras. Cortar el brócoli en pequeños ramilletes, la zanahoria 
+en rodajas finas y el pimentón en tiras delgadas.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Pelar y picar finamente los dientes de ajo.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Sazonar las pechugas de pollo por ambos lados con sal y pimienta.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Calentar 1 cucharada de aceite de oliva en una sartén grande a fuego 
+medio-alto.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 5, 
+      "description": "Colocar las pechugas de pollo y cocinarlas durante 5 a 6 minutos por 
+cada lado hasta que estén doradas y completamente cocidas.", 
+      "timeSeconds": 720, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 6, 
+      "description": "En otra sartén calentar la cucharada restante de aceite y sofreír el ajo 
+durante 30 segundos.", 
+      "timeSeconds": 30, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 7, 
+      "description": "Añadir las verduras y saltear durante 5 a 6 minutos hasta que estén 
+ligeramente tiernas pero aún crujientes.", 
+      "timeSeconds": 360, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 8, 
+      "description": "Servir el pollo caliente acompañado de las verduras salteadas.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+******************************************************************************************************************************
+******************************************************************************************************************************
+ 
+  {"title": "Sobrebarriga en Salsa Criolla", 
+  "shortDescription": "Carne de res tierna cocida en salsa de tomate, cebolla y pimientos. 
+Acompañada de arroz blanco y patacones.", 
+  "servings": 3, 
+  "difficultyId": 2, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/sobrecilla-en-salsa-criolla/", 
+  "categoryIds": [2], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Sobrebarriga de res", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Pimiento rojo", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Tomate", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite vegetal", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Comino", "quantity": 1, "unitId": 3 }, 
+    { "ingredientId": "Agua", "quantity": 1, "unitId": 2 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Sobrebarriga",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Hervir la sobrebarriga en agua con sal y pimienta hasta que esté tierna 
+(aprox. 1 hora).", 
+      "timeSeconds": 3600, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Licuar tomate, pimiento y ajo. Saltear en sartén con aceite y comino 5 
+minutos.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Agregar la carne cocida a la salsa y cocinar 10 minutos más.", 
+      "timeSeconds": 600, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Servir caliente acompañado de arroz blanco y patacones.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+
+******************************************************************************************************************************
+******************************************************************************************************************************
+{ 
+  "title": "Arroz Atollado con Pollo y Chorizo", 
+  "shortDescription": "Plato típico del Valle del Cauca. Arroz cremoso cocinado con pollo, 
+chorizo, verduras y especias.", 
+  "servings": 4, 
+  "difficultyId": 2, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/arroz-atollado/", 
+  "categoryIds": [2], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Pechuga de pollo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Chorizo colombiano", "quantity": 150, "unitId": 9 }, 
+    { "ingredientId": "Arroz", "quantity": 250, "unitId": 9 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Pimiento rojo", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite vegetal", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Caldo de pollo", "quantity": 500, "unitId": 1 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arroz Atollado",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { 
+      "stepOrder": 1, 
+      "description": "Cortar pollo, chorizo y verduras en cubos. Saltear en aceite 5 minutos.", 
+      "timeSeconds": 300, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 2, 
+      "description": "Agregar arroz y sofreír 2 minutos junto con las verduras.", 
+      "timeSeconds": 120, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 3, 
+      "description": "Añadir caldo de pollo, sal y pimienta. Cocinar a fuego bajo hasta que el 
+arroz esté tierno y cremoso.", 
+      "timeSeconds": 1200, 
+      "imageUrl": null 
+    }, 
+    { 
+      "stepOrder": 4, 
+      "description": "Servir caliente acompañado de ensalada fresca.", 
+      "timeSeconds": 60, 
+      "imageUrl": null 
+    } 
+  ] 
+} 
+ ******************************************************************************************************************************
+******************************************************************************************************************************
+{ 
+  "title": "Arroz de Coco con Pescado", 
+  "shortDescription": "Arroz cocido en leche de coco acompañado de filete de pescado frito. 
+Plato típico de la costa caribeña.", 
+  "servings": 3, 
+  "difficultyId": 2, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/arroz-de-coco-con-pescado/", 
+  "categoryIds": [2], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Arroz", "quantity": 250, "unitId": 9 }, 
+    { "ingredientId": "Leche de coco", "quantity": 400, "unitId": 1 }, 
+    { "ingredientId": "Filete de pescado", "quantity": 3, "unitId": 10 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite vegetal", "quantity": 3, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Arroz de Coco",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { "stepOrder": 1, "description": "Saltear cebolla y ajo en aceite.", "timeSeconds": 180, 
+"imageUrl": null }, 
+    { "stepOrder": 2, "description": "Agregar arroz y leche de coco, cocinar a fuego bajo hasta 
+que el arroz esté tierno.", "timeSeconds": 1200, "imageUrl": null }, 
+    { "stepOrder": 3, "description": "Freír el pescado hasta dorar y sazonar con sal y 
+pimienta.", "timeSeconds": 600, "imageUrl": null }, 
+    { "stepOrder": 4, "description": "Servir el arroz acompañado del pescado.", "timeSeconds": 
+60, "imageUrl": null } 
+  ] 
+} 
+ 
+******************************************************************************************************************************
+******************************************************************************************************************************
+{ 
+  "title": "Sudado de Carne", 
+  "shortDescription": "Guiso de carne con papa, zanahoria y mazorca, cocido lentamente en 
+jugo de tomate y especias.", 
+  "servings": 4, 
+  "difficultyId": 2, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/sudado-de-carne/", 
+  "categoryIds": [2], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Carne de res", "quantity": 500, "unitId": 9 }, 
+    { "ingredientId": "Papa", "quantity": 200, "unitId": 9 }, 
+    { "ingredientId": "Zanahoria", "quantity": 100, "unitId": 9 }, 
+    { "ingredientId": "Mazorca", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Tomate", "quantity": 3, "unitId": 10 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Aceite vegetal", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Sudado de Carne",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { "stepOrder": 1, "description": "Saltear cebolla, ajo y tomate en aceite hasta formar 
+salsa.", "timeSeconds": 300, "imageUrl": null }, 
+    { "stepOrder": 2, "description": "Agregar carne, sal y pimienta y dorar ligeramente.", 
+"timeSeconds": 300, "imageUrl": null }, 
+    { "stepOrder": 3, "description": "Incorporar papa, zanahoria y mazorca, añadir agua 
+suficiente y cocinar a fuego bajo hasta que todo esté tierno.", "timeSeconds": 1200, 
+"imageUrl": null }, 
+    { "stepOrder": 4, "description": "Servir caliente acompañado de arroz blanco.", 
+"timeSeconds": 60, "imageUrl": null } 
+  ] 
+} 
+ ******************************************************************************************************************************
+******************************************************************************************************************************
+{ 
+  "title": "Guiso de Garbanzos y Vegetales", 
+  "shortDescription": "Garbanzos cocidos con tomate, zanahoria, papa y pimientos. Plato 
+vegano, nutritivo y lleno de sabor.", 
+  "servings": 3, 
+  "difficultyId": 1, 
+  "licenseName": "mycolombianrecipes", 
+  "licenseUrl": "https://www.mycolombianrecipes.com/es/guiso-de-garbanzos/", 
+  "categoryIds": [2], 
+  "flavorIds": [1], 
+  "ingredients": [ 
+    { "ingredientId": "Garbanzos", "quantity": 250, "unitId": 9 }, 
+    { "ingredientId": "Cebolla", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Ajo", "quantity": 2, "unitId": 10 }, 
+    { "ingredientId": "Tomate", "quantity": 3, "unitId": 10 }, 
+    { "ingredientId": "Zanahoria", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Papa", "quantity": 150, "unitId": 9 }, 
+    { "ingredientId": "Pimiento rojo", "quantity": 1, "unitId": 10 }, 
+    { "ingredientId": "Aceite vegetal", "quantity": 2, "unitId": 4 }, 
+    { "ingredientId": "Caldo de verduras", "quantity": 500, "unitId": 1 }, 
+    { "ingredientId": "Sal", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Pimienta", "quantity": 1, "unitId": 11 }, 
+    { "ingredientId": "Comino", "quantity": 1, "unitId": 3 } 
+  ], 
+  "images":  [  {
+            "id": 1,
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "altText": "Guiso de Garbanzos",
+            "position": 1,
+            "licenseId": 1,
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+        }], 
+  "steps": [ 
+    { "stepOrder": 1, "description": "Saltear cebolla, ajo y pimiento en aceite hasta dorar.", 
+"timeSeconds": 180, "imageUrl": null }, 
+    { "stepOrder": 2, "description": "Agregar tomate, zanahoria y papa. Cocinar 5 minutos.", 
+"timeSeconds": 300, "imageUrl": null }, 
+    { "stepOrder": 3, "description": "Añadir garbanzos cocidos, caldo de verduras, comino, sal 
+y pimienta. Cocinar 20-25 minutos hasta que todo esté tierno.", "timeSeconds": 1500, 
+"imageUrl": null }, 
+    { "stepOrder": 4, "description": "Servir caliente acompañado de arroz integral o pan 
+vegano.", "timeSeconds": 60, "imageUrl": null } 
+  ] 
+} 
