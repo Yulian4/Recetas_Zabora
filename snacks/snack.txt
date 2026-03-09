@@ -694,44 +694,44 @@ sazonados con sal.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772839285/ZaboraCloudy/palomitasDeMaiz.jpg",
             "altText": "Arepitas de maiz tostado",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-frontal-palomitas-maiz-frescas-granos-amarillos-piso-oscuro-palomitas-maiz_15672753.htm#fromView=search&page=1&position=3&uuid=4c7129c2-7e17-4d20-bd92-14669d7a0aa2&query=palomitas+de+maiz"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Calentar el aceite vegetal en una olla grande con tapa a fuego medio.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772839282/ZaboraCloudy/palomitasDeMaiz-paso1.jpg" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Agregar los granos de maíz y cubrir la olla con la tapa.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772839282/ZaboraCloudy/palomitasDeMaiz-paso2.jpg" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Mover ligeramente la olla cada pocos segundos para evitar que se 
 quemen.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772839283/ZaboraCloudy/palomitasDeMaiz-paso3.jpg" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Cuando el sonido de las palomitas disminuya, retirar del fuego.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772839284/ZaboraCloudy/palomitasDeMaiz-paso4.jpg" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Agregar sal al gusto y mezclar antes de servir.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772839284/ZaboraCloudy/palomitasDeMaiz-paso5.jpg" 
     } 
   ] 
 }
