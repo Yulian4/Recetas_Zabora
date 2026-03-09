@@ -607,56 +607,56 @@ doradas en sartén.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
-            "altText": "tamal",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811571/ZaboraCloudy/quesadillasDeQueso.jpg",
+            "altText": "Quesadilla de queso",
             "position": 1,
             "licenseId": 1,
-            "licenseName": "sophirecetas",
-            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+            "licenseName": "freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/gutab-vegetal-tradicional-carne-qutab-gozleme-tablero-madera-sumakh-turshu_5019167.htm#fromView=search&page=1&position=4&uuid=12405f15-4936-4b22-ac00-cfffb9456f6d&query=quesadillas+de+queso"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Rallar el queso mozzarella o cortarlo en tiras finas.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811566/ZaboraCloudy/quesadillasDeQueso-paso1.jpg" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Calentar una sartén grande a fuego medio y agregar la mantequilla.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811567/ZaboraCloudy/quesadillasDeQueso-paso2.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Colocar una tortilla en la sartén caliente.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811568/ZaboraCloudy/quesadillasDeQueso-paso3.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Distribuir el queso sobre la tortilla y cubrir con otra tortilla.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811568/ZaboraCloudy/quesadillasDeQueso-paso4.jpg" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Cocinar durante 2 a 3 minutos hasta que el fondo esté dorado.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811570/ZaboraCloudy/quesadillasDeQueso-paso5.jpg" 
     }, 
     { 
       "stepOrder": 6, 
       "description": "Voltear la quesadilla y cocinar otros 2 minutos hasta que el queso esté 
 completamente derretido.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811570/ZaboraCloudy/quesadillasDeQueso-paso6.jpg" 
     }, 
     { 
       "stepOrder": 7, 
       "description": "Retirar de la sartén y cortar en triángulos antes de servir.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772811571/ZaboraCloudy/quesadillasDeQueso-paso7.jpg" 
     } 
   ] 
 }
