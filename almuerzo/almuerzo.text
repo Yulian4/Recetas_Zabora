@@ -888,49 +888,49 @@
   ],
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772843617/ZaboraCloudy/SudadoDePollo.jpg",
             "altText": "Sudado de Pollo",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/tom-kha-kai-tazon-hojas-lima-kaffir-hierba-limon-cebolla-roja-galanga-chile_7701396.htm#fromView=search&page=1&position=12&uuid=65d13bef-4f5c-4a9f-83fd-bd2f9e002391&query=Sudado+de+Pollo+Saludable"
         }],
   "steps": [
     {
       "stepOrder": 1,
       "description": "Lava y pela las papas, córtalas en mitades medianas.",
       "timeSeconds": 300,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772843613/ZaboraCloudy/SudadoDePollo-paso1.jpg"
     },
     {
       "stepOrder": 2,
       "description": "Pica finamente el tomate, la cebolla y el ajo.",
       "timeSeconds": 240,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772843613/ZaboraCloudy/SudadoDePollo-paso2.jpg"
     },
     {
       "stepOrder": 3,
       "description": "En una olla grande, agrega el aceite y sofríe cebolla y ajo durante 3 minutos.",
       "timeSeconds": 180,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772843614/ZaboraCloudy/SudadoDePollo-paso3.jpg"
     },
     {
       "stepOrder": 4,
       "description": "Añade el tomate y cocina 5 minutos hasta formar un guiso.",
       "timeSeconds": 300,
-      "imageUrl":
+      "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772843615/ZaboraCloudy/SudadoDePollo-paso4.jpg"
     },
     {
       "stepOrder": 5,
       "description": "Incorpora el pollo, las papas y el agua. Cocina tapado a fuego medio durante 30 minutos.",
       "timeSeconds": 1800,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772843615/ZaboraCloudy/SudadoDePollo-paso5.jpg"
     },
     {
       "stepOrder": 6,
       "description": "Agrega sal al gusto y cilantro fresco picado antes de servir.",
       "timeSeconds": 120,
-      "imageUrl":
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772843616/ZaboraCloudy/SudadoDePollo-paso6.jpg"
     }
   ]
 }
