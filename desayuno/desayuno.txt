@@ -583,12 +583,12 @@ un desayuno rápido, rico en proteína y muy común en muchas cocinas del mundo.
   "images": [
 {
             "id": 1,
-            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154164/ZaboraCloudy/IMAGEN%20PRINCIPAL.png",
             "altText": "Omelette Clásico",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/"
+            "licenseUrl": " https://www.freepik.es/fotos-premium/vista-alto-angulo-tortilla-servida-mesa_130565070.htm#fromView=search&page=1&position=14&uuid=3f6c1953-051c-49fc-bfc1-a62226ed26a9&query=Omelette+Cl%C3%A1sico+de+Queso"
   }
   ], 
   "steps": [ 
@@ -598,49 +598,49 @@ un desayuno rápido, rico en proteína y muy común en muchas cocinas del mundo.
 pimienta y batir con un tenedor o batidor manual durante aproximadamente 30 segundos 
 hasta que las yemas y claras estén completamente mezcladas.", 
       "timeSeconds": 90, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154153/ZaboraCloudy/1.png" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Rallar el queso mozzarella en hebras finas o cortarlo en pequeños trozos 
 para facilitar que se derrita dentro del omelette.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154156/ZaboraCloudy/2.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Calentar una sartén antiadherente a fuego medio y añadir la mantequilla. 
 Dejar que se derrita completamente y cubrir el fondo de la sartén.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154157/ZaboraCloudy/3.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Verter los huevos batidos en la sartén caliente y mover suavemente la 
 sartén para que el huevo cubra toda la superficie.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154158/ZaboraCloudy/4.png " 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Cuando el huevo empiece a cuajarse pero aún esté ligeramente húmedo 
 en la superficie, distribuir el queso sobre una mitad del omelette.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154159/ZaboraCloudy/5.png" 
     }, 
     { 
       "stepOrder": 6, 
       "description": "Doblar el omelette por la mitad con una espátula y cocinar durante 1 
 minuto adicional para que el queso se derrita completamente.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154160/ZaboraCloudy/6.png" 
     }, 
     { 
       "stepOrder": 7, 
       "description": "Retirar del fuego y servir inmediatamente acompañado de pan tostado o 
 fruta fresca.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773154162/ZaboraCloudy/7.png" 
     } 
   ] 
 } 
@@ -727,12 +727,12 @@ un desayuno rápido y nutritivo.",
   "images": [
 {
             "id": 1,
-            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773159679/ZaboraCloudy/PRINCIPALYOGUR.png",
             "altText": "Batido de Fresa",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/"
+            "licenseUrl": "https://www.freepik.es/fotos-premium/tasty-raspberry-milkshake-in-glass-and-berries-on-pink-background-closeup_426263905.htm#fromView=search&page=1&position=5&uuid=7e911813-60d0-4c09-ab64-6046eff27f54&query=Batido+de+Fresa+y+Yogur"
   }
   ], 
   "steps": [ 
@@ -740,25 +740,25 @@ un desayuno rápido y nutritivo.",
       "stepOrder": 1, 
       "description": "Lavar y retirar las hojas de las fresas.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773159675/ZaboraCloudy/1ZDSFF.png" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Colocar las fresas, el yogur, la leche y la miel en una licuadora.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773159676/ZaboraCloudy/2DSAFS.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Licuar durante 30-40 segundos hasta obtener una mezcla homogénea.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773159677/ZaboraCloudy/3ADFA.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Servir inmediatamente en vasos fríos.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773159678/ZaboraCloudy/4EWGG.png" 
     } 
   ] 
 } 
