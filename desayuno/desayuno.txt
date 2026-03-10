@@ -575,7 +575,7 @@ un desayuno rápido, rico en proteína y muy común en muchas cocinas del mundo.
   "flavorIds": [1], 
   "ingredients": [ 
     { "ingredientId": 26, "quantity": 3, "unitId": 10 }, 
-    { "ingredientId": "Queso mozzarella", "quantity": 40, "unitId": 9 }, 
+    { "ingredientId": 140, "quantity": 40, "unitId": 9 }, 
     { "ingredientId": 99, "quantity": 1, "unitId": 4 }, 
     { "ingredientId": 42, "quantity": 1, "unitId": 11 }, 
     { "ingredientId": 112, "quantity": 1, "unitId": 11 } 
