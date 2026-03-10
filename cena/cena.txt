@@ -74,7 +74,7 @@
   "categoryIds": [3],
   "flavorIds": [1],
   "ingredients": [
-    { "ingredientId": "Quinua", "quantity": 1, "unitId": 6 },
+    { "ingredientId": 139, "quantity": 1, "unitId": 6 },
     { "ingredientId": 31, "quantity": 1, "unitId": 7 },
     { "ingredientId": 50, "quantity": 1, "unitId": 10 },
     { "ingredientId": 18, "quantity": 1, "unitId": 6 },
