@@ -226,23 +226,36 @@ equilibrada.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230490/ZaboraCloudy/w9vhblkbp5fxe8fskocn.png",
             "altText": "Pollo al Horno",
             "position": 1,
             "licenseId": 1,
-            "licenseName": "sophirecetas",
-            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+            "licenseName": "Freepik",
+            "licenseUrl": "https://www.freepik.es/foto-gratis/endecha-plana-plato-pollo-asado-accion-gracias-otros-alimentos_9700215.htm#fromView=search&page=1&position=1&uuid=36ee1aeb-2343-4a56-83d8-89177838214b&query=pollito+al+horno+con+papas+y+zanahoria"
         }], 
   "steps": [ 
-    { "stepOrder": 1, "description": "Precalentar el horno a 200°C.", "timeSeconds": 300, 
-"imageUrl": null }, 
-    { "stepOrder": 2, "description": "Sazonar el pollo con ajo, sal, pimienta y romero.", 
-"timeSeconds": 120, "imageUrl": null }, 
-    { "stepOrder": 3, "description": "Cortar papa y zanahoria en trozos y mezclar con aceite, 
-sal y pimienta.", "timeSeconds": 180, "imageUrl": null }, 
-    { "stepOrder": 4, "description": "Colocar el pollo y las verduras en una bandeja y hornear 
-35-40 minutos hasta dorar.", "timeSeconds": 2400, "imageUrl": null }, 
-{ "stepOrder": 5, "description": "Servir caliente.", "timeSeconds": 60, "imageUrl": null } 
+    { "stepOrder": 1, 
+      "description": "Precalentar el horno a 200°C.", 
+      "timeSeconds": 300, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230491/ZaboraCloudy/ocaagof8q8yqxm5q2tof.png" }, 
+    { "stepOrder": 2, 
+      "description": "Sazonar el pollo con ajo, sal, pimienta y romero.", 
+      "timeSeconds": 120, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230493/ZaboraCloudy/c5zdjfdiwr6ghlitwr2s.png" }, 
+    { "stepOrder": 3, 
+      "description": "Cortar papa y zanahoria en trozos y mezclar con aceite, 
+sal y pimienta.", 
+      "timeSeconds": 180, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230496/ZaboraCloudy/zu5eqxteoubxptzdrmig.png" }, 
+    { "stepOrder": 4, 
+      "description": "Colocar el pollo y las verduras en una bandeja y hornear 
+35-40 minutos hasta dorar.", 
+      "timeSeconds": 2400,  
+      "imageUrl": null }, { 
+      "stepOrder": 5,  
+      "description": "Servir caliente.", 
+      "timeSeconds": 60, 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230497/ZaboraCloudy/lm67hwrtahzyj6vdstfx.png" } 
 ] 
 }
 ***********************************************************************************************************************************
@@ -270,46 +283,46 @@ salsa de tomate. Ideal para una cena ligera y nutritiva.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235921/ZaboraCloudy/iob0vnwvtwetniwhdbrr.png",
             "altText": "Lasaña de Verduras",
             "position": 1,
             "licenseId": 1,
             "licenseName": "sophirecetas",
-            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/lasagna-clasica-salsa-bolognese_6963567.htm#fromView=search&page=1&position=1&uuid=817e5b3a-bbda-476e-a1f0-63d362462c98&query=lasa%C3%B1a+de+verduras "
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Lavar y cortar berenjena, calabacín y pimiento en láminas finas.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235586/ZaboraCloudy/wnc5xssbrrf89bp3kano.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Saltear las verduras en una sartén con aceite de oliva durante 5 minutos. 
 Sazonar con sal y pimienta.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235589/ZaboraCloudy/t0id7qy0r9wvoyjq8wzx.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "En un recipiente para horno, colocar una capa de pasta, una capa de 
 verduras, salsa de tomate y queso. Repetir hasta terminar los ingredientes.", 
       "timeSeconds": 420, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235592/ZaboraCloudy/zxobw8ux86z3hfenzbql.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Hornear a 180°C durante 30 minutos hasta que el queso se derrita y la 
 lasaña esté dorada.", 
       "timeSeconds": 1800, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235595/ZaboraCloudy/eyxurhdefngh6ybimgj4.png"
     }, 
     { 
       "stepOrder": 5, 
       "description": "Retirar del horno, dejar reposar 5 minutos y servir caliente.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235595/ZaboraCloudy/eyxurhdefngh6ybimgj4.png"
     } 
   ] 
 } 
@@ -336,43 +349,43 @@ en proteínas y muy sabrosa.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237046/ZaboraCloudy/z8eaezjumlarxq1otteg.png",
             "altText": "Filete de Res",
             "position": 1,
             "licenseId": 1,
             "licenseName": "sophirecetas",
-            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/filete-pollo-salsa-pimientos_1248366.htm#fromView=search&page=1&position=2&uuid=b4a33b23-7d08-46ee-8bf6-1fde854d3982&query=filete+en+salsa+de+champi%C3%B1ones"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Sazonar los filetes de res con sal y pimienta.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237049/ZaboraCloudy/tmgnks9335laqzkikvdc.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Calentar aceite y mantequilla en sartén y sellar los filetes a fuego medio-alto 3-4 minutos por cada lado.", 
       "timeSeconds": 480, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237051/ZaboraCloudy/neguvzkokd1rq0q349jc.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Saltear los champiñones y ajo picado en la misma sartén hasta dorar.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237054/ZaboraCloudy/rcfihohjmexns6yayxb0.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Colocar los filetes en platos y cubrir con los champiñones salteados.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237057/ZaboraCloudy/fkiasgauc6q7vnym2kkd.png"
     }, 
     { 
       "stepOrder": 5, 
       "description": "Servir inmediatamente acompañado de ensalada verde o vegetales al vapor.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237059/ZaboraCloudy/cisu7lqrekhonhmyfuk2.png"
     } 
   ] 
 } 
