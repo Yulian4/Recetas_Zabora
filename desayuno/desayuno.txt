@@ -764,7 +764,7 @@ un desayuno rápido y nutritivo.",
 } 
 ****************************************************************************************************************************
 ****************************************************************************************************************************
-
+NUEVA RECETA
 { 
   "title": "Arepa con Mantequilla y Queso", 
   "shortDescription": "Desayuno colombiano sencillo compuesto por arepa caliente con 
@@ -782,50 +782,50 @@ mantequilla y queso fresco derretido. Muy común en hogares colombianos.",
   ], 
   "images": [{
             "id": 1,
-            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230920/ZaboraCloudy/1PRINCIPALEJRIWEJFS.png",
             "altText": "Arepa con Mantequilla",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/"
+            "licenseUrl": "https://www.freepik.es/fotos-premium/arepas-comida-tipica-colombia-venezuela-hechas-harina-maiz_34729440.htm#fromView=search&page=1&position=5&uuid=6b970589-f659-4948-99b6-94c57ede04e2&query=Arepa+con+Mantequilla+y+Queso"
   }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Calentar una sartén a fuego medio y colocar las arepas.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230921/ZaboraCloudy/1SADSF.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Cocinar las arepas durante 3 a 4 minutos por cada lado hasta que estén 
 doradas.", 
       "timeSeconds": 480, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230922/ZaboraCloudy/2SAFGG.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Untar mantequilla sobre la superficie caliente de las arepas.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230923/ZaboraCloudy/3UJITUU.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Agregar queso fresco rallado o en láminas encima para que se derrita 
 ligeramente.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230924/ZaboraCloudy/4ERYR.png"
     }, 
     { 
       "stepOrder": 5, 
       "description": "Servir caliente acompañado de café o chocolate.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773230925/ZaboraCloudy/5WE4U.png"
     } 
   ] 
 } 
 ****************************************************************************************************************************
-****************************************************************************************************************************
+**************************************************************************************************************************** RECETA NUEVA
 { 
   "title": "Avena Caliente con Manzana y Canela", 
   "shortDescription": "Avena cremosa cocinada con leche, trozos de manzana y un toque de 
@@ -845,37 +845,37 @@ canela. Desayuno saludable y energético.",
   ], 
   "images": [{
             "id": 1,
-            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235647/ZaboraCloudy/PRINCIP11MIEL.png",
             "altText": "Avena Caliente",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/gachas-avena-tazon-rodajas-manzana-roja-miel-vista-superior_5896345.htm#fromView=search&page=1&position=8&uuid=67b174b6-6136-428e-908c-9607b99317e9&query=Avena+Caliente+con+Manzana+y+Canela"
   }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Pelar y cortar la manzana en pequeños cubos.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235642/ZaboraCloudy/1GFPGSF.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Colocar la leche en una olla y llevar a fuego medio.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235643/ZaboraCloudy/2LPFD.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Agregar la avena y la manzana y cocinar revolviendo constantemente.", 
       "timeSeconds": 420, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235644/ZaboraCloudy/3QWGFD.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Añadir canela y miel y mezclar bien.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773235645/ZaboraCloudy/4XWQW.png"
     }, 
     { 
       "stepOrder": 5, 
@@ -886,7 +886,7 @@ canela. Desayuno saludable y energético.",
   ] 
 }
 ****************************************************************************************************************************
-****************************************************************************************************************************
+**************************************************************************************************************************** RECETA NUEVA
 { 
   "title": "Sandwich de Huevo y Queso", 
   "shortDescription": "Sándwich caliente de huevo frito con queso derretido en pan tostado. 
@@ -905,43 +905,43 @@ Ideal para un desayuno rápido.",
   ], 
   "images": [{
             "id": 1,
-            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237074/ZaboraCloudy/PRINCIPALHUEVSW.png",
             "altText": "Sandwich de Huevo",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/sandwich-desayuno-elaborado-pan-huevo-frito-jamon-lechuga_10310733.htm#fromView=search&page=1&position=15&uuid=3f2f080f-7210-4243-8b42-74cc49db8597&query=Sandwich+de+Huevo+y+Queso+Agregar+queso+encima+y+cubrir+con+otra+rebanada+de+pan"
   }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Tostar ligeramente el pan en una sartén con mantequilla.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237066/ZaboraCloudy/1PLCVW.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Freír los huevos en otra sartén hasta que estén cocidos.", 
       "timeSeconds": 240, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237068/ZaboraCloudy/2BMWF.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Colocar el huevo sobre una rebanada de pan.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237070/ZaboraCloudy/3VQWO.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Agregar queso encima y cubrir con otra rebanada de pan.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237071/ZaboraCloudy/4L%C3%91VPQA.png"
     }, 
     { 
       "stepOrder": 5, 
       "description": "Calentar el sándwich en la sartén hasta que el queso se derrita.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237072/ZaboraCloudy/5CVWQAF.png"
     } 
   ] 
 } 
