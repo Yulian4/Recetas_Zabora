@@ -947,6 +947,7 @@ Ideal para un desayuno rápido.",
 } 
 ****************************************************************************************************************************
 ****************************************************************************************************************************
+RECETA TERMINADA
 { 
   "title": "Arepa con Aguacate", 
   "shortDescription": "Desayuno sencillo y nutritivo de arepa caliente con rodajas de 
@@ -965,37 +966,38 @@ aguacate fresco y sal. Muy común en hogares colombianos.",
   ], 
   "images": [{
             "id": 1,
-            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772112067/ZaboraCloudy/Calentado%20Paisa.jpg",
+            "imageUrl":"https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773241746/ZaboraCloudy/PRINCIPALAGUACATE.png",
             "altText": "Arepa con Aguacate",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/"
+            "licenseUrl": "https://enrilemoine.com/2016/11/10/arepa-reina-pepiada-pollo-aguacate/
+"
   }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Calentar las arepas en una sartén con mantequilla a fuego medio.", 
       "timeSeconds": 240, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773241740/ZaboraCloudy/1VLDFGE.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Cortar el aguacate en rodajas delgadas.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773241741/ZaboraCloudy/2FSDGE.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Colocar las rodajas de aguacate sobre la arepa caliente.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773241743/ZaboraCloudy/3EGFDB.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Agregar sal al gusto y servir inmediatamente.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773241745/ZaboraCloudy/4ASGBGE.png"
     } 
   ] 
 } 
