@@ -764,7 +764,7 @@ un desayuno rápido y nutritivo.",
 } 
 ****************************************************************************************************************************
 ****************************************************************************************************************************
-NUEVA RECETA
+
 { 
   "title": "Arepa con Mantequilla y Queso", 
   "shortDescription": "Desayuno colombiano sencillo compuesto por arepa caliente con 
@@ -825,7 +825,7 @@ ligeramente.",
   ] 
 } 
 ****************************************************************************************************************************
-**************************************************************************************************************************** RECETA NUEVA
+**************************************************************************************************************************** 
 { 
   "title": "Avena Caliente con Manzana y Canela", 
   "shortDescription": "Avena cremosa cocinada con leche, trozos de manzana y un toque de 
@@ -881,12 +881,12 @@ canela. Desayuno saludable y energético.",
       "stepOrder": 5, 
       "description": "Servir caliente.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773237072/ZaboraCloudy/5CVWQAF.png" 
     } 
   ] 
 }
 ****************************************************************************************************************************
-**************************************************************************************************************************** RECETA NUEVA
+****************************************************************************************************************************
 { 
   "title": "Sandwich de Huevo y Queso", 
   "shortDescription": "Sándwich caliente de huevo frito con queso derretido en pan tostado. 
