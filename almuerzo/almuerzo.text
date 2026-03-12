@@ -935,7 +935,7 @@
   ]
 }
 ******************************************************************************************************************************
-******************************************************************************************************************************
+******************************************************************************************************************************NUEVAAAA
 { 
   "title": "Espaguetis con Salsa de Tomate", 
   "shortDescription": "Pasta italiana clásica acompañada de una salsa de tomate sencilla con 
@@ -956,7 +956,7 @@ ajo y aceite de oliva.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247361/ZaboraCloudy/PRINCIPAespaguet.png",
             "altText": "Espaguetis con Salsa",
             "position": 1,
             "licenseId": 1,
@@ -968,45 +968,45 @@ ajo y aceite de oliva.",
       "stepOrder": 1, 
       "description": "Hervir agua en una olla grande con una pizca de sal.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247349/ZaboraCloudy/1.png" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Agregar los espaguetis y cocinar según las instrucciones del paquete 
 (aprox. 8 a 10 minutos).", 
       "timeSeconds": 600, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247350/ZaboraCloudy/2.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Mientras tanto, picar finamente el ajo.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247352/ZaboraCloudy/3.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Calentar el aceite de oliva en una sartén y sofreír el ajo durante 1 
 minuto.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247353/ZaboraCloudy/4.png" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Añadir el tomate triturado y cocinar a fuego medio durante 10 minutos.", 
       "timeSeconds": 600, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247355/ZaboraCloudy/5.png" 
     }, 
     { 
       "stepOrder": 6, 
       "description": "Escurrir la pasta y mezclarla con la salsa.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247356/ZaboraCloudy/6.png" 
     }, 
     { 
       "stepOrder": 7, 
       "description": "Servir con queso parmesano rallado encima.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1773247359/ZaboraCloudy/7.png" 
     } 
   ] 
 }
