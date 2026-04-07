@@ -1012,6 +1012,8 @@ minuto.",
 }
 ******************************************************************************************************************************
 ******************************************************************************************************************************
+//=========================NUEVA=============================
+// Solo agregue img que ya estaban
 
 { 
   "title": "Ensalada de Pollo con Vegetales", 
@@ -1034,7 +1036,7 @@ aderezo ligero. Ideal para un almuerzo saludable.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757492/ZaboraCloudy/EnsaladaDePollo.jpg",
             "altText": "Ensalada de Pollo ",
             "position": 1,
             "licenseId": 1,
@@ -1046,52 +1048,52 @@ aderezo ligero. Ideal para un almuerzo saludable.",
       "stepOrder": 1, 
       "description": "Cocinar la pechuga de pollo en agua con sal durante 15 a 20 minutos.", 
       "timeSeconds": 1200, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757486/ZaboraCloudy/EnsaladaDePollo-paso1.jpg"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Dejar enfriar ligeramente y cortar el pollo en tiras o cubos.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757487/ZaboraCloudy/EnsaladaDePollo-paso2.jpg"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Lavar y cortar la lechuga en trozos medianos.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757488/ZaboraCloudy/EnsaladaDePollo-paso3.jpg"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Cortar el tomate y el pepino en rodajas o cubos.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757489/ZaboraCloudy/EnsaladaDePollo-paso4.jpg"
     }, 
     { 
       "stepOrder": 5, 
       "description": "En un recipiente grande mezclar la lechuga, el tomate, el pepino y el 
 pollo.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757490/ZaboraCloudy/EnsaladaDePollo-paso5.jpg"
     }, 
     { 
       "stepOrder": 6, 
       "description": "Preparar el aderezo mezclando el aceite de oliva, el jugo de limón y sal al 
 gusto.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757490/ZaboraCloudy/EnsaladaDePollo-paso6.jpg" 
     }, 
     { 
       "stepOrder": 7, 
       "description": "Verter el aderezo sobre la ensalada y mezclar suavemente antes de 
 servir.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772757491/ZaboraCloudy/EnsaladaDePollo-paso7.jpg"
     } 
   ] 
 } 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
-
+//===================NUEVO IMG=========================
 // pollo a la plancha con verduras 
 { 
   "title": "Pollo a la Plancha con Verduras Salteadas", 
@@ -1115,7 +1117,7 @@ acompañada de verduras salteadas como zanahoria, brócoli y pimentón.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804213/ZaboraCloudy/uc6gtcnvkj2gdiadkdvc.png",
             "altText": "Pollo a la Plancha",
             "position": 1,
             "licenseId": 1,
@@ -1128,59 +1130,59 @@ acompañada de verduras salteadas como zanahoria, brócoli y pimentón.",
       "description": "Lavar las verduras. Cortar el brócoli en pequeños ramilletes, la zanahoria 
 en rodajas finas y el pimentón en tiras delgadas.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804191/ZaboraCloudy/ggvwjfear28ezwf0y68b.png" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Pelar y picar finamente los dientes de ajo.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804192/ZaboraCloudy/go85m2knppctpwgdueyr.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Sazonar las pechugas de pollo por ambos lados con sal y pimienta.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804193/ZaboraCloudy/zfqolumpcgq0yrs1p2jh.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Calentar 1 cucharada de aceite de oliva en una sartén grande a fuego 
 medio-alto.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804194/ZaboraCloudy/d916aw9gvkxhg4howxch.png"
     }, 
     { 
       "stepOrder": 5, 
       "description": "Colocar las pechugas de pollo y cocinarlas durante 5 a 6 minutos por 
 cada lado hasta que estén doradas y completamente cocidas.", 
       "timeSeconds": 720, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804195/ZaboraCloudy/czy5s3opu3uxybm6g7px.png"
     }, 
     { 
       "stepOrder": 6, 
       "description": "En otra sartén calentar la cucharada restante de aceite y sofreír el ajo 
 durante 30 segundos.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804196/ZaboraCloudy/nhkejpuwmbm44pbq2dsx.png"
     }, 
     { 
       "stepOrder": 7, 
       "description": "Añadir las verduras y saltear durante 5 a 6 minutos hasta que estén 
 ligeramente tiernas pero aún crujientes.", 
       "timeSeconds": 360, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804201/ZaboraCloudy/gav5kwqowacjb8beqgq2.png"
     }, 
     { 
       "stepOrder": 8, 
       "description": "Servir el pollo caliente acompañado de las verduras salteadas.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1772804212/ZaboraCloudy/jrkrqlvkqxsfu6hy1o3c.png" 
     } 
   ] 
 } 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
- 
+ //=====================NUEVA============================
   {"title": "Sobrebarriga en Salsa Criolla", 
   "shortDescription": "Carne de res tierna cocida en salsa de tomate, cebolla y pimientos. 
 Acompañada de arroz blanco y patacones.", 
@@ -1204,12 +1206,12 @@ Acompañada de arroz blanco y patacones.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "",
             "altText": "Sobrebarriga",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.es/fotos-premium/vistas-superiores-plato-sopa-gulash-carne-patatas-chiles_16896856.htm#from_element=cross_selling__photo"
         }], 
   "steps": [ 
     { 
@@ -1438,3 +1440,89 @@ y pimienta. Cocinar 20-25 minutos hasta que todo esté tierno.", "timeSeconds": 
 vegano.", "timeSeconds": 60, "imageUrl": null } 
   ] 
 } 
+
+
+//======================NUEVAS RECETAS DE ALMUERZOS ================================
+//Chuleta Valluna (Chuleta de Cerdo al Estilo del Valle)
+{
+  "title": "Chuleta Valluna",
+  "shortDescription": "Clásico del Valle del Cauca: chuleta de cerdo adobada en cerveza negra y especias, frita hasta quedar crujiente. Se sirve tradicionalmente con arroz, ensalada de cebolla y tomate, patacones y un toque de hogao. No recomendable para hipertensión por el contenido de sal y fritura; para diabetes tipo 2 por el arroz y los patacones.",
+  "servings": 4,
+  "difficultyId": 2,
+  "licenseName": "recetascolombianas",
+  "licenseUrl": "https://www.recetascolombianas.com/recetas/chuleta-valluna/",
+  "categoryIds": [2],
+  "flavorIds": [1],
+  "ingredients": [
+    { "ingredientId": 152, "quantity": 4, "unitId": 10 },
+    { "ingredientId": 153, "quantity": 330, "unitId": 1 },
+    { "ingredientId": 13, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 58, "quantity": 4, "unitId": 10 },
+    { "ingredientId": 42, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 46, "quantity": 1, "unitId": 11 },
+    { "ingredientId": 87, "quantity": 1, "unitId": 3 },
+    { "ingredientId": 7, "quantity": 250, "unitId": 9 },
+    { "ingredientId": 4, "quantity": 1, "unitId": 10 },
+    { "ingredientId": 47, "quantity": 2, "unitId": 10 },
+    { "ingredientId": 3, "quantity": 500, "unitId": 1 }
+  ],
+  "images": [{
+    "id": 1,
+    "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775571485/ZaboraCloudy/u4yudl5waiwhal86bjlt.png",
+    "altText": "Chuleta Valluna",
+    "position": 1,
+    "licenseId": 1,
+    "licenseName": "Freepik",
+    "licenseUrl": "https://www.freepik.es/foto-gratis/alto-angulo-bistec-plato-cerveza-patatas-fritas_11142858.htm#fromView=search&page=1&position=0&uuid=ac8dc154-50f4-4515-8dab-388d865378c7&query=+chuleta+de+cerdo+adobada+en+cerveza+negra+y+especias%2C+frita+hasta+quedar+crujiente.+Se+sirve+tradicionalmente+con+arroz%2C+ensalada+de+cebolla+y+tomate%2C+patacones+y+un+toque+de+hogao.+No+recomendable+para+hipertensi%C3%B3n+por+el+contenido+de+sal+y+fritura%3B+para+diabetes+tipo+2+por+el+arroz+y+los+patacones"
+  }],
+  "steps": [
+    {
+      "stepOrder": 1,
+      "description": "Sazona las chuletas con sal, pimienta, comino y ajo picado. Colócalas en un recipiente hondo y cúbrelas con la cerveza negra. Deja marinar en la nevera por mínimo 2 horas (ideal 4 horas).",
+      "timeSeconds": 14400,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775571478/ZaboraCloudy/quaeq2s7zousqupzai56.png",
+      "licenseName": "Freepik",
+    "licenseUrl": "https://www.freepik.es/fotos-premium/hombre-cocinando-filetes-carne-cocina-carne-chef-sal-pimienta-sobre-fondo-madera_20466277.htm#fromView=search&page=1&position=9&uuid=8ea72b4d-d287-4c4c-aa51-eb7c6c828af3&query=sazonar+carne"
+    },
+    {
+      "stepOrder": 2,
+      "description": "Prepara el hogao: sofríe la cebolla picada en un poco de aceite, añade el tomate picado sin semillas y una pizca de sal. Cocina hasta que el tomate se deshaga. Reserva.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775571479/ZaboraCloudy/jkaju9uzjg9s0ceyzksx.png",
+      "licenseName": "Freepik",
+      "licenseUrl":"https://www.freepik.es/fotos-premium/sarten-cebolla-picada-pimiento-placa-caliente_91195473.htm#from_element=cross_selling__photo"
+    },
+    {
+      "stepOrder": 3,
+      "description": "Prepara la ensalada: mezcla cebolla cabezona fileteada, tomate en rodajas finas, cilantro picado, sal y un chorrito de vinagre o limón. Reserva.",
+      "timeSeconds": 300,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775571480/ZaboraCloudy/alqx1l8akbcgqxzwmrdd.png",
+      "licenseName": "Freepik",
+      "licenseUrl":"https://www.freepik.es/fotos-premium/cocinero-mujer-cocina-que-prepara-ensalada_4220020.htm#fromView=search&page=2&position=36&uuid=2b0d57dc-0097-48e8-bcc6-cc9015a129df&query=hacer+ensalada+de+cebolla+tomate+y+cilantro"
+    },
+    {
+      "stepOrder": 4,
+      "description": "Calienta abundante aceite en una sartén grande a fuego medio-alto. Saca las chuletas de la marinada y escúrrelas ligeramente.",
+      "timeSeconds": 120,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775571481/ZaboraCloudy/qg1rocnuaf06qoxweskk.png",
+      "licenseName": "Freepik",
+      "licenseUrl":"https://www.freepik.es/foto-gratis/chef-masculino-vertiendo-aceite-girasol-botella-sarten-estufa-preparando-liquido-freir-hacer-deliciosa-comida-gourmet-hombre-profesional-cocinando-recetas-carne-vegetales-organicos-cerca_29310746.htm#fromView=search&page=1&position=1&uuid=6634afc1-6e5d-4066-83f7-bf5ee0a5e5bd&query=sarten+con+aceite"
+    },
+    {
+      "stepOrder": 5,
+      "description": "Fríe las chuletas durante 4-5 minutos por cada lado, hasta que estén doradas y crujientes. No las sobrecargues en la sartén para que no se enfríe el aceite.",
+      "timeSeconds": 600,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775571482/ZaboraCloudy/tj7jvv8bkxrvyuj14t9e.png",
+      "licenseName": "Freepik",
+      "licenseUrl":""
+    },
+    {
+      "stepOrder": 6,
+      "description": "Retira las chuletas y colócalas sobre papel absorbente para eliminar el exceso de grasa. Sirve cada chuleta acompañada de arroz blanco, patacones, hogao y la ensalada de cebolla y tomate.",
+      "timeSeconds": 180,
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775571484/ZaboraCloudy/jf5pbl9qp06zonupijqh.png",
+      "licenseName": "Gemini",
+      "licenseUrl":"IA"
+    }
+  ]
+}
