@@ -678,7 +678,7 @@ completamente derretido.",
 
 ***********************************************************************************************************************************
 ***********************************************************************************************************************************
-
+//==========================NUEVA===================
 { 
   "title": "Sopa Casera de Verduras", 
   "shortDescription": "Sopa ligera preparada con zanahoria, papa, cebolla y apio. Ideal para 
@@ -700,7 +700,7 @@ una cena caliente y nutritiva.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741209/ZaboraCloudy/ouiykhlv00cr8didkwlv.png",
             "altText": "Quesadillas de Queso",
             "position": 1,
             "licenseId": 1,
@@ -712,44 +712,44 @@ una cena caliente y nutritiva.",
       "stepOrder": 1, 
       "description": "Lavar y pelar las zanahorias y las papas.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741198/ZaboraCloudy/p391qmi4abbyqkrofhmh.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Cortar las zanahorias, papas, apio y cebolla en cubos medianos.", 
       "timeSeconds": 240, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741200/ZaboraCloudy/xuktsn4faa9dqbox6003.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Calentar el aceite de oliva en una olla grande a fuego medio.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741201/ZaboraCloudy/qvlvitsw1zdojzhwuakw.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Agregar la cebolla y cocinar durante 2 minutos hasta que esté 
 transparente.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741203/ZaboraCloudy/ytfbncohqx8wahstauoo.png" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Añadir el resto de las verduras y mezclar bien.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741204/ZaboraCloudy/sieemjvlab4w3dqjhjem.png"
     }, 
     { 
       "stepOrder": 6, 
       "description": "Agregar el agua y la sal. Cocinar a fuego medio durante 20 minutos.", 
       "timeSeconds": 1200, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741206/ZaboraCloudy/sryy6hb9ipz5bbmxomcd.png" 
     }, 
     { 
       "stepOrder": 7, 
       "description": "Servir caliente.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775741207/ZaboraCloudy/weiuajowdqtd8knwjgy2.png"
     } 
   ] 
 } 
@@ -828,7 +828,7 @@ servir.",
     } 
   ] 
 } 
-
+]}
 ***********************************************************************************************************************************
 ***********************************************************************************************************************************
  
