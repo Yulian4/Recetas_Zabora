@@ -623,6 +623,7 @@
 }
 ********************************************************************************************************************
 *************************************************************************************************************************
+//====================NUEVA=====================
 { 
   "title": "Yogur con Frutas Frescas", 
   "shortDescription": "Snack saludable preparado con yogur natural y frutas frescas como 
@@ -641,37 +642,37 @@ banano y fresa.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775745524/ZaboraCloudy/mn6sfbtmjnfxsnznmfzy.png",
             "altText": "Arepitas de maiz tostado",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/yogur-fresa-arandano_9955840.htm#fromView=search&page=1&position=14&uuid=fe865716-a2d5-40d7-b300-746c54e479a9&query=Yogur+con+Frutas+Frescas"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Cortar el banano en rodajas y las fresas en trozos pequeños.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775745521/ZaboraCloudy/h7qk6ledzndwswzioowc.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Colocar el yogur en un recipiente.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775745522/ZaboraCloudy/fctwdljfmnescvcrqqgo.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Añadir las frutas encima del yogur.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775745523/ZaboraCloudy/kepfhmataeryby69hzjc.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Rociar la miel sobre el yogur antes de servir.", 
       "timeSeconds": 20, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775745523/ZaboraCloudy/qmcrlxtkppclvc0yi4su.png"
     } 
   ] 
 } 
@@ -737,6 +738,7 @@ quemen.",
 }
 ********************************************************************************************************************
 *************************************************************************************************************************
+//==================NUEVA======================
 { 
   "title": "Tostadas con Aguacate", 
   "shortDescription": "Snack nutritivo preparado con pan tostado y aguacate triturado con 
@@ -755,44 +757,44 @@ limón y sal.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
-            "altText": "Arepitas de maiz tostado",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775746477/ZaboraCloudy/at1ie2w8vuqkkgjtalhe.png",
+            "altText": "Tostadas con Aguacate",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.es/foto-gratis/tostada-abierta-aguacate-rodajas-aguacate-limon-semillas-lino-semillas-sesamo-rebanadas-pan-negro-vista-superior_5949075.htm#from_element=cross_selling__photo"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Tostar las rebanadas de pan hasta que estén doradas y crujientes.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775746474/ZaboraCloudy/f1qzqzoagl36nemf71yr.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Cortar el aguacate por la mitad, retirar la semilla y sacar la pulpa con una 
 cuchara.", 
       "timeSeconds": 90, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775746475/ZaboraCloudy/pffcy9kqcluxal10iugi.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Colocar el aguacate en un recipiente y triturarlo con un tenedor.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775746865/ZaboraCloudy/e2gn8x22bntuabcywn78.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Añadir jugo de limón, sal y pimienta al gusto y mezclar bien.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775746476/ZaboraCloudy/u21uuwrjryttxvsgsujx.png" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Untar la mezcla de aguacate sobre las tostadas y servir inmediatamente.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775746476/ZaboraCloudy/u21uuwrjryttxvsgsujx.png"
     } 
   ] 
 } 
