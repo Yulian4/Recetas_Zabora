@@ -391,7 +391,7 @@ en proteínas y muy sabrosa.",
 } 
 ***********************************************************************************************************************************
 ***********************************************************************************************************************************
-
+//=========================000NUEVA========================
 { 
   "title": "Crema de Champiñones", 
   "shortDescription": "Sopa cremosa de champiñones con cebolla, ajo y un toque de crema 
@@ -413,7 +413,7 @@ de leche. Cena ligera y reconfortante.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1774023844/ZaboraCloudy/s9ztbj7ldbchummolnff.png",
             "altText": "Crema de Champiñones",
             "position": 1,
             "licenseId": 1,
@@ -422,20 +422,20 @@ de leche. Cena ligera y reconfortante.",
         }], 
   "steps": [ 
     { "stepOrder": 1, "description": "Saltear cebolla y ajo en aceite hasta dorar.", 
-"timeSeconds": 180, "imageUrl": null }, 
+"timeSeconds": 180, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775693866/ZaboraCloudy/ornmdkjqmwkqmhubooa3.png" }, 
     { "stepOrder": 2, "description": "Agregar champiñones y cocinar 5 minutos.", 
-"timeSeconds": 300, "imageUrl": null }, 
+"timeSeconds": 300, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1774023840/ZaboraCloudy/anyzndqefh5za4uzrlin.png" }, 
     { "stepOrder": 3, "description": "Verter caldo de verduras y cocinar 10 minutos.", 
-"timeSeconds": 600, "imageUrl": null }, 
+"timeSeconds": 600, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1774023841/ZaboraCloudy/wuzhcxabzfbdr2ghf2ep.png" }, 
     { "stepOrder": 4, "description": "Licuar la mezcla hasta obtener textura cremosa.", 
-"timeSeconds": 180, "imageUrl": null }, 
+"timeSeconds": 180, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1774023842/ZaboraCloudy/rrlhyja0pskgtsqkysqw.png" }, 
     { "stepOrder": 5, "description": "Agregar crema de leche, sal y pimienta. Servir caliente.", 
-"timeSeconds": 120, "imageUrl": null } 
+"timeSeconds": 120, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1774023843/ZaboraCloudy/vqwmb011thupk91otgg8.png" } 
   ] 
 } 
 ***********************************************************************************************************************************
 ***********************************************************************************************************************************
-
+======================NUEVA=====================
 { 
   "title": "Omelette de Espinaca y Queso", 
   "shortDescription": "Omelette nutritivo preparado con huevos, espinaca fresca y queso. Es 
@@ -455,71 +455,73 @@ una cena ligera y rica en proteínas.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775699658/ZaboraCloudy/ujdldjkik1qb4snqgsiz.png",
             "altText": "Omelette de Espinaca",
             "position": 1,
             "licenseId": 1,
             "licenseName": "sophirecetas",
-            "licenseUrl": "https://www.tiktok.com/@sophirecetas/video/7313700498186456326"
+            "licenseUrl": "https://www.freepik.com/free-photo/eggs-with-spinach-greens-spices-side-view_7652187.htm#fromView=search&page=1&position=1&uuid=17a58e2d-7820-456e-b995-4a3353cd4c7e&query=Omelette+de+Espinaca+y+Queso"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Lavar bien las hojas de espinaca y picarlas en trozos pequeños.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772217556/ZaboraCloudy/om7reclnk3x3unmp08xo.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Romper los huevos en un recipiente y batirlos durante 30 segundos hasta 
 que estén bien mezclados.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771711153/ZaboraCloudy/gyilb1zmpsm3vwg4vodf.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Agregar una pizca de sal y pimienta a los huevos batidos.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771711154/ZaboraCloudy/xdm7k86dcnvzmepql6qr.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Calentar la mantequilla en una sartén antiadherente a fuego medio.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775699654/ZaboraCloudy/nc6xz36kaolznapujvtf.png"
     }, 
     { 
       "stepOrder": 5, 
       "description": "Añadir la espinaca y cocinar durante 1 minuto hasta que se reduzca 
 ligeramente.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775699655/ZaboraCloudy/jbor6zgphj4xbjhm2vgb.png" 
     }, 
     { 
       "stepOrder": 6, 
       "description": "Verter los huevos batidos sobre la espinaca.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775699656/ZaboraCloudy/ge5uxy4hj69slm26tvvr.png"
     }, 
     { 
       "stepOrder": 7, 
       "description": "Cuando el huevo comience a cuajar, añadir el queso rallado sobre una 
 mitad del omelette.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775699656/ZaboraCloudy/oriogxkwy0prcx4xjfui.png"
+
     }, 
     { 
       "stepOrder": 8, 
       "description": "Doblar el omelette por la mitad y cocinar 1 minuto adicional antes de 
 servir.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775699657/ZaboraCloudy/r42pqpw7lfhxogwki2kv.png"
     } 
   ] 
 }
 
 ***********************************************************************************************************************************
 ***********************************************************************************************************************************
+//=============================NUEVA=====================
 { 
   "title": "Arroz Salteado con Verduras", 
   "shortDescription": "Arroz salteado estilo asiático preparado con verduras frescas, ajo y 
@@ -543,7 +545,7 @@ cocido.",
   ], 
   "images":  [{
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1771725007/ZaboraCloudy/tamal.jpg",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775701126/ZaboraCloudy/cwwrh6mezrsenbwzejgj.png",
             "altText": "Arroz Salteado",
             "position": 1,
             "licenseId": 1,
@@ -556,46 +558,46 @@ cocido.",
       "description": "Pelar la zanahoria y cortarla en cubos pequeños. Picar la cebolla larga en 
 rodajas finas y el ajo en trozos muy pequeños.", 
       "timeSeconds": 240, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775701120/ZaboraCloudy/auifml6g51n0imtbqfik.png" 
     }, 
     { 
       "stepOrder": 2, 
       "description": "Calentar el aceite vegetal en un sartén grande o wok a fuego medio-alto.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804194/ZaboraCloudy/d916aw9gvkxhg4howxch.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Agregar el ajo y la cebolla larga y sofreír durante aproximadamente 1 
 minuto hasta que liberen aroma.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772804196/ZaboraCloudy/nhkejpuwmbm44pbq2dsx.png"
     }, 
     { 
       "stepOrder": 4, 
       "description": "Añadir la zanahoria y las arvejas y cocinar durante 3 a 4 minutos hasta 
 que comiencen a ablandarse.", 
       "timeSeconds": 240, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775701124/ZaboraCloudy/hyfnvuvx0lhug1oty3sj.png" 
     }, 
     { 
       "stepOrder": 5, 
       "description": "Incorporar el arroz cocido y mezclar bien con las verduras.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775701122/ZaboraCloudy/ubkezoaxmx4ktkyydkcn.png"
     }, 
     { 
       "stepOrder": 6, 
       "description": "Agregar la salsa de soya y una pizca de sal. Mezclar continuamente 
 durante 3 minutos.", 
       "timeSeconds": 180, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775701123/ZaboraCloudy/oxpbvmkzknkqelxhmatb.png"
     }, 
     { 
       "stepOrder": 7, 
       "description": "Servir caliente como plato principal o acompañado de pollo o huevo.", 
       "timeSeconds": 30, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775701124/ZaboraCloudy/hyfnvuvx0lhug1oty3sj.png"
     } 
   ] 
 }
