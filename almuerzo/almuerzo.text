@@ -1206,7 +1206,7 @@ Acompañada de arroz blanco y patacones.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775688604/ZaboraCloudy/fiveancdtwy53nnt7ii5.png",
             "altText": "Sobrebarriga",
             "position": 1,
             "licenseId": 1,
@@ -1219,32 +1219,33 @@ Acompañada de arroz blanco y patacones.",
       "description": "Hervir la sobrebarriga en agua con sal y pimienta hasta que esté tierna 
 (aprox. 1 hora).", 
       "timeSeconds": 3600, 
-      "imageUrl": null 
+      "imageUrl":  "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775688601/ZaboraCloudy/xosgmqunr5gdjzgzertq.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Licuar tomate, pimiento y ajo. Saltear en sartén con aceite y comino 5 
 minutos.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775688601/ZaboraCloudy/xosgmqunr5gdjzgzertq.png"
     }, 
     { 
       "stepOrder": 3, 
       "description": "Agregar la carne cocida a la salsa y cocinar 10 minutos más.", 
       "timeSeconds": 600, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775688602/ZaboraCloudy/w0fuk32di7vlyfq6htj2.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Servir caliente acompañado de arroz blanco y patacones.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775688603/ZaboraCloudy/sswe2jfz1rrblap6wqu2.png"
     } 
   ] 
 } 
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
+//=====================NUEVA====================================
 { 
   "title": "Arroz Atollado con Pollo y Chorizo", 
   "shortDescription": "Plato típico del Valle del Cauca. Arroz cremoso cocinado con pollo, 
@@ -1270,43 +1271,45 @@ chorizo, verduras y especias.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775691339/ZaboraCloudy/ob81quvkvwarrbnlutmp.png",
             "altText": "Arroz Atollado",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.com/premium-photo/pan-food-with-bowl-rice-plate-food-with-bowl-rice-lemon_244943325.htm#from_element=cross_selling__photo"
         }], 
   "steps": [ 
     { 
       "stepOrder": 1, 
       "description": "Cortar pollo, chorizo y verduras en cubos. Saltear en aceite 5 minutos.", 
       "timeSeconds": 300, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775691336/ZaboraCloudy/bikrjjfhx8zzeooenshr.png"
     }, 
     { 
       "stepOrder": 2, 
       "description": "Agregar arroz y sofreír 2 minutos junto con las verduras.", 
       "timeSeconds": 120, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/q_auto/f_auto/v1775691337/ZaboraCloudy/xfgwajalaat9cn8pdcdr.png" 
     }, 
     { 
       "stepOrder": 3, 
       "description": "Añadir caldo de pollo, sal y pimienta. Cocinar a fuego bajo hasta que el 
 arroz esté tierno y cremoso.", 
       "timeSeconds": 1200, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775691338/ZaboraCloudy/pk08ypmspvq0bhyab7qj.png" 
     }, 
     { 
       "stepOrder": 4, 
       "description": "Servir caliente acompañado de ensalada fresca.", 
       "timeSeconds": 60, 
-      "imageUrl": null 
+      "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775691339/ZaboraCloudy/tknqihyeaftonweqh39k.png"
     } 
   ] 
 } 
  ******************************************************************************************************************************
 ******************************************************************************************************************************
+//======================0NUEVA============================
+
 { 
   "title": "Arroz de Coco con Pescado", 
   "shortDescription": "Arroz cocido en leche de coco acompañado de filete de pescado frito. 
@@ -1329,7 +1332,7 @@ Plato típico de la costa caribeña.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775693869/ZaboraCloudy/rokv0fw6mjnqethfsvjm.png",
             "altText": "Arroz de Coco",
             "position": 1,
             "licenseId": 1,
@@ -1337,19 +1340,30 @@ Plato típico de la costa caribeña.",
             "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
         }], 
   "steps": [ 
-    { "stepOrder": 1, "description": "Saltear cebolla y ajo en aceite.", "timeSeconds": 180, 
-"imageUrl": null }, 
-    { "stepOrder": 2, "description": "Agregar arroz y leche de coco, cocinar a fuego bajo hasta 
-que el arroz esté tierno.", "timeSeconds": 1200, "imageUrl": null }, 
-    { "stepOrder": 3, "description": "Freír el pescado hasta dorar y sazonar con sal y 
-pimienta.", "timeSeconds": 600, "imageUrl": null }, 
-    { "stepOrder": 4, "description": "Servir el arroz acompañado del pescado.", "timeSeconds": 
-60, "imageUrl": null } 
+    { "stepOrder": 1, 
+    "description": "Saltear cebolla y ajo en aceite.", 
+    "timeSeconds": 180, 
+"imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775693866/ZaboraCloudy/ornmdkjqmwkqmhubooa3.png" }, 
+
+    { "stepOrder": 2, 
+    "description": "Agregar arroz y leche de coco, cocinar a fuego bajo hasta que el arroz esté tierno.", 
+"timeSeconds": 1200, 
+"imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775693867/ZaboraCloudy/c4r1opukyu6rzuzqkkvp.png" }, 
+
+    { "stepOrder": 3, 
+    "description": "Freír el pescado hasta dorar y sazonar con sal y pimienta.",
+ "timeSeconds": 600, 
+ "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775693867/ZaboraCloudy/a7ezyivbww0nreua1wrd.png" }, 
+    { "stepOrder": 4, 
+    "description": "Servir el arroz acompañado del pescado.", 
+    "timeSeconds": 60,
+     "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775693868/ZaboraCloudy/paeskyfusocvbjjtak7s.png" } 
   ] 
 } 
  
 ******************************************************************************************************************************
 ******************************************************************************************************************************
+//=====================NUEVA==============================================0
 { 
   "title": "Sudado de Carne", 
   "shortDescription": "Guiso de carne con papa, zanahoria y mazorca, cocido lentamente en 
@@ -1374,27 +1388,28 @@ jugo de tomate y especias.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775696206/ZaboraCloudy/t6ll9esnwihmdosd3bx8.png",
             "altText": "Sudado de Carne",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.com/free-photo/delicious-goulash-ready-dinner_25178966.htm#fromView=search&page=1&position=12&uuid=35723c0e-40ca-41ad-bb18-4f742e2aab88&query=sudado+de+carne"
         }], 
   "steps": [ 
     { "stepOrder": 1, "description": "Saltear cebolla, ajo y tomate en aceite hasta formar 
-salsa.", "timeSeconds": 300, "imageUrl": null }, 
+salsa.", "timeSeconds": 300, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775696203/ZaboraCloudy/prlex9nfea3allbmjvb3.png" }, 
     { "stepOrder": 2, "description": "Agregar carne, sal y pimienta y dorar ligeramente.", 
-"timeSeconds": 300, "imageUrl": null }, 
+"timeSeconds": 300, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775696204/ZaboraCloudy/kncumxstkaary95gp7qs.png" }, 
     { "stepOrder": 3, "description": "Incorporar papa, zanahoria y mazorca, añadir agua 
 suficiente y cocinar a fuego bajo hasta que todo esté tierno.", "timeSeconds": 1200, 
-"imageUrl": null }, 
+"imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775696205/ZaboraCloudy/bamp0r87c4p3dsz46kje.png" }, 
     { "stepOrder": 4, "description": "Servir caliente acompañado de arroz blanco.", 
-"timeSeconds": 60, "imageUrl": null } 
+"timeSeconds": 60, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775696205/ZaboraCloudy/bm4te4fthantowximqxk.png" } 
   ] 
 } 
  ******************************************************************************************************************************
 ******************************************************************************************************************************
+//========================NUEVA===================================0
 { 
   "title": "Guiso de Garbanzos y Vegetales", 
   "shortDescription": "Garbanzos cocidos con tomate, zanahoria, papa y pimientos. Plato 
@@ -1421,23 +1436,23 @@ vegano, nutritivo y lleno de sabor.",
   ], 
   "images":  [  {
             "id": 1,
-            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1772114474/ZaboraCloudy/qoyxpqz2ovmovamaf21x.png",
+            "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775697224/ZaboraCloudy/yl5hkfrmumxits58cq0g.png",
             "altText": "Guiso de Garbanzos",
             "position": 1,
             "licenseId": 1,
             "licenseName": "Freepik",
-            "licenseUrl": "https://www.freepik.es/foto-gratis/vista-superior-arreglo-comida-deliciosa_10699016.htm#fromView=search&page=1&position=1&uuid=266a5c7a-686d-4384-9dc0-b3ccf671dab2&query=arepita+de+mini+maiz+tostado"
+            "licenseUrl": "https://www.freepik.com/premium-ai-image/chickpeas-soup-with-vegetables-bowl-wooden-table_302892114.htm#fromView=search&page=1&position=14&uuid=c9889101-39b5-40d2-87ad-be64d22f0226&query=Guiso+de+Garbanzos+y+Vegetales"
         }], 
   "steps": [ 
     { "stepOrder": 1, "description": "Saltear cebolla, ajo y pimiento en aceite hasta dorar.", 
-"timeSeconds": 180, "imageUrl": null }, 
+"timeSeconds": 180, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775696203/ZaboraCloudy/prlex9nfea3allbmjvb3.png"}, 
     { "stepOrder": 2, "description": "Agregar tomate, zanahoria y papa. Cocinar 5 minutos.", 
-"timeSeconds": 300, "imageUrl": null }, 
+"timeSeconds": 300, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775697221/ZaboraCloudy/a5dukvc273q7qgzm5syg.png" }, 
     { "stepOrder": 3, "description": "Añadir garbanzos cocidos, caldo de verduras, comino, sal 
 y pimienta. Cocinar 20-25 minutos hasta que todo esté tierno.", "timeSeconds": 1500, 
-"imageUrl": null }, 
+"imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775697222/ZaboraCloudy/nixnqcelqejgylkouejn.png" }, 
     { "stepOrder": 4, "description": "Servir caliente acompañado de arroz integral o pan 
-vegano.", "timeSeconds": 60, "imageUrl": null } 
+vegano.", "timeSeconds": 60, "imageUrl": "https://res.cloudinary.com/dxxkkxrd1/image/upload/v1775697223/ZaboraCloudy/umcb5cgmv1qneuy4wc07.png"} 
   ] 
 } 
 
